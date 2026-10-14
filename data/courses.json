@@ -406,7 +406,7 @@
    "https://api.opengolfapi.org/api/v1/courses/4c28d9a0-abaa-4e1a-a582-1a570bef540a",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 19,
   "gd_state_name": "Aspen Glen Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -789,7 +789,7 @@
    "https://api.opengolfapi.org/api/v1/courses/06660cc7-4f1d-49ab-a32b-e5d6e3ccc0c8",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 1,
   "gd_state_name": "Ballyneal Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -1165,7 +1165,7 @@
    "https://api.opengolfapi.org/api/v1/courses/f4de3e0a-a5b4-410a-9fe6-cda84522abb4",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 17,
   "gd_state_name": "Bear Creek Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -2069,7 +2069,7 @@
    "https://api.opengolfapi.org/api/v1/courses/77575158-c647-49ea-90f4-83434c47b736",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 26,
   "gd_state_name": "Eisenhower Golf Club: Blue",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -3329,7 +3329,7 @@
    "https://api.opengolfapi.org/api/v1/courses/58433f71-2c0e-4b35-a10c-fe1c7c07856b",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 2,
   "gd_state_name": "Castle Pines Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -3952,7 +3952,7 @@
    "https://api.opengolfapi.org/api/v1/courses/72ebbc92-3832-40cd-a321-0ce7feb2a273",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 28,
   "gd_state_name": "Cherry Creek Country Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -4093,7 +4093,7 @@
    "https://courses.opengolfapi.org/courses/CO/rip-arnold-at-cherry-hills-country-club",
    "https://api.opengolfapi.org/api/v1/courses/d5a4a213-7d6e-4e60-912d-62b68ce3f9fe"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 3,
   "gd_state_name": "Cherry Hills Country Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -4777,7 +4777,7 @@
    "https://api.opengolfapi.org/api/v1/courses/efd61474-152c-457d-bcfc-e14b34ba610c",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 4,
   "gd_state_name": "Colorado Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -5190,7 +5190,7 @@
    "https://api.opengolfapi.org/api/v1/courses/36fbe786-3749-4fa9-97ff-a00ebbf7a8c4",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 29,
   "gd_state_name": "Columbine Country Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -6114,7 +6114,7 @@
    "https://api.opengolfapi.org/api/v1/courses/6acfec2a-505c-4edf-b578-c9599c4ef69d",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 21,
   "gd_state_name": "The Country Club At Castle Pines",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -6219,7 +6219,7 @@
    "https://api.opengolfapi.org/api/v1/courses/a3376a13-8ce3-4559-b256-7292e3b4f4bc",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 10,
   "gd_state_name": "Country Club of the Rockies",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -6881,7 +6881,7 @@
    "https://api.opengolfapi.org/api/v1/courses/61875a52-a31e-4bb3-a549-49d362583dc1",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 13,
   "gd_state_name": "Denver Country Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -8027,7 +8027,7 @@
    "https://courses.opengolfapi.org/courses/CO/the-broadmoor-golf-courses",
    "https://api.opengolfapi.org/api/v1/courses/abbc65c5-55a6-4bb0-84c7-c50f8e1933e7"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 6,
   "gd_state_name": "The Broadmoor Golf Club East Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -9870,7 +9870,7 @@
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://www.golfnow.com/courses/1504610-fossil-details"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 30,
   "gd_state_name": "Fossil Trace Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -10267,7 +10267,7 @@
    "https://api.opengolfapi.org/api/v1/courses/c8daaf5a-a33b-49c9-853e-e57e999f8be8",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 12,
   "gd_state_name": "Frost Creek Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -15710,7 +15710,7 @@
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://www.golfnow.com/courses/1027951-keystone-ranch-golf-course-details"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 24,
   "gd_state_name": "Keystone Ranch Golf Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -17620,7 +17620,7 @@
    "https://api.opengolfapi.org/api/v1/courses/c83faf36-8ef2-46d7-9fb1-35af67001982",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 5,
   "gd_state_name": "Maroon Creek Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -21944,7 +21944,7 @@
    "https://api.opengolfapi.org/api/v1/courses/8ea1189b-78de-499b-b06b-e3ff4a4e8823",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 22,
   "gd_state_name": "RainDance National Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -22533,7 +22533,7 @@
    "https://api.opengolfapi.org/api/v1/courses/e33b9957-aed4-48ca-a7c9-f206d3476863",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 9,
   "gd_state_name": "Red Sky Ranch & Golf Club Fazio Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -22688,7 +22688,7 @@
    "https://courses.opengolfapi.org/courses/CO/red-sky-ranch-golf-club-greg-norman-course",
    "https://api.opengolfapi.org/api/v1/courses/2fd38ec6-09eb-4a09-a623-138357983def"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 11,
   "gd_state_name": "Red Sky Ranch & Golf Club Norman Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -23552,7 +23552,7 @@
    "https://api.opengolfapi.org/api/v1/courses/6ed61926-83d2-400b-8ec7-4ca73aba7022",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 8,
   "gd_state_name": "Roaring Fork Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -26758,7 +26758,7 @@
    "https://api.opengolfapi.org/api/v1/courses/9c7154cf-fd96-45d8-8ce0-b1b22c9051f8",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 23,
   "gd_state_name": "The Club At Flying Horse Weiskopf Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -26888,7 +26888,7 @@
    "https://api.opengolfapi.org/api/v1/courses/39c46a3c-4666-49e3-916f-21a58f5727a2",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 20,
   "gd_state_name": "The Club at Flying Horse: Phil Smith",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -27185,7 +27185,7 @@
    "https://api.opengolfapi.org/api/v1/courses/143daa0b-8933-4c04-9795-787b73c9c206",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 15,
   "gd_state_name": "The Club At Ravenna",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -27746,7 +27746,7 @@
    "https://api.opengolfapi.org/api/v1/courses/36d5cc03-f337-4fc8-b245-25f3640d3d8f",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 27,
   "gd_state_name": "The Golf Club at Bear Dance",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -27844,7 +27844,7 @@
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://www.golfnow.com/courses/1505533-the-golf-club-at-redlands-mesa-details"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 18,
   "gd_state_name": "Redlands Mesa Golf Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -28537,7 +28537,7 @@
    "https://api.opengolfapi.org/api/v1/courses/a44d859b-2d85-4253-8b6d-b06ed374c71e",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 25,
   "gd_state_name": "The Ridge at Castle Pines North",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -28778,7 +28778,7 @@
    "https://api.opengolfapi.org/api/v1/courses/abff0548-a3ba-4e6f-9f68-62a6290716b5",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 7,
   "gd_state_name": "Sanctuary Golf Club",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -29281,7 +29281,7 @@
    "https://api.opengolfapi.org/api/v1/courses/43c3a4e2-b921-4d92-a2a8-bf49b0dfa38c",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 14,
   "gd_state_name": "TPC Colorado",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
@@ -30866,7 +30866,7 @@
    "https://api.opengolfapi.org/api/v1/courses/ecc8cfdf-daca-4721-bfc1-83e474b2416e",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
   ],
-  "gd_state_rank": null,
+  "gd_state_rank": 16,
   "gd_state_name": "The Broadmoor Golf Club West Course",
   "gd_state_edition": "2025-26",
   "gd_state_source": "https://www.golfdigest.com/courses/guides/colorado-best-golf-courses-rankings",
