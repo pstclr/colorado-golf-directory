@@ -1,0 +1,114 @@
+{
+ "courses": {
+  "d70cbfe6-9acf-4c69-bff4-39d87cccbdd5": {
+   "name": "Estes Park Golf Course",
+   "path": "images/courses/d70cbfe6.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:11th hole at Estes Park Golf Course.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:11th_hole_at_Estes_Park_Golf_Course.jpg",
+   "author": "Laymans Hall",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "36d5cc03-f337-4fc8-b245-25f3640d3d8f": {
+   "name": "The Golf Club At Bear Dance",
+   "path": "images/courses/36d5cc03.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:A green and the winding cart trail at the Golf Club at Bear Dance, a bucolic public golf club spread over several wooded courses near Larkspur in Douglas County, Colorado LCCN2015633439.tif",
+   "source_url": "https://commons.wikimedia.org/wiki/File:A_green_and_the_winding_cart_trail_at_the_Golf_Club_at_Bear_Dance,_a_bucolic_public_golf_club_spread_over_several_wooded_courses_near_Larkspur_in_Douglas_County,_Colorado_LCCN2015633439.tif",
+   "author": "Carol M. Highsmith",
+   "license": "Public domain",
+   "license_url": null
+  },
+  "347406b3-d597-49a9-b1e1-50c4c0b4df08": {
+   "name": "East At Broadmoor Golf Club",
+   "path": "images/courses/347406b3.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:Broadmoor Golf Course (30182932188).jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Broadmoor_Golf_Course_(30182932188).jpg",
+   "author": "PEO ACWA",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "4878476c-c132-4a32-b3ab-2895accf565f": {
+   "name": "Denver City Park Golf Course",
+   "path": "images/courses/4878476c.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:Mount Evans and Denver skyline from City Park Golf Course.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg",
+   "author": "David Herrera",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "c75dbc89-9db0-44b6-9010-001925030956": {
+   "name": "Deer Creek Golf Club At Meadow Ranch",
+   "path": "images/courses/c75dbc89.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:DeerCreekGolfClub.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:DeerCreekGolfClub.jpg",
+   "author": "Xnatedawgx",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "5de3a89a-10d1-473f-a166-180bc3146e52": {
+   "name": "Cedar Ridges Golf Course",
+   "path": "images/courses/5de3a89a.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:Dinosaur Diamond Prehistoric Highway - A Golf Course in Rangely - NARA - 7718054.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Dinosaur_Diamond_Prehistoric_Highway_-_A_Golf_Course_in_Rangely_-_NARA_-_7718054.jpg",
+   "author": "Greg Gnesios (U.S. National Archives)",
+   "license": "Public domain",
+   "license_url": null
+  },
+  "ce6892b1-22e7-4666-b8ab-f7f303be3efc": {
+   "name": "Fossil Trace Golf Club",
+   "path": "images/courses/ce6892b1.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:Fossil Trace Golf Course (Golden, Colorado, USA) 4.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Fossil_Trace_Golf_Course_(Golden,_Colorado,_USA)_4.jpg",
+   "author": "James St. John",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "e9e32c19-f696-41b5-9438-508a5b68c7b9": {
+   "name": "The Raven Golf Club At Three Peaks",
+   "path": "images/courses/e9e32c19.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:Golf in the mountains.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Golf_in_the_mountains.jpg",
+   "author": "Ndebel",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "9659c89d-4754-484d-a319-c3bf25ab2d1d": {
+   "name": "Red Rocks Country Club",
+   "path": "images/courses/9659c89d.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:RRCC 16GREEN.jpg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:RRCC_16GREEN.jpg",
+   "author": "Tdog46",
+   "license": "Public domain",
+   "license_url": null
+  },
+  "70246878-0c4f-4615-9f98-8f62d9010c98": {
+   "name": "Dalton Ranch Golf Club",
+   "path": "images/courses/70246878.webp",
+   "source": "Wikimedia Commons",
+   "file": "File:The Dalton Ranch Golf Club in Durango, Colorado LCCN2015632933.tif",
+   "source_url": "https://commons.wikimedia.org/wiki/File:The_Dalton_Ranch_Golf_Club_in_Durango,_Colorado_LCCN2015632933.tif",
+   "author": "Carol M. Highsmith",
+   "license": "Public domain",
+   "license_url": null
+  }
+ },
+ "banner": {
+  "path": "images/banner.webp",
+  "subject": "13th green, Estes Park Golf Course, Estes Park, CO",
+  "source": "Wikimedia Commons",
+  "file": "File:13th hole at Estes Park Golf Course from the green.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:13th_hole_at_Estes_Park_Golf_Course_from_the_green.jpg",
+  "author": "Laymans Hall",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+ }
+}
