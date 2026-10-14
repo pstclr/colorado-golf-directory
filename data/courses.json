@@ -120,7 +120,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Rick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "4253b656-424f-4b58-8d9a-5fe10a3f0e0f",
@@ -195,7 +201,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/451/search",
   "golfnow_name": "Applewood Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/451-applewood-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/451-applewood-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "f7d79594-81e8-4111-84b1-f056328c3285",
@@ -295,7 +302,21 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones Sr.",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones"
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Jr.",
+    null
+   ]
+  ]
  },
  {
   "id": "4c28d9a0-abaa-4e1a-a582-1a570bef540a",
@@ -392,7 +413,21 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Nicklaus II",
+    null
+   ]
+  ]
  },
  {
   "id": "1a8b38dc-5ac2-462f-bfdf-41772d4ca426",
@@ -531,7 +566,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3146/search",
   "golfnow_name": "Aspen Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3146-aspen-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3146-aspen-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "8eae2b5d-5bce-448c-bc41-15a6afc8df22",
@@ -645,7 +681,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "06660cc7-4f1d-49ab-a32b-e5d6e3ccc0c8",
@@ -751,7 +793,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "788da5b9-0013-4d07-8a2b-94515bc1e20e",
@@ -800,7 +843,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "bcedbc98-4e9a-4645-978f-1cea45cb8a4f",
@@ -931,7 +975,21 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3483/search",
   "golfnow_name": "Battlement Mesa Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3483-battlement-mesa-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3483-battlement-mesa-golf-course/search",
+  "architect_parts": [
+   [
+    "Finger Dye Spann",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Inc.",
+    null
+   ]
+  ]
  },
  {
   "id": "ad51e866-c3a2-4d2b-8e19-efa22c277d2d",
@@ -1022,7 +1080,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
   "golfnow_name": "Breckenridge Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search",
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "f4de3e0a-a5b4-410a-9fe6-cda84522abb4",
@@ -1101,7 +1165,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "2d043ba3-8021-4aed-ae30-3ca86bb894b4",
@@ -1192,7 +1257,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
   "golfnow_name": "Breckenridge Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search",
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "5ad3eae5-67b2-42f4-9efd-bcc75fbdd3a4",
@@ -1296,7 +1367,13 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6208/search",
   "golfnow_name": "Beaver Creek Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6208-beaver-creek-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6208-beaver-creek-golf-club/search",
+  "architect_parts": [
+   [
+    "Robert Trent Jones, Jr.",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones_Jr."
+   ]
+  ]
  },
  {
   "id": "349a451b-f12f-4c8d-81e8-5aa49b43de81",
@@ -1407,7 +1484,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Art Schaupeter",
+    null
+   ]
+  ]
  },
  {
   "id": "eb0eef07-f436-49f5-9dd9-f4334c185477",
@@ -1500,7 +1583,8 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/12183/search",
   "golfnow_name": "Bella Rosa Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/12183-bella-rosa-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/12183-bella-rosa-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "0b2fc747-a75e-4eda-9a2f-8988909bb3ab",
@@ -1631,7 +1715,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jeffrey D. Brauer",
+    null
+   ]
+  ]
  },
  {
   "id": "f8629d9f-d5bb-4216-a7eb-2e8912e0ae50",
@@ -1727,7 +1817,21 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/10413/search",
   "golfnow_name": "Black Canyon Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/10413-black-canyon-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/10413-black-canyon-golf-course/search",
+  "architect_parts": [
+   [
+    "Joe Francese",
+    null
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Byron Coker",
+    null
+   ]
+  ]
  },
  {
   "id": "79e4e830-d0dd-474e-aacf-9a47624c676c",
@@ -1866,7 +1970,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jay Morrish",
+    "https://en.wikipedia.org/wiki/Jay_Morrish"
+   ]
+  ]
  },
  {
   "id": "77575158-c647-49ea-90f4-83434c47b736",
@@ -1951,7 +2061,13 @@
   "type_raw": "Military",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones Sr.",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones"
+   ]
+  ]
  },
  {
   "id": "89d2a9b1-1b11-4c8e-8d31-7e06fe18d452",
@@ -2033,7 +2149,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "99b69756-da2d-43a3-9f90-63722ce332de",
@@ -2121,7 +2238,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3541/search",
   "golfnow_name": "Boomerang Golf Links",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3541-boomerang-golf-links/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3541-boomerang-golf-links/search",
+  "architect_parts": null
  },
  {
   "id": "b49caef8-a839-47c9-892a-8629939570d7",
@@ -2202,7 +2320,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "16405e65-c391-453a-a09a-3758e13e9f78",
@@ -2267,7 +2386,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "d22bea55-5e0c-4b88-b341-bff5fce04706",
@@ -2364,7 +2484,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones, Jr.",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones_Jr."
+   ]
+  ]
  },
  {
   "id": "55627a34-65c8-44fe-b438-7db5c3588feb",
@@ -2488,7 +2614,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1413/search",
   "golfnow_name": "The Broadlands Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1413-the-broadlands-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1413-the-broadlands-golf-course/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "751367c1-2031-4615-936d-8536e6eaeeed",
@@ -2543,7 +2675,21 @@
   "type_raw": "private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Donald J. Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "0d7662dc-1e98-488c-82c9-086658efbfd4",
@@ -2643,7 +2789,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "c69e8718-2205-4718-9d8d-1d0dfe26bbbe",
@@ -2727,7 +2874,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "da4b6bf3-9f08-46b5-b1a6-2d6944711b07",
@@ -2850,7 +2998,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Keith R. Foster",
+    null
+   ]
+  ]
  },
  {
   "id": "30659b9f-5ade-4c22-8e9d-ebc6084a005e",
@@ -2956,7 +3110,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "DENIS GRIFFITHS",
+    null
+   ]
+  ]
  },
  {
   "id": "58433f71-2c0e-4b35-a10c-fe1c7c07856b",
@@ -3149,7 +3309,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "df4ca7b0-f0fa-4ee5-adba-9494c8a66a07",
@@ -3228,7 +3394,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "a785f9e4-a453-4c7e-bc4e-f539f7dc008f",
@@ -3310,7 +3477,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "5de3a89a-10d1-473f-a166-180bc3146e52",
@@ -3391,7 +3559,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Frank Hummel",
+    null
+   ]
+  ]
  },
  {
   "id": "0bbe5a45-3fbf-4451-ac50-5bd1ae18a39d",
@@ -3474,7 +3648,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "6ce09187-7d6f-4ebc-a485-ebd20b4bc51d",
@@ -3548,7 +3723,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "da51520e-0368-4f1f-a2ff-e6ed4fb405eb",
@@ -3619,7 +3795,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "72ebbc92-3832-40cd-a321-0ce7feb2a273",
@@ -3742,7 +3919,29 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Jack Nicklaus, Jr.",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Chris Cochran",
+    null
+   ]
+  ]
  },
  {
   "id": "c015e78f-d391-4908-91cf-66a87bedfc6e",
@@ -3864,7 +4063,13 @@
   ],
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "William Flynn",
+    "https://en.wikipedia.org/wiki/William_Flynn_%28golfer%29"
+   ]
+  ]
  },
  {
   "id": "b9bf3bdb-0af0-4390-9fac-04ffb34188fa",
@@ -3941,7 +4146,21 @@
   "type_raw": "Military/Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Richard M. Phelps",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "61bf2243-b9f8-4e8c-9c73-2f330967e223",
@@ -4022,7 +4241,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Wilson Golf Group",
+    null
+   ]
+  ]
  },
  {
   "id": "a6f80e17-48c1-4d0c-b5c0-ce6b31b14f22",
@@ -4106,7 +4331,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/9917/search",
   "golfnow_name": "City Park Nine Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9917-city-park-nine-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9917-city-park-nine-golf-course/search",
+  "architect_parts": [
+   [
+    "Fort Collins Golf Association",
+    null
+   ]
+  ]
  },
  {
   "id": "f11d0d1a-fe01-43f4-8de4-32886ccd3a8c",
@@ -4223,7 +4454,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/9333/search",
   "golfnow_name": "Coal Creek",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9333-coal-creek/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9333-coal-creek/search",
+  "architect_parts": null
  },
  {
   "id": "36c45ab9-974a-46f9-b662-203fdcf4cef6",
@@ -4306,7 +4538,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "69203b95-ec6a-413e-8806-ba2064b8ee72",
@@ -4407,7 +4640,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/9915/search",
   "golfnow_name": "Collindale Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9915-collindale-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9915-collindale-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "efd61474-152c-457d-bcfc-e14b34ba610c",
@@ -4502,7 +4736,21 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Coore",
+    null
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Crenshaw",
+    null
+   ]
+  ]
  },
  {
   "id": "413d30b9-1384-4408-b89a-5322698f7f7e",
@@ -4557,7 +4805,21 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Coore",
+    null
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Crenshaw",
+    null
+   ]
+  ]
  },
  {
   "id": "db18bece-fceb-4527-adee-36772fc16c17",
@@ -4673,7 +4935,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jay Morrish",
+    "https://en.wikipedia.org/wiki/Jay_Morrish"
+   ]
+  ]
  },
  {
   "id": "0d2bf55e-418c-48b8-97b2-2a0a2da612a6",
@@ -4770,7 +5038,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "36fbe786-3749-4fa9-97ff-a00ebbf7a8c4",
@@ -4876,7 +5145,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "ffe9e623-0e52-41c0-88b6-45e182b8ccc6",
@@ -4950,7 +5220,8 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "98b3c724-0a1f-41e3-a629-243a7f50f4ba",
@@ -5088,7 +5359,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Doak",
+    "https://en.wikipedia.org/wiki/Tom_Doak"
+   ]
+  ]
  },
  {
   "id": "a16beeba-42b4-49a1-9b91-500ba4bc966d",
@@ -5146,7 +5423,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Doak",
+    "https://en.wikipedia.org/wiki/Tom_Doak"
+   ]
+  ]
  },
  {
   "id": "15479d8e-16f4-4da7-a4f0-ad431916eb82",
@@ -5227,7 +5510,21 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "J. Press Maxwell",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "7df8c319-281a-4f13-a4f0-cedde74d4ab9",
@@ -5322,7 +5619,13 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "9b32ad31-5bb2-4685-8f40-4349968fe34b",
@@ -5420,7 +5723,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Greg Norman",
+    "https://en.wikipedia.org/wiki/Greg_Norman"
+   ]
+  ]
  },
  {
   "id": "57376846-08b2-43a7-8a63-d4082d3aa1c3",
@@ -5501,7 +5810,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Lee Terry",
+    null
+   ]
+  ]
  },
  {
   "id": "666ea458-e5b7-4975-a4bf-7a2009befc8d",
@@ -5601,7 +5916,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
   "golfnow_name": "West Woods Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "6acfec2a-505c-4edf-b578-c9599c4ef69d",
@@ -5744,7 +6060,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "a3376a13-8ce3-4559-b256-7292e3b4f4bc",
@@ -5842,7 +6164,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "0a64321a-953e-472f-94ac-4c9e8ca7926b",
@@ -5926,7 +6254,13 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Matt Eccles",
+    null
+   ]
+  ]
  },
  {
   "id": "70246878-0c4f-4615-9f98-8f62d9010c98",
@@ -6017,7 +6351,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "c75dbc89-9db0-44b6-9010-001925030956",
@@ -6121,7 +6456,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1409/search",
   "golfnow_name": "Deer Creek Golf Club At Meadow Ranch",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1409-deer-creek-golf-club-at-meadow-ranch/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1409-deer-creek-golf-club-at-meadow-ranch/search",
+  "architect_parts": null
  },
  {
   "id": "4878476c-c132-4a32-b3ab-2895accf565f",
@@ -6299,7 +6635,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1946/search",
   "golfnow_name": "City Park",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1946-city-park/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1946-city-park/search",
+  "architect_parts": null
  },
  {
   "id": "61875a52-a31e-4bb3-a549-49d362583dc1",
@@ -6466,7 +6803,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "b4e02e6d-ee54-4be0-8323-807e3b865137",
@@ -6548,7 +6886,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "4befff80-c008-48fc-9610-9f1ef0c3c95f",
@@ -6645,7 +6984,13 @@
   ],
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5635/search",
   "golfnow_name": "Desert Hawk At Pueblo West",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5635-desert-hawk-at-pueblo-west/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5635-desert-hawk-at-pueblo-west/search",
+  "architect_parts": [
+   [
+    "John Bulla",
+    null
+   ]
+  ]
  },
  {
   "id": "778ba3af-b15d-4938-89e5-f28f6162fb6a",
@@ -6761,7 +7106,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6124/search",
   "golfnow_name": "Devil's Thumb Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6124-devils-thumb-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6124-devils-thumb-golf-course/search",
+  "architect_parts": [
+   [
+    "Rick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "c103b76b-d35f-46d0-8a7e-1c719ae44092",
@@ -6856,7 +7207,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "e7ee527a-324b-4948-98fc-d15f638a1751",
@@ -6985,7 +7337,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "37dea466-f5b4-4864-9ed0-948fb52d3476",
@@ -7048,7 +7401,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "31aff9a5-c394-4f3d-8b2f-8f2fba4c97e4",
@@ -7165,7 +7519,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3097/search",
   "golfnow_name": "Eagle Ranch",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3097-eagle-ranch/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3097-eagle-ranch/search",
+  "architect_parts": [
+   [
+    "Arnold Palmer",
+    "https://en.wikipedia.org/wiki/Arnold_Palmer"
+   ]
+  ]
  },
  {
   "id": "8404004e-5af2-4deb-a31d-caf129803258",
@@ -7252,7 +7612,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "6cd21e45-0acb-4b56-a917-bc23db51abec",
@@ -7343,7 +7704,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2610/search",
   "golfnow_name": "Eagle Trace Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2610-eagle-trace-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2610-eagle-trace-golf-club/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "3b588326-572a-4fe8-8f21-229f2b068709",
@@ -7474,7 +7841,21 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3346/search",
   "golfnow_name": "Eagle Vail Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3346-eagle-vail-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3346-eagle-vail-golf-course/search",
+  "architect_parts": [
+   [
+    "Devlin",
+    null
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Von Hagge",
+    "https://en.wikipedia.org/wiki/Robert_von_Hagge"
+   ]
+  ]
  },
  {
   "id": "347406b3-d597-49a9-b1e1-50c4c0b4df08",
@@ -7560,7 +7941,13 @@
   ],
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "bc827f6e-dfeb-4e6c-b7ee-65867d293e4e",
@@ -7651,7 +8038,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Frank Boxberger",
+    null
+   ]
+  ]
  },
  {
   "id": "2767af88-8043-45d5-9ae9-048f05184e12",
@@ -7784,7 +8177,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "63dbabe1-9279-496b-b761-4f08dd4dc604",
@@ -7877,7 +8271,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5525/search",
   "golfnow_name": "South Suburban Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5525-south-suburban-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5525-south-suburban-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "13d3ff63-c1e7-4feb-b290-38ea658d840f",
@@ -7968,7 +8363,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
   "golfnow_name": "Breckenridge Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3147-breckenridge-golf-club/search",
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "161a65ef-da32-43ef-b005-5186985c5ced",
@@ -8053,7 +8454,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "490a0bf2-3f0b-41c8-9d77-d7764b58a596",
@@ -8114,7 +8516,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "48d1f7fe-e01d-4519-b928-25bde9426c54",
@@ -8181,7 +8584,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "d70cbfe6-9acf-4c69-bff4-39d87cccbdd5",
@@ -8364,7 +8768,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1799/search",
   "golfnow_name": "Estes Park Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1799-estes-park-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1799-estes-park-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "e8c1f28f-c40e-409a-a3fa-d5d3c4c98532",
@@ -8467,7 +8872,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/14331/search",
   "golfnow_name": "Evergreen Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/14331-evergreen-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/14331-evergreen-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "2651612a-a3f6-461e-a765-146c3582d389",
@@ -8519,7 +8925,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
   "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search",
+  "architect_parts": null
  },
  {
   "id": "a7589cfe-cc5f-47ac-9fe2-3b1ab82ec6db",
@@ -8574,7 +8981,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9431c05e-2633-4fd2-8eca-df4df4f5e7ea",
@@ -8620,7 +9028,8 @@
   "type_raw": "",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "272d8380-00cf-448f-b21d-19722cbabec3",
@@ -8752,7 +9161,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5644/search",
   "golfnow_name": "Flatirons Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5644-flatirons-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5644-flatirons-golf-course/search",
+  "architect_parts": [
+   [
+    "William H. Tucker",
+    null
+   ]
+  ]
  },
  {
   "id": "a3610ec5-3840-4e53-96bd-1c6f1db76dc2",
@@ -8833,7 +9248,13 @@
   ],
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
   "golfnow_name": "Foothills Golf Course - Foothills 1 Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "ded364a7-2608-4163-9200-f3177a1295ca",
@@ -8949,7 +9370,21 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
   "golfnow_name": "Foothills Golf Course - Foothills 1 Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search",
+  "architect_parts": [
+   [
+    "Richard M. Phelps",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "02b43dce-878d-407f-b881-3ee3c5cd5e67",
@@ -9009,7 +9444,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
   "golfnow_name": "Foothills Golf Course - Foothills 1 Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6826-foothills-golf-course-foothills-1-course/search",
+  "architect_parts": null
  },
  {
   "id": "9f15666d-2637-48d5-8d7e-79a39a3c2caf",
@@ -9170,7 +9606,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "ce6892b1-22e7-4666-b8ab-f7f303be3efc",
@@ -9309,7 +9751,13 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1433/search",
   "golfnow_name": "Fossil",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1433-fossil/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1433-fossil/search",
+  "architect_parts": [
+   [
+    "Jim Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "911b6896-50ef-4aa4-baac-1edf890725f0",
@@ -9454,7 +9902,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "aa754303-5c3b-4a38-97ad-9ad221425ea8",
@@ -9554,7 +10003,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Frank Hummel",
+    null
+   ]
+  ]
  },
  {
   "id": "c8daaf5a-a33b-49c9-853e-e57e999f8be8",
@@ -9684,7 +10139,13 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Weiskopf",
+    "https://en.wikipedia.org/wiki/Tom_Weiskopf"
+   ]
+  ]
  },
  {
   "id": "d12e5e20-38cd-4ef8-bd02-5533a2fccd25",
@@ -9774,7 +10235,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "64d61cd0-12e0-448f-bce9-79b6dc6950cf",
@@ -9865,7 +10327,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "5fe355c9-159d-424c-a149-a02f7677f0c6",
@@ -9956,7 +10419,13 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ]
+  ]
  },
  {
   "id": "48a62a8b-a0bb-4197-9ffb-0bfea68d36a3",
@@ -10061,7 +10530,21 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Hale Irwin",
+    "https://en.wikipedia.org/wiki/Hale_Irwin"
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Todd Schoeder",
+    null
+   ]
+  ]
  },
  {
   "id": "5b7d7ce4-ab72-4a15-89b5-7ec8e685e9db",
@@ -10167,7 +10650,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "d2c8ec24-2297-433b-ab11-4154f6948275",
@@ -10321,7 +10805,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "ec147fb1-6938-4e66-8fb0-1f396bee9a97",
@@ -10444,7 +10929,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry B. Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "dca1a58a-e557-4897-a4de-4f8be7fdb485",
@@ -10566,7 +11057,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "f188a84f-075f-4315-bb4c-e2e1d2ea9d2c",
@@ -10696,7 +11188,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "30758bd0-5d0b-4d2d-9ba3-93b9f46882fa",
@@ -10804,7 +11302,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1898/search",
   "golfnow_name": "Headwaters",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1898-headwaters/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1898-headwaters/search",
+  "architect_parts": null
  },
  {
   "id": "c46b5061-8465-47e6-a5d6-f2656610f0be",
@@ -10910,7 +11409,21 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Craig Stadler",
+    "https://en.wikipedia.org/wiki/Craig_Stadler"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Tripp Davis",
+    null
+   ]
+  ]
  },
  {
   "id": "2912cd7f-6ec2-4b9e-b2e3-5402af417e94",
@@ -11018,7 +11531,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1896/search",
   "golfnow_name": "Grand Lake",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1896-grand-lake/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1896-grand-lake/search",
+  "architect_parts": null
  },
  {
   "id": "2a11b67a-3b29-4ddf-a960-e96e5bc46c4d",
@@ -11097,7 +11611,21 @@
   "type_raw": "Public/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Weiskopf",
+    "https://en.wikipedia.org/wiki/Tom_Weiskopf"
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Jay Morrish",
+    "https://en.wikipedia.org/wiki/Jay_Morrish"
+   ]
+  ]
  },
  {
   "id": "57d96267-c0a8-413a-98e0-6a70e4e96f5b",
@@ -11188,7 +11716,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "73d5431c-9b24-4ad3-8300-a14377484d41",
@@ -11361,7 +11890,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/517/search",
   "golfnow_name": "Green Valley Ranch Golf Club - Green Valley Ranch Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/517-green-valley-ranch-golf-club-green-valley-ranch-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/517-green-valley-ranch-golf-club-green-valley-ranch-course/search",
+  "architect_parts": [
+   [
+    "Perry Dye",
+    null
+   ]
+  ]
  },
  {
   "id": "a83f7d0c-5332-4b1e-bf03-a535fd6437c0",
@@ -11426,7 +11961,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9b4a7f70-331c-4743-8fff-07189481220a",
@@ -11491,7 +12027,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "f5700022-6a95-48fe-a2e9-cb56582b9711",
@@ -11584,7 +12121,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
   "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search",
+  "architect_parts": null
  },
  {
   "id": "9132335e-79ae-4eb2-9d7a-c31eb00d0321",
@@ -11690,7 +12228,13 @@
   ],
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
   "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search",
+  "architect_parts": [
+   [
+    "Frank Hummel",
+    null
+   ]
+  ]
  },
  {
   "id": "1ed2fdc5-d0a3-4fe8-96cd-a85bf1dd6efa",
@@ -11751,7 +12295,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
   "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search",
+  "architect_parts": null
  },
  {
   "id": "76d69b50-8c6d-455a-b7e5-11ee0c972dc1",
@@ -11812,7 +12357,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
   "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1412-the-greg-mastriana-golf-courses-at-hyland-hills/search",
+  "architect_parts": null
  },
  {
   "id": "3c5b104f-954e-49a8-96d2-fbe5087a1fdc",
@@ -11920,7 +12466,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3534/search",
   "golfnow_name": "Gypsum Creek Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3534-gypsum-creek-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3534-gypsum-creek-golf-club/search",
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "c31f5355-ed37-4f14-a828-1ac157b61a57",
@@ -12023,7 +12575,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "James J. Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "c0a9675a-50d5-46fa-8500-59f370bf35ab",
@@ -12085,7 +12643,13 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/14332/search",
   "golfnow_name": "Harvard Gulch Par3 Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/14332-harvard-gulch-par3-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/14332-harvard-gulch-par3-golf-course/search",
+  "architect_parts": [
+   [
+    "Ray Hill",
+    null
+   ]
+  ]
  },
  {
   "id": "7e397b9a-17d3-4dd3-9751-2c2b47ed0b21",
@@ -12217,7 +12781,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6196/search",
   "golfnow_name": "Haymaker Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6196-haymaker-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6196-haymaker-golf-course/search",
+  "architect_parts": [
+   [
+    "Keith Foster",
+    null
+   ]
+  ]
  },
  {
   "id": "dc8762eb-15f0-4ec6-bd7d-b08d183fe5b7",
@@ -12284,7 +12854,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Ebel Family",
+    null
+   ]
+  ]
  },
  {
   "id": "4d987476-f556-4672-b531-8f5336642f56",
@@ -12358,7 +12934,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "a80b52d7-ad25-412c-a0de-0a4b27b79a89",
@@ -12496,7 +13073,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Arthur Hills",
+    "https://en.wikipedia.org/wiki/Arthur_Hills"
+   ]
+  ]
  },
  {
   "id": "18283081-0b92-4a89-bd6a-b54799037634",
@@ -12584,7 +13167,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3542/search",
   "golfnow_name": "Highland Hills Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3542-highland-hills-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3542-highland-hills-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "3e2b9e02-c833-4335-a201-2bbec814b6ce",
@@ -12690,7 +13274,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "7e920086-00ac-4e62-bb58-3585f08537ea",
@@ -12774,7 +13359,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Hale Irwin",
+    "https://en.wikipedia.org/wiki/Hale_Irwin"
+   ]
+  ]
  },
  {
   "id": "1c024fa8-8f21-4f22-953e-b8391453e0cd",
@@ -12922,7 +13513,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "4fad4a10-7442-481d-8ce7-646e1e08b972",
@@ -13073,7 +13665,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "2be42955-6029-415c-8658-50011bba853a",
@@ -13163,7 +13756,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Frank Hummel",
+    null
+   ]
+  ]
  },
  {
   "id": "8213f80d-c41b-469b-97f0-458b9c37815d",
@@ -13236,7 +13835,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "04d08f7a-ff7b-462f-9cac-a46a70bb7a9c",
@@ -13307,7 +13907,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "72e760f3-f5f3-496f-9c57-1902b7a0b7e3",
@@ -13362,7 +13963,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "8eb56f94-75c0-4c82-8694-506c82d79bd1",
@@ -13435,7 +14037,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "a87ef10c-9c90-40f3-b1ae-337934afea9b",
@@ -13569,7 +14172,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2485/search",
   "golfnow_name": "Indian Peaks Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2485-indian-peaks-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2485-indian-peaks-golf-course/search",
+  "architect_parts": [
+   [
+    "Hale Irwin",
+    "https://en.wikipedia.org/wiki/Hale_Irwin"
+   ]
+  ]
  },
  {
   "id": "a6caa464-a709-46ed-a522-b9b8870c5476",
@@ -13696,7 +14305,25 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Graham",
+    null
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Panks International",
+    null
+   ],
+   [
+    " (David Graham and Gary Panks)",
+    null
+   ]
+  ]
  },
  {
   "id": "b6e3cc13-bdb5-47a0-9fd2-25ef2b82f000",
@@ -13827,7 +14454,21 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Graham",
+    null
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Panks International",
+    null
+   ]
+  ]
  },
  {
   "id": "cc23d9cf-9d6c-46c8-a18f-890760416ee7",
@@ -13954,7 +14595,21 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Graham",
+    null
+   ],
+   [
+    " & ",
+    null
+   ],
+   [
+    "Panks International",
+    null
+   ]
+  ]
  },
  {
   "id": "8e9c2f22-6fee-4a69-abb9-8139bba13f86",
@@ -14017,7 +14672,21 @@
   "type_raw": "private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "J. Press Maxwell",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "fa2a6142-eb97-4b7a-8c72-e30f74a9c6d3",
@@ -14172,7 +14841,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Arthur Hills",
+    "https://en.wikipedia.org/wiki/Arthur_Hills"
+   ]
+  ]
  },
  {
   "id": "4ccdad04-56d0-4460-bd81-fd442a4027b5",
@@ -14315,7 +14990,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
   "golfnow_name": "John F. Kennedy Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "7148d5ca-fc25-4fd8-8e2c-abaebee67f28",
@@ -14397,7 +15073,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
   "golfnow_name": "John F. Kennedy Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "9c3c147d-8226-4668-a85b-b06087e0b7ee",
@@ -14540,7 +15217,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
   "golfnow_name": "John F. Kennedy Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "dac790ee-9fa8-4572-a33e-b855257cf0d0",
@@ -14686,7 +15364,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
   "golfnow_name": "John F. Kennedy Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1942-john-f-kennedy-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "fa84bc67-37f7-458c-aa3a-dc6817124cb0",
@@ -14743,7 +15422,13 @@
   "type_raw": "municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "dfccf81a-da7e-4c7b-bd81-d693763ba77a",
@@ -14847,7 +15532,13 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2487/search",
   "golfnow_name": "Keystone Ranch Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2487-keystone-ranch-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2487-keystone-ranch-golf-course/search",
+  "architect_parts": [
+   [
+    "Robert Trent Jones, Jr.",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones_Jr."
+   ]
+  ]
  },
  {
   "id": "13ca9b4c-6dad-4b4a-8f21-28ae564828a8",
@@ -14931,7 +15622,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1265/search",
   "golfnow_name": "King's Deer Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1265-kings-deer-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1265-kings-deer-golf-club/search",
+  "architect_parts": [
+   [
+    "Redstone Golf Group",
+    null
+   ]
+  ]
  },
  {
   "id": "f7ae312e-a761-4f84-b388-a6d971ae3f2a",
@@ -14986,7 +15683,21 @@
   "type_raw": "private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Mark Rathert",
+    null
+   ]
+  ]
  },
  {
   "id": "698f4861-060d-46ac-aea7-193b22cc7586",
@@ -15073,7 +15784,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "43df3754-f359-4701-a701-b28677ff02d8",
@@ -15172,7 +15884,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1592/search",
   "golfnow_name": "Lake Arbor Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1592-lake-arbor-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1592-lake-arbor-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "fc2d948a-91cf-4cb1-882e-88ae95f308f5",
@@ -15250,7 +15963,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "aad2778b-bbeb-4682-b001-b72b61f996a9",
@@ -15356,7 +16070,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "David Bingham",
+    null
+   ]
+  ]
  },
  {
   "id": "af5c4abf-b846-44bd-9529-1eb7e5ed1be7",
@@ -15511,7 +16231,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ]
+  ]
  },
  {
   "id": "dfef1274-e7f2-4f6d-b18a-49fc3e0fe67d",
@@ -15673,7 +16399,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "1465deba-94e0-4780-95fe-3ab69fef0d34",
@@ -15773,7 +16505,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "James Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "634769b9-5d33-429a-ae9f-d595f0278b26",
@@ -15844,7 +16582,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9c91a6ea-7fa3-428d-aec7-a94ba2b1c854",
@@ -15961,7 +16700,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1921/search",
   "golfnow_name": "Legacy Ridge Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1921-legacy-ridge-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1921-legacy-ridge-golf-course/search",
+  "architect_parts": [
+   [
+    "Arthur Hills",
+    "https://en.wikipedia.org/wiki/Arthur_Hills"
+   ]
+  ]
  },
  {
   "id": "762aa9f7-3693-4762-beda-1becc62d95fa",
@@ -16041,7 +16786,8 @@
   "type_raw": "public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/15155/search",
   "golfnow_name": "Lincoln Park Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/15155-lincoln-park-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/15155-lincoln-park-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "c1592968-ec4c-40bc-ac30-130e633f27d6",
@@ -16147,7 +16893,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Denis Griffiths",
+    null
+   ]
+  ]
  },
  {
   "id": "aec82617-e272-429f-a0f6-55859dbee857",
@@ -16233,7 +16985,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5524/search",
   "golfnow_name": "Littleton",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5524-littleton/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5524-littleton/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "272e2005-1fe9-4e95-8b77-c28079444d7c",
@@ -16327,7 +17085,13 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1576/search",
   "golfnow_name": "Lone Tree Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1576-lone-tree-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1576-lone-tree-golf-club/search",
+  "architect_parts": [
+   [
+    "Arnold Palmer",
+    "https://en.wikipedia.org/wiki/Arnold_Palmer"
+   ]
+  ]
  },
  {
   "id": "02825e91-8e31-444d-8408-d04266b3b2d3",
@@ -16422,7 +17186,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "7ad47ca2-ecd0-4bdb-91ec-c523f9843dcc",
@@ -16545,7 +17310,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1480/search",
   "golfnow_name": "Mariana Butte Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1480-mariana-butte-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1480-mariana-butte-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "c83faf36-8ef2-46d7-9fb1-35af67001982",
@@ -16658,7 +17424,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Fazio",
+    "https://en.wikipedia.org/wiki/Tom_Fazio"
+   ]
+  ]
  },
  {
   "id": "d7eef8d5-d373-4807-a9fd-baf0492db6a6",
@@ -16757,7 +17529,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Denis Griffiths",
+    null
+   ]
+  ]
  },
  {
   "id": "93e0c4da-c56b-4eb5-982b-38cb99284f6b",
@@ -16895,7 +17673,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "89449f7b-521d-4ad1-be00-d932a044aa9d",
@@ -17001,7 +17780,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Denis Griffiths",
+    null
+   ]
+  ]
  },
  {
   "id": "4dda5a5a-5589-4584-91ee-7234c37e26c3",
@@ -17061,7 +17846,29 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1793/search",
   "golfnow_name": "The Meadows Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1793-the-meadows-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1793-the-meadows-golf-club/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Brad Benz",
+    null
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Mike Poellot",
+    null
+   ]
+  ]
  },
  {
   "id": "987dd1c9-85cb-440e-9ffd-90028f37795f",
@@ -17152,7 +17959,8 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
   "golfnow_name": "Pagosa Springs Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "9a3ad58c-bb22-4fbd-906e-ce27f76573c3",
@@ -17224,7 +18032,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/17475/search",
   "golfnow_name": "Meeker Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/17475-meeker-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/17475-meeker-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "0b697057-19e9-4d17-bf8f-b8c51920f647",
@@ -17321,7 +18130,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "3699d34b-a8f8-4fc2-8227-564d261bf1d0",
@@ -17403,7 +18218,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "1ec4fd36-957b-42c4-b6cd-15f7c08f779b",
@@ -17474,7 +18290,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9d4722a2-9e9b-49f6-8b91-cb462ea2c0c9",
@@ -17556,7 +18373,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "0e60d7ba-5c5c-4dac-abeb-0947b5864ea2",
@@ -17651,7 +18469,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "67a6a5e3-f4d5-45c7-bff7-c166c80f0774",
@@ -17725,7 +18544,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5210/search",
   "golfnow_name": "Mt. Massive Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5210-mt-massive-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5210-mt-massive-golf-club/search",
+  "architect_parts": [
+   [
+    "Adolf Kuss",
+    null
+   ]
+  ]
  },
  {
   "id": "fc05b140-ceaf-4825-9420-9d96a2aef86b",
@@ -17855,7 +18680,29 @@
   "type_raw": "Semi-Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Fazio",
+    "https://en.wikipedia.org/wiki/Tom_Fazio"
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Hale Irwin",
+    "https://en.wikipedia.org/wiki/Hale_Irwin"
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "af1cf398-8983-42b2-bd45-573c79157160",
@@ -17961,7 +18808,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "David Bingham",
+    null
+   ]
+  ]
  },
  {
   "id": "5d899689-0414-42a2-bffb-21b531e5855b",
@@ -18045,7 +18898,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "8d0699a6-f9f2-431d-be05-5dea0d85c21d",
@@ -18185,7 +19039,21 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Kenneth M. Kavanaugh",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "297187fc-d9f6-48c1-958b-4eb173fb3b7a",
@@ -18254,7 +19122,21 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/5525/search",
   "golfnow_name": "South Suburban Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5525-south-suburban-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/5525-south-suburban-golf-course/search",
+  "architect_parts": [
+   [
+    "Richard M. Phelps",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "60e5a302-64b6-45a0-8b2b-a3b2eb92f903",
@@ -18368,7 +19250,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1947/search",
   "golfnow_name": "The Olde Course At Loveland",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1947-the-olde-course-at-loveland/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1947-the-olde-course-at-loveland/search",
+  "architect_parts": [
+   [
+    "Henry B. Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "142f4054-873f-48d8-b1de-cd309cfd37ef",
@@ -18519,7 +19407,13 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1940/search",
   "golfnow_name": "AllGolf At Overland",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1940-allgolf-at-overland/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1940-allgolf-at-overland/search",
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "87088a3b-5f25-44dd-97a7-2561f5bb44a9",
@@ -18578,7 +19472,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Woody Rice",
+    null
+   ]
+  ]
  },
  {
   "id": "7399a2b7-2b1f-4b1b-af43-5d2b5b598fc5",
@@ -18639,7 +19539,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "88045812-6824-42fc-8c83-76c8f099442d",
@@ -18727,7 +19628,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/494/search",
   "golfnow_name": "Park Hill Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/494-park-hill-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/494-park-hill-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "126eb82c-40e9-4241-9e84-feb8f3456825",
@@ -18814,7 +19716,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
   "golfnow_name": "Patty Jewett Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search",
+  "architect_parts": [
+   [
+    "Willie Campbell",
+    "https://en.wikipedia.org/wiki/Willie_Campbell_%28golfer%29"
+   ]
+  ]
  },
  {
   "id": "030c24bf-d5ca-4ace-a9a3-3b5b73567f75",
@@ -18901,7 +19809,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
   "golfnow_name": "Patty Jewett Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "79f01894-0677-4fd7-bb95-a9c413e23901",
@@ -18988,7 +19897,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
   "golfnow_name": "Patty Jewett Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8581-patty-jewett-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "0e074502-e840-4678-810f-8afdf79bd8ab",
@@ -19095,7 +20005,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Mike Heinz",
+    null
+   ]
+  ]
  },
  {
   "id": "8edc6d25-bcab-441e-a0bc-49f31c60bc82",
@@ -19202,7 +20118,21 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Ted Robinson",
+    "https://en.wikipedia.org/wiki/Ted_Robinson_%28golf_course_architect%29"
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "6063802b-48cb-4738-bb24-0714b916abb4",
@@ -19281,7 +20211,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "15c103da-d649-423f-9d1b-b8b7b0634017",
@@ -19410,7 +20341,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "5a61647e-0524-4d83-b883-2c393dc4b14c",
@@ -19488,7 +20425,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "0bbb068d-065c-4822-ae2c-60fc2327ef24",
@@ -19612,7 +20550,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Richard Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "44fcaea5-391c-4fa4-b3bc-88e4e2dc0c63",
@@ -19707,7 +20651,21 @@
   ],
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "feb88671-5b2b-452c-ac32-56ba3c498a92",
@@ -19816,7 +20774,13 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "D. J. DeVictor",
+    null
+   ]
+  ]
  },
  {
   "id": "b0dfada9-3e3f-47d1-877f-33d92d3ff7ca",
@@ -19907,7 +20871,8 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
   "golfnow_name": "Pagosa Springs Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "d4608fb6-f63e-4326-bf6f-106d893cf918",
@@ -19962,7 +20927,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "0b2f6ff7-e4e3-4be3-bbce-81e30d409cee",
@@ -20084,7 +21050,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "0e3bc3e9-6c15-4447-9ea7-5dbe5b3c6a41",
@@ -20175,7 +21147,8 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
   "golfnow_name": "Pagosa Springs Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11137-pagosa-springs-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "6818f066-0e63-4211-bca7-9825aa9a63cd",
@@ -20290,7 +21263,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "ee9878bb-e43a-4f3b-a0d9-4d436a0fcaac",
@@ -20379,7 +21358,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "ea0d58e7-07e9-483a-a660-57777ac3f884",
@@ -20469,7 +21454,29 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry Hughs",
+    null
+   ],
+   [
+    " (front 9)",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Frank Hummel",
+    null
+   ],
+   [
+    " (back 9)",
+    null
+   ]
+  ]
  },
  {
   "id": "30ff382e-70b4-4dac-a018-b39ed1826500",
@@ -20524,7 +21531,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "e490d44a-bc72-4ec0-abf7-b10bbd23dff6",
@@ -20632,7 +21640,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "8ea1189b-78de-499b-b06b-e3ff4a4e8823",
@@ -20691,7 +21705,21 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Fred Funk",
+    "https://en.wikipedia.org/wiki/Fred_Funk"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Harrison Minchew",
+    null
+   ]
+  ]
  },
  {
   "id": "902a9674-caaf-4631-a13b-5776b19257cf",
@@ -20758,7 +21786,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "0666138b-162f-47ec-b740-c66328ac673e",
@@ -20857,7 +21886,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Denis Griffiths",
+    null
+   ]
+  ]
  },
  {
   "id": "fcf76e75-c4c7-42e7-8856-45afa696e426",
@@ -21005,7 +22040,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9659c89d-4754-484d-a319-c3bf25ab2d1d",
@@ -21100,7 +22136,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "e33b9957-aed4-48ca-a7c9-f206d3476863",
@@ -21246,7 +22283,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Fazio",
+    "https://en.wikipedia.org/wiki/Tom_Fazio"
+   ]
+  ]
  },
  {
   "id": "a811da7b-eb9c-45c9-858c-fd56e504e0ea",
@@ -21397,7 +22440,13 @@
   ],
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Greg Norman",
+    "https://en.wikipedia.org/wiki/Greg_Norman"
+   ]
+  ]
  },
  {
   "id": "538cc823-ad43-499c-91f0-4f8911679893",
@@ -21488,7 +22537,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "3a167da7-dc8b-4f6c-b248-b671a237219b",
@@ -21587,7 +22637,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Denis Griffiths",
+    null
+   ]
+  ]
  },
  {
   "id": "292ab069-af75-439d-a3e8-bd1311defeb6",
@@ -21663,7 +22719,13 @@
   "type_raw": "Semi-Private/Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3559/search",
   "golfnow_name": "Rifle Creek Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3559-rifle-creek-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3559-rifle-creek-golf-course/search",
+  "architect_parts": [
+   [
+    "Richard M. Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "d8af3db6-698f-448c-88ed-8ffa8ceee7d8",
@@ -21746,7 +22808,8 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/4367/search",
   "golfnow_name": "Rio Grande Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4367-rio-grande-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4367-rio-grande-club/search",
+  "architect_parts": null
  },
  {
   "id": "f35bd0ae-bf9c-4b06-a059-1f8740c1cb91",
@@ -21896,7 +22959,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3114/search",
   "golfnow_name": "River Valley Ranch Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3114-river-valley-ranch-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3114-river-valley-ranch-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "97e8e50b-5b11-4857-94b5-88cdc7d97fa5",
@@ -21978,7 +23042,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "aacc33b9-aebf-4715-a3c0-e8b7ff8cb08e",
@@ -22052,7 +23122,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "9d8d5aae-f097-4751-a256-bbb673bd6a5e",
@@ -22125,7 +23201,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "6ed61926-83d2-400b-8ec7-4ca73aba7022",
@@ -22215,7 +23292,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "af711184-2754-4b1f-aff9-fc5c68f6dfec",
@@ -22278,7 +23356,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "e4ea8322-54f0-46a3-9d4e-4a1a0d9d8055",
@@ -22362,7 +23441,13 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones, II",
+    "https://en.wikipedia.org/wiki/Robert_Trent_Jones_Jr."
+   ]
+  ]
  },
  {
   "id": "952812e4-5ca7-4c27-9ebb-2ce788231c35",
@@ -22478,7 +23563,8 @@
   "type_raw": "Municipal/Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "04cc7e17-f8b3-44dd-af3d-ee247684759e",
@@ -22633,7 +23719,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1410/search",
   "golfnow_name": "Saddleback Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1410-saddleback-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1410-saddleback-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "54f18c0e-04ed-4956-b34b-7423947e02a7",
@@ -22701,7 +23788,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "22dd028c-4f55-4baa-b914-9e0adbd47a9f",
@@ -22757,7 +23845,13 @@
   "type_raw": "semi-private",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/4862/search",
   "golfnow_name": "Shadow Hills Golf & Country Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4862-shadow-hills-golf-country-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4862-shadow-hills-golf-country-club/search",
+  "architect_parts": [
+   [
+    "Keith Foster",
+    null
+   ]
+  ]
  },
  {
   "id": "b2d87a05-7dc2-45b4-86b0-62cf43614b14",
@@ -22839,7 +23933,21 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/4458/search",
   "golfnow_name": "Shining Mountain",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4458-shining-mountain/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/4458-shining-mountain/search",
+  "architect_parts": [
+   [
+    "John F. Harbottle, III",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "ASGCA",
+    null
+   ]
+  ]
  },
  {
   "id": "d66186d9-f5b2-41f0-a12e-ce8bf6be6a96",
@@ -22921,7 +24029,13 @@
   "type_raw": "Resort/Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/11386/search",
   "golfnow_name": "Cordillera,Shrt Crs",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11386-cordillerashrt-crs/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11386-cordillerashrt-crs/search",
+  "architect_parts": [
+   [
+    "Dave Pelz",
+    "https://en.wikipedia.org/wiki/Dave_Pelz"
+   ]
+  ]
  },
  {
   "id": "46633c22-60e7-461b-b01f-6d0f6e122f7a",
@@ -23021,7 +24135,8 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
   "golfnow_name": "West Woods Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search",
+  "architect_parts": null
  },
  {
   "id": "72f443c4-7865-409f-a702-88b48606f791",
@@ -23106,7 +24221,8 @@
   "type_raw": "Military",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "b0223713-510b-4f6e-b127-f4dd4911057b",
@@ -23161,7 +24277,13 @@
   "type_raw": "public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Ed Kovich",
+    null
+   ]
+  ]
  },
  {
   "id": "b3cd1477-25a3-4fc4-b6e5-91f83740599b",
@@ -23237,7 +24359,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Henry B. Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "b054420d-c2f7-41f1-93da-75275d607d99",
@@ -23337,7 +24465,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
   "golfnow_name": "West Woods Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2609-west-woods-golf-club/search",
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "2eba88c5-727b-4bbd-a198-9a206fd27e27",
@@ -23408,7 +24542,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "89406422-6835-4e96-8178-a7386d95c071",
@@ -23529,7 +24664,13 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jim Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "03065e25-3010-4ded-820e-322055f95e2f",
@@ -23643,7 +24784,13 @@
   "type_raw": "Resort",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/6090/search",
   "golfnow_name": "Sonnenalp Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6090-sonnenalp-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/6090-sonnenalp-golf-club/search",
+  "architect_parts": [
+   [
+    "Ben Krueger",
+    null
+   ]
+  ]
  },
  {
   "id": "8aa18b21-4535-41db-ac75-2583a03c2a62",
@@ -23700,7 +24847,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "931d977c-8c90-4370-a454-e4348ed1a877",
@@ -23800,7 +24948,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/9916/search",
   "golfnow_name": "Southridge Golf Club",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9916-southridge-golf-club/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/9916-southridge-golf-club/search",
+  "architect_parts": [
+   [
+    "Frank Hummel",
+    null
+   ]
+  ]
  },
  {
   "id": "dd3d480c-2b1d-4cca-acc5-ebd79c4c55b2",
@@ -23887,7 +25041,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Labron Harris",
+    "https://en.wikipedia.org/wiki/Labron_Harris"
+   ]
+  ]
  },
  {
   "id": "f2f75e15-d508-4e78-9dd7-297e352c4714",
@@ -24003,7 +25163,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "8b7ba608-c4db-4ea1-9e2b-53dc7595e6b6",
@@ -24082,7 +25243,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "2871f103-7a4c-4278-a7a6-6df0e41881b9",
@@ -24198,7 +25360,8 @@
   "type_raw": "Municipal/Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "8415e3df-8f51-47ee-bd1c-7e9c1b3ab12a",
@@ -24261,7 +25424,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "1f242e2f-e449-4358-869d-0222a95941ce",
@@ -24342,7 +25506,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "73bd9f14-f243-464d-a64e-8d4fdd1c1365",
@@ -24442,7 +25607,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "7c352233-315c-44ec-89b1-c04c172435c3",
@@ -24505,7 +25671,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "a88cf7b8-8f6e-45ab-a83a-273062efbff8",
@@ -24643,7 +25810,13 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jack Nicklaus",
+    "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+   ]
+  ]
  },
  {
   "id": "9b4214ce-953c-46ab-8311-fbed5c4a43cd",
@@ -24738,7 +25911,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Gary Player",
+    "https://en.wikipedia.org/wiki/Gary_Player"
+   ]
+  ]
  },
  {
   "id": "41483aeb-0abe-47fc-ac6d-852036a17b6b",
@@ -24813,7 +25992,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones II Group",
+    null
+   ]
+  ]
  },
  {
   "id": "0ced9f19-2dd0-4cea-a5fc-db5d6f85e198",
@@ -24881,7 +26066,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/16424/search",
   "golfnow_name": "Tamarack Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/16424-tamarack-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/16424-tamarack-golf-course/search",
+  "architect_parts": [
+   [
+    "Henry Hughes",
+    null
+   ]
+  ]
  },
  {
   "id": "9a969661-3011-4065-9859-2c0026346079",
@@ -24965,7 +26156,13 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Ken Kavanaugh",
+    null
+   ]
+  ]
  },
  {
   "id": "e708f468-1c80-4313-852a-c817bc32aad8",
@@ -25073,7 +26270,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Nicklaus",
+    null
+   ]
+  ]
  },
  {
   "id": "ceefdc97-093e-447f-82e2-dc4943a8f458",
@@ -25168,7 +26371,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9c7154cf-fd96-45d8-8ce0-b1b22c9051f8",
@@ -25260,7 +26464,21 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Weiskopf",
+    "https://en.wikipedia.org/wiki/Tom_Weiskopf"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Phil Smith",
+    null
+   ]
+  ]
  },
  {
   "id": "39c46a3c-4666-49e3-916f-21a58f5727a2",
@@ -25375,7 +26593,13 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Phil Smith",
+    null
+   ]
+  ]
  },
  {
   "id": "189a567e-91e2-49ef-be5d-a53e1b5a4da5",
@@ -25520,7 +26744,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jim Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "143daa0b-8933-4c04-9795-787b73c9c206",
@@ -25658,7 +26888,8 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "9b89f18b-602a-4815-921f-6f717d72c5de",
@@ -25764,7 +26995,21 @@
   "type_raw": "private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ],
+   [
+    ", ",
+    null
+   ],
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "81554f8b-3619-438a-9d0c-d0fa9d84f67f",
@@ -25854,7 +27099,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Press Maxwell",
+    null
+   ]
+  ]
  },
  {
   "id": "9bbebc08-0ecd-4d2a-a07f-ff44eaed7793",
@@ -25949,7 +27200,13 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Pete Dye",
+    "https://en.wikipedia.org/wiki/Pete_Dye"
+   ]
+  ]
  },
  {
   "id": "60fd9c1b-e0f3-4637-93ed-24c72b92cf14",
@@ -26046,7 +27303,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "36d5cc03-f337-4fc8-b245-25f3640d3d8f",
@@ -26186,7 +27444,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Southwest Greens of Colorado",
+    null
+   ]
+  ]
  },
  {
   "id": "797ee984-302c-4ff6-b9af-d1673e07eac0",
@@ -26271,7 +27535,13 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3590/search",
   "golfnow_name": "The Golf Club At Redlands Mesa",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3590-the-golf-club-at-redlands-mesa/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3590-the-golf-club-at-redlands-mesa/search",
+  "architect_parts": [
+   [
+    "Jim Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "99ad9f6c-088c-4fa8-b4ce-e560d63a217a",
@@ -26377,7 +27647,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "f569ab4b-c115-4b86-a0d7-cc17cdf54590",
@@ -26474,7 +27745,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "410e24e8-f95e-48e9-aa8b-b5c5a74fc9db",
@@ -26557,7 +27829,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Dick Phelps",
+    null
+   ]
+  ]
  },
  {
   "id": "f065ace0-d0ba-41a8-990f-6a91ce70cb71",
@@ -26734,7 +28012,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "e9e32c19-f696-41b5-9438-508a5b68c7b9",
@@ -26815,7 +28094,29 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Lehman",
+    "https://en.wikipedia.org/wiki/Tom_Lehman"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Hurzdan",
+    null
+   ],
+   [
+    "/",
+    null
+   ],
+   [
+    "Fry",
+    null
+   ]
+  ]
  },
  {
   "id": "a44d859b-2d85-4253-8b6d-b06ed374c71e",
@@ -26915,7 +28216,13 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Tom Weiskopf",
+    "https://en.wikipedia.org/wiki/Tom_Weiskopf"
+   ]
+  ]
  },
  {
   "id": "cc0ff6f3-f3e9-49eb-924d-2e13482a3a0f",
@@ -27037,7 +28344,21 @@
   ],
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/3481/search",
   "golfnow_name": "The River Course At Keystone",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3481-the-river-course-at-keystone/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/3481-the-river-course-at-keystone/search",
+  "architect_parts": [
+   [
+    "Dr. Michael Hurdzan",
+    "https://en.wikipedia.org/wiki/Michael_John_Hurdzan"
+   ],
+   [
+    " and ",
+    null
+   ],
+   [
+    "Dana Fry",
+    null
+   ]
+  ]
  },
  {
   "id": "abff0548-a3ba-4e6f-9f68-62a6290716b5",
@@ -27134,7 +28455,13 @@
   "type_raw": "Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Jim Engh",
+    null
+   ]
+  ]
  },
  {
   "id": "91ff74a4-4bdd-4160-b049-61475b110266",
@@ -27261,7 +28588,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/452/search",
   "golfnow_name": "Thorncreek Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/452-thorncreek-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/452-thorncreek-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "dcce068a-acaf-4ae4-b452-0e2e31b12403",
@@ -27361,7 +28689,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/15154/search",
   "golfnow_name": "Tiara Rado Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/15154-tiara-rado-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/15154-tiara-rado-golf-course/search",
+  "architect_parts": [
+   [
+    "Tom Kolacny",
+    null
+   ]
+  ]
  },
  {
   "id": "d711981d-6af6-4102-a1c5-3cc98b692a09",
@@ -27476,7 +28810,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Arthur Hills",
+    "https://en.wikipedia.org/wiki/Arthur_Hills"
+   ]
+  ]
  },
  {
   "id": "43c3a4e2-b921-4d92-a2a8-bf49b0dfa38c",
@@ -27614,7 +28954,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Arthur Schaupeter Golf Course Architects",
+    null
+   ]
+  ]
  },
  {
   "id": "6adbb84e-5f90-4b01-a428-233b5168de93",
@@ -27680,7 +29026,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "98c7fdac-95a7-44ed-b46d-f46d367a89a5",
@@ -27763,7 +29115,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones II Group",
+    null
+   ]
+  ]
  },
  {
   "id": "c0f5906d-5805-4d78-858a-a7f6d5174f40",
@@ -27846,7 +29204,13 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Hale Irwin",
+    "https://en.wikipedia.org/wiki/Hale_Irwin"
+   ]
+  ]
  },
  {
   "id": "d9005c04-b2fd-4cfb-967c-2934eb0a8c04",
@@ -27961,7 +29325,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Robert Trent Jones II Group",
+    null
+   ]
+  ]
  },
  {
   "id": "74bc7b35-611d-46cc-a202-e2e113636050",
@@ -28127,7 +29497,13 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Ben Krueger",
+    null
+   ]
+  ]
  },
  {
   "id": "39a439d1-6788-4986-8ef8-2c7bfadc5a78",
@@ -28257,7 +29633,8 @@
   "type_raw": "Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "3359c0fb-f67f-4797-9087-e86c33a365a9",
@@ -28387,7 +29764,8 @@
   "type_raw": "Private/Resort",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "337e2fa5-3f0c-4835-bb20-1a7eed529325",
@@ -28474,7 +29852,8 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/8582/search",
   "golfnow_name": "Valley Hi Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8582-valley-hi-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/8582-valley-hi-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "5cd7a124-9357-40ce-a63d-627789ce1019",
@@ -28585,7 +29964,13 @@
   ],
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "David Bingham",
+    null
+   ]
+  ]
  },
  {
   "id": "aed11e4e-a83e-4b24-bf2c-2939fcd49754",
@@ -28677,7 +30062,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/2724/search",
   "golfnow_name": "Walking Stick Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2724-walking-stick-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/2724-walking-stick-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "8ec0f064-62b4-492d-9b8d-d6e99fc1e76b",
@@ -28817,7 +30203,8 @@
   "type_raw": "Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "77299331-5f81-4de1-9560-a395425a8255",
@@ -28883,7 +30270,8 @@
   "type_raw": "Public/Municipal",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "adb0f4b3-513e-4bca-b09c-1b5fb3c2311a",
@@ -29034,7 +30422,13 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1790/search",
   "golfnow_name": "Wellshire Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1790-wellshire-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1790-wellshire-golf-course/search",
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "ecc8cfdf-daca-4721-bfc1-83e474b2416e",
@@ -29131,7 +30525,13 @@
   "type_raw": "Resort/Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Donald Ross",
+    "https://en.wikipedia.org/wiki/Donald_Ross_%28golf_course_architect%29"
+   ]
+  ]
  },
  {
   "id": "871c606b-cc0b-4bd4-a907-322616f1389a",
@@ -29293,7 +30693,8 @@
   "type_raw": "Municipal",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/1944/search",
   "golfnow_name": "Willis Case Golf Course",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1944-willis-case-golf-course/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/1944-willis-case-golf-course/search",
+  "architect_parts": null
  },
  {
   "id": "228a138d-1e2a-4e6b-b270-1e5b93223918",
@@ -29360,7 +30761,8 @@
   "type_raw": "Public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "8900788f-491d-4a03-8560-bee9da819ac2",
@@ -29422,7 +30824,13 @@
   "type_raw": "public",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": [
+   [
+    "Mark Fontana",
+    null
+   ]
+  ]
  },
  {
   "id": "20c047fd-8714-42d1-9d04-4562bd6f6a81",
@@ -29485,7 +30893,8 @@
   "type_raw": "Semi-Private",
   "golfnow_url": null,
   "golfnow_name": null,
-  "teeoff_url": null
+  "teeoff_url": null,
+  "architect_parts": null
  },
  {
   "id": "259d7a3c-4a77-4e7a-abaf-104f307d6024",
@@ -29599,6 +31008,7 @@
   "type_raw": "Public",
   "golfnow_url": "https://www.golfnow.com/tee-times/facility/11055/search",
   "golfnow_name": "Yampa Valley",
-  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11055-yampa-valley/search"
+  "teeoff_url": "https://www.teeoff.com/tee-times/facility/11055-yampa-valley/search",
+  "architect_parts": null
  }
 ]

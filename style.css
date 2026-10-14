@@ -41,3 +41,4 @@ col.eq{width:5.1%}#t th.num,#t td.num{text-align:center}#t td.name{overflow:hidd
  .grid{grid-template-columns:1fr}.titlebar{flex-wrap:wrap}}
 col.bk{width:5%}.book{display:inline-block;padding:2px 9px;border-radius:3px;background:var(--acc);color:#05110f!important;font-weight:700;font-size:11px;text-decoration:none}.book:hover{filter:brightness(1.15)}.book.big{font-size:12px;padding:5px 12px}
 .bk2{display:inline-flex;gap:3px}.bk2 .book{padding:2px 5px;font-size:10px}.bkrow{display:flex;gap:6px;flex-wrap:wrap;margin:2px 0 8px}
+.kv span:last-child{text-align:right;margin-left:12px;overflow-wrap:anywhere;max-width:70%}.kv span:first-child{flex:none}
