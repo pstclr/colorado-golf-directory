@@ -116,7 +116,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4253b656-424f-4b58-8d9a-5fe10a3f0e0f",
@@ -177,7 +179,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/applewood-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/4253b656-424f-4b58-8d9a-5fe10a3f0e0f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027877-applewood-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -186,7 +189,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/451/search",
+  "golfnow_name": "Applewood Golf Course"
  },
  {
   "id": "f7d79594-81e8-4111-84b1-f056328c3285",
@@ -282,7 +287,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4c28d9a0-abaa-4e1a-a582-1a570bef540a",
@@ -375,7 +382,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "1a8b38dc-5ac2-462f-bfdf-41772d4ca426",
@@ -500,7 +509,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/aspen-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/1a8b38dc-5ac2-462f-bfdf-41772d4ca426",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027879-aspen-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -509,7 +519,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3146/search",
+  "golfnow_name": "Aspen Golf Club"
  },
  {
   "id": "8eae2b5d-5bce-448c-bc41-15a6afc8df22",
@@ -619,7 +631,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "06660cc7-4f1d-49ab-a32b-e5d6e3ccc0c8",
@@ -721,7 +735,9 @@
   "gd100_rank": 34,
   "gd100_edition": "2025-26",
   "gd100_source": "https://www.golfdigest.com/story/americas-100-greatest-golf-courses-ranking",
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "788da5b9-0013-4d07-8a2b-94515bc1e20e",
@@ -766,7 +782,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "bcedbc98-4e9a-4645-978f-1cea45cb8a4f",
@@ -883,7 +901,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/battlement-mesa-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/bcedbc98-4e9a-4645-978f-1cea45cb8a4f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1038887-battlement-mesa-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -892,7 +911,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3483/search",
+  "golfnow_name": "Battlement Mesa Golf Course"
  },
  {
   "id": "ad51e866-c3a2-4d2b-8e19-efa22c277d2d",
@@ -969,7 +990,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/bear-course-at-breckenridge-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/ad51e866-c3a2-4d2b-8e19-efa22c277d2d",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027884-breckenridge-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -978,7 +1000,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
+  "golfnow_name": "Breckenridge Golf Club"
  },
  {
   "id": "f4de3e0a-a5b4-410a-9fe6-cda84522abb4",
@@ -1053,7 +1077,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "2d043ba3-8021-4aed-ae30-3ca86bb894b4",
@@ -1130,7 +1156,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/beaver-course-at-breckenridge-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/2d043ba3-8021-4aed-ae30-3ca86bb894b4",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027884-breckenridge-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -1139,7 +1166,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
+  "golfnow_name": "Breckenridge Golf Club"
  },
  {
   "id": "5ad3eae5-67b2-42f4-9efd-bcc75fbdd3a4",
@@ -1229,7 +1258,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/beaver-creek-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/5ad3eae5-67b2-42f4-9efd-bcc75fbdd3a4",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027882-beaver-creek-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -1238,7 +1268,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6208/search",
+  "golfnow_name": "Beaver Creek Golf Club"
  },
  {
   "id": "349a451b-f12f-4c8d-81e8-5aa49b43de81",
@@ -1345,7 +1377,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "eb0eef07-f436-49f5-9dd9-f4334c185477",
@@ -1424,7 +1458,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/bella-rosa-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/eb0eef07-f436-49f5-9dd9-f4334c185477",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1588590-bella-rosa-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -1433,7 +1468,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/12183/search",
+  "golfnow_name": "Bella Rosa Golf Course"
  },
  {
   "id": "0b2fc747-a75e-4eda-9a2f-8988909bb3ab",
@@ -1560,7 +1597,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f8629d9f-d5bb-4216-a7eb-2e8912e0ae50",
@@ -1642,7 +1681,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/black-canyon-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/f8629d9f-d5bb-4216-a7eb-2e8912e0ae50",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027968-black-canyon-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -1651,7 +1691,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/10413/search",
+  "golfnow_name": "Black Canyon Golf Course"
  },
  {
   "id": "79e4e830-d0dd-474e-aacf-9a47624c676c",
@@ -1786,7 +1828,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "77575158-c647-49ea-90f4-83434c47b736",
@@ -1867,7 +1911,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Military"
+  "type_raw": "Military",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "89d2a9b1-1b11-4c8e-8d31-7e06fe18d452",
@@ -1945,7 +1991,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "99b69756-da2d-43a3-9f90-63722ce332de",
@@ -2019,7 +2067,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/boomerang-links",
    "https://api.opengolfapi.org/api/v1/courses/99b69756-da2d-43a3-9f90-63722ce332de",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1041375-boomerang-golf-links-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -2028,7 +2077,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3541/search",
+  "golfnow_name": "Boomerang Golf Links"
  },
  {
   "id": "b49caef8-a839-47c9-892a-8629939570d7",
@@ -2105,7 +2156,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "16405e65-c391-453a-a09a-3758e13e9f78",
@@ -2166,7 +2219,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d22bea55-5e0c-4b88-b341-bff5fce04706",
@@ -2259,7 +2314,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "55627a34-65c8-44fe-b438-7db5c3588feb",
@@ -2369,7 +2426,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/broadlands-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/55627a34-65c8-44fe-b438-7db5c3588feb",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1477785-the-broadlands-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -2378,7 +2436,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1413/search",
+  "golfnow_name": "The Broadlands Golf Course"
  },
  {
   "id": "751367c1-2031-4615-936d-8536e6eaeeed",
@@ -2429,7 +2489,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "private"
+  "type_raw": "private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0d7662dc-1e98-488c-82c9-086658efbfd4",
@@ -2525,7 +2587,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c69e8718-2205-4718-9d8d-1d0dfe26bbbe",
@@ -2605,7 +2669,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "da4b6bf3-9f08-46b5-b1a6-2d6944711b07",
@@ -2724,7 +2790,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "30659b9f-5ade-4c22-8e9d-ebc6084a005e",
@@ -2826,7 +2894,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "58433f71-2c0e-4b35-a10c-fe1c7c07856b",
@@ -3015,7 +3085,9 @@
   "gd100_rank": 50,
   "gd100_edition": "2025-26",
   "gd100_source": "https://www.golfdigest.com/story/americas-100-greatest-golf-courses-ranking",
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "df4ca7b0-f0fa-4ee5-adba-9494c8a66a07",
@@ -3090,7 +3162,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a785f9e4-a453-4c7e-bc4e-f539f7dc008f",
@@ -3168,7 +3242,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "5de3a89a-10d1-473f-a166-180bc3146e52",
@@ -3245,7 +3321,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0bbe5a45-3fbf-4451-ac50-5bd1ae18a39d",
@@ -3324,7 +3402,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "6ce09187-7d6f-4ebc-a485-ebd20b4bc51d",
@@ -3394,7 +3474,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "da51520e-0368-4f1f-a2ff-e6ed4fb405eb",
@@ -3461,7 +3543,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "72ebbc92-3832-40cd-a321-0ce7feb2a273",
@@ -3580,7 +3664,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c015e78f-d391-4908-91cf-66a87bedfc6e",
@@ -3698,7 +3784,9 @@
   "aliases": [
    "Eighteen Hole At Cherry Hills Country Club",
    "Rip Arnold At Cherry Hills Country Club"
-  ]
+  ],
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b9bf3bdb-0af0-4390-9fac-04ffb34188fa",
@@ -3771,7 +3859,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Military/Public"
+  "type_raw": "Military/Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "61bf2243-b9f8-4e8c-9c73-2f330967e223",
@@ -3848,7 +3938,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a6f80e17-48c1-4d0c-b5c0-ce6b31b14f22",
@@ -3918,7 +4010,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/city-park-nine-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/a6f80e17-48c1-4d0c-b5c0-ce6b31b14f22",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027894-city-park-nine-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -3927,7 +4020,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/9917/search",
+  "golfnow_name": "City Park Nine Golf Course"
  },
  {
   "id": "f11d0d1a-fe01-43f4-8de4-32886ccd3a8c",
@@ -4030,7 +4125,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/coal-creek-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/f11d0d1a-fe01-43f4-8de4-32886ccd3a8c",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1039875-coal-creek-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -4039,7 +4135,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/9333/search",
+  "golfnow_name": "Coal Creek"
  },
  {
   "id": "36c45ab9-974a-46f9-b662-203fdcf4cef6",
@@ -4118,7 +4216,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "69203b95-ec6a-413e-8806-ba2064b8ee72",
@@ -4205,7 +4305,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/collindale-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/69203b95-ec6a-413e-8806-ba2064b8ee72",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027897-collindale-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -4214,7 +4315,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/9915/search",
+  "golfnow_name": "Collindale Golf Course"
  },
  {
   "id": "efd61474-152c-457d-bcfc-e14b34ba610c",
@@ -4305,7 +4408,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "413d30b9-1384-4408-b89a-5322698f7f7e",
@@ -4356,7 +4461,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "db18bece-fceb-4527-adee-36772fc16c17",
@@ -4468,7 +4575,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0d2bf55e-418c-48b8-97b2-2a0a2da612a6",
@@ -4561,7 +4670,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "36fbe786-3749-4fa9-97ff-a00ebbf7a8c4",
@@ -4663,7 +4774,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ffe9e623-0e52-41c0-88b6-45e182b8ccc6",
@@ -4733,7 +4846,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "98b3c724-0a1f-41e3-a629-243a7f50f4ba",
@@ -4867,7 +4982,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a16beeba-42b4-49a1-9b91-500ba4bc966d",
@@ -4921,7 +5038,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "15479d8e-16f4-4da7-a4f0-ad431916eb82",
@@ -4998,7 +5117,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "7df8c319-281a-4f13-a4f0-cedde74d4ab9",
@@ -5089,7 +5210,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9b32ad31-5bb2-4685-8f40-4349968fe34b",
@@ -5183,7 +5306,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "57376846-08b2-43a7-8a63-d4082d3aa1c3",
@@ -5260,7 +5385,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "666ea458-e5b7-4975-a4bf-7a2009befc8d",
@@ -5346,7 +5473,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/cottonwood-silo-at-west-woods-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/666ea458-e5b7-4975-a4bf-7a2009befc8d",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1046749-west-woods-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -5355,7 +5483,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
+  "golfnow_name": "West Woods Golf Club"
  },
  {
   "id": "6acfec2a-505c-4edf-b578-c9599c4ef69d",
@@ -5494,7 +5624,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a3376a13-8ce3-4559-b256-7292e3b4f4bc",
@@ -5588,7 +5720,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0a64321a-953e-472f-94ac-4c9e8ca7926b",
@@ -5668,7 +5802,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "70246878-0c4f-4615-9f98-8f62d9010c98",
@@ -5755,7 +5891,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c75dbc89-9db0-44b6-9010-001925030956",
@@ -5845,7 +5983,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/deer-creek-golf-club-at-meadow-ranch",
    "https://api.opengolfapi.org/api/v1/courses/c75dbc89-9db0-44b6-9010-001925030956",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1505132-deer-creek-golf-club-at-meadow-ranch-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -5854,7 +5993,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1409/search",
+  "golfnow_name": "Deer Creek Golf Club At Meadow Ranch"
  },
  {
   "id": "4878476c-c132-4a32-b3ab-2895accf565f",
@@ -6018,7 +6159,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/denver-city-park-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/4878476c-c132-4a32-b3ab-2895accf565f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027892-city-park-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -6027,7 +6169,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1946/search",
+  "golfnow_name": "City Park"
  },
  {
   "id": "61875a52-a31e-4bb3-a549-49d362583dc1",
@@ -6190,7 +6334,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b4e02e6d-ee54-4be0-8323-807e3b865137",
@@ -6268,7 +6414,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4befff80-c008-48fc-9610-9f1ef0c3c95f",
@@ -6348,7 +6496,8 @@
    "https://api.opengolfapi.org/api/v1/courses/4befff80-c008-48fc-9610-9f1ef0c3c95f",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://courses.opengolfapi.org/courses/CO/desert-hawk-golf-course",
-   "https://api.opengolfapi.org/api/v1/courses/b7af904c-e1fb-4322-ba06-9c4e8db87c21"
+   "https://api.opengolfapi.org/api/v1/courses/b7af904c-e1fb-4322-ba06-9c4e8db87c21",
+   "https://www.golfnow.com/courses/1027981-desert-hawk-at-pueblo-west-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -6360,7 +6509,9 @@
   "type_raw": "Public",
   "aliases": [
    "Desert Hawk Golf Course"
-  ]
+  ],
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5635/search",
+  "golfnow_name": "Desert Hawk At Pueblo West"
  },
  {
   "id": "778ba3af-b15d-4938-89e5-f28f6162fb6a",
@@ -6462,7 +6613,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/devils-thumb-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/778ba3af-b15d-4938-89e5-f28f6162fb6a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1506348-devils-thumb-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -6471,7 +6623,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6124/search",
+  "golfnow_name": "Devil's Thumb Golf Course"
  },
  {
   "id": "c103b76b-d35f-46d0-8a7e-1c719ae44092",
@@ -6562,7 +6716,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e7ee527a-324b-4948-98fc-d15f638a1751",
@@ -6687,7 +6843,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "37dea466-f5b4-4864-9ed0-948fb52d3476",
@@ -6746,7 +6904,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "31aff9a5-c394-4f3d-8b2f-8f2fba4c97e4",
@@ -6849,7 +7009,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/eagle-ranch-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/31aff9a5-c394-4f3d-8b2f-8f2fba4c97e4",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1504891-eagle-ranch-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -6858,7 +7019,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3097/search",
+  "golfnow_name": "Eagle Ranch"
  },
  {
   "id": "8404004e-5af2-4deb-a31d-caf129803258",
@@ -6941,7 +7104,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "6cd21e45-0acb-4b56-a917-bc23db51abec",
@@ -7018,7 +7183,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/eagle-trace-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/6cd21e45-0acb-4b56-a917-bc23db51abec",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027911-eagle-trace-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -7027,7 +7193,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2610/search",
+  "golfnow_name": "Eagle Trace Golf Club"
  },
  {
   "id": "3b588326-572a-4fe8-8f21-229f2b068709",
@@ -7144,7 +7312,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/eaglevail-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/3b588326-572a-4fe8-8f21-229f2b068709",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027912-eagle-vail-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -7153,7 +7322,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3346/search",
+  "golfnow_name": "Eagle Vail Golf Course"
  },
  {
   "id": "347406b3-d597-49a9-b1e1-50c4c0b4df08",
@@ -7235,7 +7406,9 @@
   "type_raw": "Resort/Private",
   "aliases": [
    "The Broadmoor Golf Courses"
-  ]
+  ],
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "bc827f6e-dfeb-4e6c-b7ee-65867d293e4e",
@@ -7322,7 +7495,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "2767af88-8043-45d5-9ae9-048f05184e12",
@@ -7451,7 +7626,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "63dbabe1-9279-496b-b761-4f08dd4dc604",
@@ -7530,7 +7707,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/eighteen-hole-at-south-suburban-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/63dbabe1-9279-496b-b761-4f08dd4dc604",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027996-south-suburban-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -7539,7 +7717,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5525/search",
+  "golfnow_name": "South Suburban Golf Course"
  },
  {
   "id": "13d3ff63-c1e7-4feb-b290-38ea658d840f",
@@ -7616,7 +7796,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/elk-course-at-breckenridge-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/13d3ff63-c1e7-4feb-b290-38ea658d840f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027884-breckenridge-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -7625,7 +7806,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3147/search",
+  "golfnow_name": "Breckenridge Golf Club"
  },
  {
   "id": "161a65ef-da32-43ef-b005-5186985c5ced",
@@ -7706,7 +7889,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "490a0bf2-3f0b-41c8-9d77-d7764b58a596",
@@ -7763,7 +7948,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "48d1f7fe-e01d-4519-b928-25bde9426c54",
@@ -7826,7 +8013,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d70cbfe6-9acf-4c69-bff4-39d87cccbdd5",
@@ -7995,7 +8184,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/estes-park-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/d70cbfe6-9acf-4c69-bff4-39d87cccbdd5",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027917-estes-park-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8004,7 +8194,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1799/search",
+  "golfnow_name": "Estes Park Golf Course"
  },
  {
   "id": "e8c1f28f-c40e-409a-a3fa-d5d3c4c98532",
@@ -8093,7 +8285,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/evergreen-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/e8c1f28f-c40e-409a-a3fa-d5d3c4c98532",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027918-evergreen-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8102,7 +8295,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/14331/search",
+  "golfnow_name": "Evergreen Golf Course"
  },
  {
   "id": "2651612a-a3f6-461e-a765-146c3582d389",
@@ -8140,7 +8335,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/f-h-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/2651612a-a3f6-461e-a765-146c3582d389",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027946-the-greg-mastriana-golf-courses-at-hyland-hills-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8149,7 +8345,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
+  "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills"
  },
  {
   "id": "a7589cfe-cc5f-47ac-9fe2-3b1ab82ec6db",
@@ -8200,7 +8398,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9431c05e-2633-4fd2-8eca-df4df4f5e7ea",
@@ -8242,7 +8442,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": ""
+  "type_raw": "",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "272d8380-00cf-448f-b21d-19722cbabec3",
@@ -8360,7 +8562,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/flatirons-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/272d8380-00cf-448f-b21d-19722cbabec3",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027899-flatirons-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8369,7 +8572,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5644/search",
+  "golfnow_name": "Flatirons Golf Course"
  },
  {
   "id": "a3610ec5-3840-4e53-96bd-1c6f1db76dc2",
@@ -8433,7 +8638,8 @@
    "https://api.opengolfapi.org/api/v1/courses/a3610ec5-3840-4e53-96bd-1c6f1db76dc2",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://courses.opengolfapi.org/courses/CO/foothills-championship-course",
-   "https://api.opengolfapi.org/api/v1/courses/e1c068aa-5d69-43a1-a46b-226a1d01ad32"
+   "https://api.opengolfapi.org/api/v1/courses/e1c068aa-5d69-43a1-a46b-226a1d01ad32",
+   "https://www.golfnow.com/courses/1027921-foothills-golf-course-foothills-1-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8445,7 +8651,9 @@
   "type_raw": "Public",
   "aliases": [
    "Foothills Championship Course"
-  ]
+  ],
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
+  "golfnow_name": "Foothills Golf Course - Foothills 1 Course"
  },
  {
   "id": "ded364a7-2608-4163-9200-f3177a1295ca",
@@ -8547,7 +8755,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/foothills-golf-course-executive-course",
    "https://api.opengolfapi.org/api/v1/courses/ded364a7-2608-4163-9200-f3177a1295ca",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027921-foothills-golf-course-foothills-1-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8556,7 +8765,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
+  "golfnow_name": "Foothills Golf Course - Foothills 1 Course"
  },
  {
   "id": "02b43dce-878d-407f-b881-3ee3c5cd5e67",
@@ -8602,7 +8813,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/foothills-golf-course-par-3-course",
    "https://api.opengolfapi.org/api/v1/courses/02b43dce-878d-407f-b881-3ee3c5cd5e67",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027921-foothills-golf-course-foothills-1-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -8611,7 +8823,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6826/search",
+  "golfnow_name": "Foothills Golf Course - Foothills 1 Course"
  },
  {
   "id": "9f15666d-2637-48d5-8d7e-79a39a3c2caf",
@@ -8768,7 +8982,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ce6892b1-22e7-4666-b8ab-f7f303be3efc",
@@ -8893,7 +9109,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/fossil-trace-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/ce6892b1-22e7-4666-b8ab-f7f303be3efc",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1504610-fossil-details"
   ],
   "gd_co_rank": 30,
   "gd_co_name": "Fossil Trace Golf Club",
@@ -8902,7 +9119,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1433/search",
+  "golfnow_name": "Fossil"
  },
  {
   "id": "911b6896-50ef-4aa4-baac-1edf890725f0",
@@ -9043,7 +9262,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "aa754303-5c3b-4a38-97ad-9ad221425ea8",
@@ -9139,7 +9360,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c8daaf5a-a33b-49c9-853e-e57e999f8be8",
@@ -9265,7 +9488,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d12e5e20-38cd-4ef8-bd02-5533a2fccd25",
@@ -9351,7 +9576,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "64d61cd0-12e0-448f-bce9-79b6dc6950cf",
@@ -9438,7 +9665,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "5fe355c9-159d-424c-a149-a02f7677f0c6",
@@ -9525,7 +9754,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "48a62a8b-a0bb-4197-9ffb-0bfea68d36a3",
@@ -9626,7 +9857,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "5b7d7ce4-ab72-4a15-89b5-7ec8e685e9db",
@@ -9728,7 +9961,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d2c8ec24-2297-433b-ab11-4154f6948275",
@@ -9878,7 +10113,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ec147fb1-6938-4e66-8fb0-1f396bee9a97",
@@ -9997,7 +10234,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "dca1a58a-e557-4897-a4de-4f8be7fdb485",
@@ -10115,7 +10354,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f188a84f-075f-4315-bb4c-e2e1d2ea9d2c",
@@ -10241,7 +10482,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "30758bd0-5d0b-4d2d-9ba3-93b9f46882fa",
@@ -10335,7 +10578,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/golf-granby-ranch",
    "https://api.opengolfapi.org/api/v1/courses/30758bd0-5d0b-4d2d-9ba3-93b9f46882fa",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1505074-headwaters-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -10344,7 +10588,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1898/search",
+  "golfnow_name": "Headwaters"
  },
  {
   "id": "c46b5061-8465-47e6-a5d6-f2656610f0be",
@@ -10446,7 +10692,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "2912cd7f-6ec2-4b9e-b2e3-5402af417e94",
@@ -10540,7 +10788,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/grand-lake-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/2912cd7f-6ec2-4b9e-b2e3-5402af417e94",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027931-grand-lake-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -10549,7 +10798,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1896/search",
+  "golfnow_name": "Grand Lake"
  },
  {
   "id": "2a11b67a-3b29-4ddf-a960-e96e5bc46c4d",
@@ -10624,7 +10875,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Resort"
+  "type_raw": "Public/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "57d96267-c0a8-413a-98e0-6a70e4e96f5b",
@@ -10711,7 +10964,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "73d5431c-9b24-4ad3-8300-a14377484d41",
@@ -10870,7 +11125,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/green-valley-ranch-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/73d5431c-9b24-4ad3-8300-a14377484d41",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1519073-green-valley-ranch-golf-club-green-valley-ranch-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -10879,7 +11135,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/517/search",
+  "golfnow_name": "Green Valley Ranch Golf Club - Green Valley Ranch Course"
  },
  {
   "id": "a83f7d0c-5332-4b1e-bf03-a535fd6437c0",
@@ -10940,7 +11198,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9b4a7f70-331c-4743-8fff-07189481220a",
@@ -11001,7 +11261,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f5700022-6a95-48fe-a2e9-cb56582b9711",
@@ -11080,7 +11342,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/greg-mastriona-golf-courses-at-hyland-hills-blue-course",
    "https://api.opengolfapi.org/api/v1/courses/f5700022-6a95-48fe-a2e9-cb56582b9711",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027946-the-greg-mastriana-golf-courses-at-hyland-hills-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11089,7 +11352,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
+  "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills"
  },
  {
   "id": "9132335e-79ae-4eb2-9d7a-c31eb00d0321",
@@ -11178,7 +11443,8 @@
    "https://api.opengolfapi.org/api/v1/courses/9132335e-79ae-4eb2-9d7a-c31eb00d0321",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://courses.opengolfapi.org/courses/CO/the-greg-mastriona-golf-courses-at-hyland-hills",
-   "https://api.opengolfapi.org/api/v1/courses/a320aada-6489-43eb-a1d7-7e3d63bf66ef"
+   "https://api.opengolfapi.org/api/v1/courses/a320aada-6489-43eb-a1d7-7e3d63bf66ef",
+   "https://www.golfnow.com/courses/1027946-the-greg-mastriana-golf-courses-at-hyland-hills-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11190,7 +11456,9 @@
   "type_raw": "Public",
   "aliases": [
    "The Greg Mastriona Golf Courses at Hyland Hills"
-  ]
+  ],
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
+  "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills"
  },
  {
   "id": "1ed2fdc5-d0a3-4fe8-96cd-a85bf1dd6efa",
@@ -11237,7 +11505,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/greg-mastriona-golf-courses-at-hyland-hills-north-par-3-course",
    "https://api.opengolfapi.org/api/v1/courses/1ed2fdc5-d0a3-4fe8-96cd-a85bf1dd6efa",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027946-the-greg-mastriana-golf-courses-at-hyland-hills-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11246,7 +11515,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
+  "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills"
  },
  {
   "id": "76d69b50-8c6d-455a-b7e5-11ee0c972dc1",
@@ -11293,7 +11564,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/greg-mastriona-golf-courses-at-hyland-hills-south-par-3-course",
    "https://api.opengolfapi.org/api/v1/courses/76d69b50-8c6d-455a-b7e5-11ee0c972dc1",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027946-the-greg-mastriana-golf-courses-at-hyland-hills-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11302,7 +11574,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1412/search",
+  "golfnow_name": "The Greg Mastriana Golf Courses at Hyland Hills"
  },
  {
   "id": "3c5b104f-954e-49a8-96d2-fbe5087a1fdc",
@@ -11396,7 +11670,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/gypsum-creek-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/3c5b104f-954e-49a8-96d2-fbe5087a1fdc",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1050423-gypsum-creek-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11405,7 +11680,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3534/search",
+  "golfnow_name": "Gypsum Creek Golf Club"
  },
  {
   "id": "c31f5355-ed37-4f14-a828-1ac157b61a57",
@@ -11504,7 +11781,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c0a9675a-50d5-46fa-8500-59f370bf35ab",
@@ -11552,7 +11831,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/harvard-gulch-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/c0a9675a-50d5-46fa-8500-59f370bf35ab",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027935-harvard-gulch-par3-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11561,7 +11841,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/14332/search",
+  "golfnow_name": "Harvard Gulch Par3 Golf Course"
  },
  {
   "id": "7e397b9a-17d3-4dd3-9751-2c2b47ed0b21",
@@ -11679,7 +11961,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/haymaker",
    "https://api.opengolfapi.org/api/v1/courses/7e397b9a-17d3-4dd3-9751-2c2b47ed0b21",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1050001-haymaker-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -11688,7 +11971,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6196/search",
+  "golfnow_name": "Haymaker Golf Course"
  },
  {
   "id": "dc8762eb-15f0-4ec6-bd7d-b08d183fe5b7",
@@ -11751,7 +12036,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4d987476-f556-4672-b531-8f5336642f56",
@@ -11821,7 +12108,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a80b52d7-ad25-412c-a0de-0a4b27b79a89",
@@ -11955,7 +12244,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "18283081-0b92-4a89-bd6a-b54799037634",
@@ -12029,7 +12320,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/highland-hills-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/18283081-0b92-4a89-bd6a-b54799037634",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027941-highland-hills-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -12038,7 +12330,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3542/search",
+  "golfnow_name": "Highland Hills Golf Course"
  },
  {
   "id": "3e2b9e02-c833-4335-a201-2bbec814b6ce",
@@ -12140,7 +12434,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "7e920086-00ac-4e62-bb58-3585f08537ea",
@@ -12220,7 +12516,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "1c024fa8-8f21-4f22-953e-b8391453e0cd",
@@ -12364,7 +12662,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4fad4a10-7442-481d-8ce7-646e1e08b972",
@@ -12511,7 +12811,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "2be42955-6029-415c-8658-50011bba853a",
@@ -12597,7 +12899,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8213f80d-c41b-469b-97f0-458b9c37815d",
@@ -12666,7 +12970,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "04d08f7a-ff7b-462f-9cac-a46a70bb7a9c",
@@ -12733,7 +13039,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "72e760f3-f5f3-496f-9c57-1902b7a0b7e3",
@@ -12784,7 +13092,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8eb56f94-75c0-4c82-8694-506c82d79bd1",
@@ -12853,7 +13163,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a87ef10c-9c90-40f3-b1ae-337934afea9b",
@@ -12973,7 +13285,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/indian-peaks-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/a87ef10c-9c90-40f3-b1ae-337934afea9b",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1045554-indian-peaks-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -12982,7 +13295,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2485/search",
+  "golfnow_name": "Indian Peaks Golf Course"
  },
  {
   "id": "a6caa464-a709-46ed-a522-b9b8870c5476",
@@ -13105,7 +13420,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b6e3cc13-bdb5-47a0-9fd2-25ef2b82f000",
@@ -13232,7 +13549,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "cc23d9cf-9d6c-46c8-a18f-890760416ee7",
@@ -13355,7 +13674,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8e9c2f22-6fee-4a69-abb9-8139bba13f86",
@@ -13414,7 +13735,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "private"
+  "type_raw": "private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "fa2a6142-eb97-4b7a-8c72-e30f74a9c6d3",
@@ -13565,7 +13888,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4ccdad04-56d0-4460-bd81-fd442a4027b5",
@@ -13694,7 +14019,8 @@
   "amenities": [],
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/j-f-kennedy-golf-center-babe-lind-creek-course",
-   "https://api.opengolfapi.org/api/v1/courses/4ccdad04-56d0-4460-bd81-fd442a4027b5"
+   "https://api.opengolfapi.org/api/v1/courses/4ccdad04-56d0-4460-bd81-fd442a4027b5",
+   "https://www.golfnow.com/courses/1027950-john-f-kennedy-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -13703,7 +14029,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
+  "golfnow_name": "John F. Kennedy Golf Course"
  },
  {
   "id": "7148d5ca-fc25-4fd8-8e2c-abaebee67f28",
@@ -13771,7 +14099,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/j-f-kennedy-golf-center-par-3-course",
    "https://api.opengolfapi.org/api/v1/courses/7148d5ca-fc25-4fd8-8e2c-abaebee67f28",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027950-john-f-kennedy-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -13780,7 +14109,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
+  "golfnow_name": "John F. Kennedy Golf Course"
  },
  {
   "id": "9c3c147d-8226-4668-a85b-b06087e0b7ee",
@@ -13909,7 +14240,8 @@
   "amenities": [],
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/j-f-kennedy-golf-center-west-babe-lind-course",
-   "https://api.opengolfapi.org/api/v1/courses/9c3c147d-8226-4668-a85b-b06087e0b7ee"
+   "https://api.opengolfapi.org/api/v1/courses/9c3c147d-8226-4668-a85b-b06087e0b7ee",
+   "https://www.golfnow.com/courses/1027950-john-f-kennedy-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -13918,7 +14250,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
+  "golfnow_name": "John F. Kennedy Golf Course"
  },
  {
   "id": "dac790ee-9fa8-4572-a33e-b855257cf0d0",
@@ -14050,7 +14384,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/j-f-kennedy-golf-center-west-creek-course",
    "https://api.opengolfapi.org/api/v1/courses/dac790ee-9fa8-4572-a33e-b855257cf0d0",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027950-john-f-kennedy-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -14059,7 +14394,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1942/search",
+  "golfnow_name": "John F. Kennedy Golf Course"
  },
  {
   "id": "fa84bc67-37f7-458c-aa3a-dc6817124cb0",
@@ -14112,7 +14449,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "municipal"
+  "type_raw": "municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "dfccf81a-da7e-4c7b-bd81-d693763ba77a",
@@ -14202,7 +14541,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/keystone-ranch-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/dfccf81a-da7e-4c7b-bd81-d693763ba77a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027951-keystone-ranch-golf-course-details"
   ],
   "gd_co_rank": 24,
   "gd_co_name": "Keystone Ranch Golf Course",
@@ -14211,7 +14551,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2487/search",
+  "golfnow_name": "Keystone Ranch Golf Course"
  },
  {
   "id": "13ca9b4c-6dad-4b4a-8f21-28ae564828a8",
@@ -14281,7 +14623,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/kings-deer-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/13ca9b4c-6dad-4b4a-8f21-28ae564828a8",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1408675-kings-deer-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -14290,7 +14633,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1265/search",
+  "golfnow_name": "King's Deer Golf Club"
  },
  {
   "id": "f7ae312e-a761-4f84-b388-a6d971ae3f2a",
@@ -14341,7 +14686,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "private"
+  "type_raw": "private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "698f4861-060d-46ac-aea7-193b22cc7586",
@@ -14424,7 +14771,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "43df3754-f359-4701-a701-b28677ff02d8",
@@ -14509,7 +14858,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/lake-arbor-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/43df3754-f359-4701-a701-b28677ff02d8",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027954-lake-arbor-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -14518,7 +14868,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1592/search",
+  "golfnow_name": "Lake Arbor Golf Course"
  },
  {
   "id": "fc2d948a-91cf-4cb1-882e-88ae95f308f5",
@@ -14592,7 +14944,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "aad2778b-bbeb-4682-b001-b72b61f996a9",
@@ -14694,7 +15048,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "af5c4abf-b846-44bd-9529-1eb7e5ed1be7",
@@ -14845,7 +15201,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "dfef1274-e7f2-4f6d-b18a-49fc3e0fe67d",
@@ -15003,7 +15361,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "1465deba-94e0-4780-95fe-3ab69fef0d34",
@@ -15099,7 +15459,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "634769b9-5d33-429a-ae9f-d595f0278b26",
@@ -15166,7 +15528,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9c91a6ea-7fa3-428d-aec7-a94ba2b1c854",
@@ -15269,7 +15633,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/legacy-ridge-golf-course-at-westminster",
    "https://api.opengolfapi.org/api/v1/courses/9c91a6ea-7fa3-428d-aec7-a94ba2b1c854",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1047141-legacy-ridge-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -15278,7 +15643,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1921/search",
+  "golfnow_name": "Legacy Ridge Golf Course"
  },
  {
   "id": "762aa9f7-3693-4762-beda-1becc62d95fa",
@@ -15344,7 +15711,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/lincoln-park-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/762aa9f7-3693-4762-beda-1becc62d95fa",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027959-lincoln-park-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -15353,7 +15721,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "public"
+  "type_raw": "public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/15155/search",
+  "golfnow_name": "Lincoln Park Golf Course"
  },
  {
   "id": "c1592968-ec4c-40bc-ac30-130e633f27d6",
@@ -15455,7 +15825,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "aec82617-e272-429f-a0f6-55859dbee857",
@@ -15527,7 +15899,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/littleton-golf-and-tennis-club",
    "https://api.opengolfapi.org/api/v1/courses/aec82617-e272-429f-a0f6-55859dbee857",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1038961-littleton-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -15536,7 +15909,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5524/search",
+  "golfnow_name": "Littleton"
  },
  {
   "id": "272e2005-1fe9-4e95-8b77-c28079444d7c",
@@ -15616,7 +15991,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/lone-tree-golf-club-hotel",
    "https://api.opengolfapi.org/api/v1/courses/272e2005-1fe9-4e95-8b77-c28079444d7c",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027960-lone-tree-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -15625,7 +16001,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1576/search",
+  "golfnow_name": "Lone Tree Golf Club"
  },
  {
   "id": "02825e91-8e31-444d-8408-d04266b3b2d3",
@@ -15716,7 +16094,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "7ad47ca2-ecd0-4bdb-91ec-c523f9843dcc",
@@ -15825,7 +16205,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/mariana-butte-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/7ad47ca2-ecd0-4bdb-91ec-c523f9843dcc",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1044220-mariana-butte-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -15834,7 +16215,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1480/search",
+  "golfnow_name": "Mariana Butte Golf Course"
  },
  {
   "id": "c83faf36-8ef2-46d7-9fb1-35af67001982",
@@ -15943,7 +16326,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d7eef8d5-d373-4807-a9fd-baf0492db6a6",
@@ -16038,7 +16423,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "93e0c4da-c56b-4eb5-982b-38cb99284f6b",
@@ -16172,7 +16559,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "89449f7b-521d-4ad1-be00-d932a044aa9d",
@@ -16274,7 +16663,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "4dda5a5a-5589-4584-91ee-7234c37e26c3",
@@ -16320,7 +16711,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/meadows-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/4dda5a5a-5589-4584-91ee-7234c37e26c3",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1038520-the-meadows-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -16329,7 +16721,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1793/search",
+  "golfnow_name": "The Meadows Golf Club"
  },
  {
   "id": "987dd1c9-85cb-440e-9ffd-90028f37795f",
@@ -16406,7 +16800,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/meadows-pinon-at-pagosa-springs-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/987dd1c9-85cb-440e-9ffd-90028f37795f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027972-pagosa-springs-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -16415,7 +16810,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
+  "golfnow_name": "Pagosa Springs Golf Club"
  },
  {
   "id": "9a3ad58c-bb22-4fbd-906e-ce27f76573c3",
@@ -16473,7 +16870,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/meeker-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/9a3ad58c-bb22-4fbd-906e-ce27f76573c3",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027965-meeker-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -16482,7 +16880,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/17475/search",
+  "golfnow_name": "Meeker Golf Course"
  },
  {
   "id": "0b697057-19e9-4d17-bf8f-b8c51920f647",
@@ -16575,7 +16975,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "3699d34b-a8f8-4fc2-8227-564d261bf1d0",
@@ -16653,7 +17055,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "1ec4fd36-957b-42c4-b6cd-15f7c08f779b",
@@ -16720,7 +17124,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9d4722a2-9e9b-49f6-8b91-cb462ea2c0c9",
@@ -16798,7 +17204,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0e60d7ba-5c5c-4dac-abeb-0947b5864ea2",
@@ -16889,7 +17297,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "67a6a5e3-f4d5-45c7-bff7-c166c80f0774",
@@ -16949,7 +17359,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/mount-massive-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/67a6a5e3-f4d5-45c7-bff7-c166c80f0774",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027970-mt-massive-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -16958,7 +17369,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5210/search",
+  "golfnow_name": "Mt. Massive Golf Club"
  },
  {
   "id": "fc05b140-ceaf-4825-9420-9d96a2aef86b",
@@ -17084,7 +17497,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private/Resort"
+  "type_raw": "Semi-Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "af1cf398-8983-42b2-bd45-573c79157160",
@@ -17186,7 +17601,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "5d899689-0414-42a2-bffb-21b531e5855b",
@@ -17266,7 +17683,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8d0699a6-f9f2-431d-be05-5dea0d85c21d",
@@ -17402,7 +17821,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "297187fc-d9f6-48c1-958b-4eb173fb3b7a",
@@ -17457,7 +17878,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/nine-hole-at-south-suburban-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/297187fc-d9f6-48c1-958b-4eb173fb3b7a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027996-south-suburban-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -17466,7 +17888,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/5525/search",
+  "golfnow_name": "South Suburban Golf Course"
  },
  {
   "id": "60e5a302-64b6-45a0-8b2b-a3b2eb92f903",
@@ -17566,7 +17990,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/olde-course-at-loveland",
    "https://api.opengolfapi.org/api/v1/courses/60e5a302-64b6-45a0-8b2b-a3b2eb92f903",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027962-the-olde-course-at-loveland-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -17575,7 +18000,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1947/search",
+  "golfnow_name": "The Olde Course At Loveland"
  },
  {
   "id": "142f4054-873f-48d8-b1de-cd309cfd37ef",
@@ -17712,7 +18139,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/overland-park-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/142f4054-873f-48d8-b1de-cd309cfd37ef",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027971-allgolf-at-overland-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -17721,7 +18149,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1940/search",
+  "golfnow_name": "AllGolf At Overland"
  },
  {
   "id": "87088a3b-5f25-44dd-97a7-2561f5bb44a9",
@@ -17776,7 +18206,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "7399a2b7-2b1f-4b1b-af43-5d2b5b598fc5",
@@ -17833,7 +18265,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "88045812-6824-42fc-8c83-76c8f099442d",
@@ -17907,7 +18341,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/park-hill-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/88045812-6824-42fc-8c83-76c8f099442d",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027973-park-hill-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -17916,7 +18351,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/494/search",
+  "golfnow_name": "Park Hill Golf Club"
  },
  {
   "id": "126eb82c-40e9-4241-9e84-feb8f3456825",
@@ -17989,7 +18426,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/patty-jewett-golf-course-peak-nine",
    "https://api.opengolfapi.org/api/v1/courses/126eb82c-40e9-4241-9e84-feb8f3456825",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027974-patty-jewett-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -17998,7 +18436,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
+  "golfnow_name": "Patty Jewett Golf Course"
  },
  {
   "id": "030c24bf-d5ca-4ace-a9a3-3b5b73567f75",
@@ -18071,7 +18511,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/patty-jewett-golf-course-plains-nine",
    "https://api.opengolfapi.org/api/v1/courses/030c24bf-d5ca-4ace-a9a3-3b5b73567f75",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027974-patty-jewett-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -18080,7 +18521,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
+  "golfnow_name": "Patty Jewett Golf Course"
  },
  {
   "id": "79f01894-0677-4fd7-bb95-a9c413e23901",
@@ -18153,7 +18596,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/patty-jewett-golf-course-prairie-nine",
    "https://api.opengolfapi.org/api/v1/courses/79f01894-0677-4fd7-bb95-a9c413e23901",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027974-patty-jewett-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -18162,7 +18606,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/8581/search",
+  "golfnow_name": "Patty Jewett Golf Course"
  },
  {
   "id": "0e074502-e840-4678-810f-8afdf79bd8ab",
@@ -18265,7 +18711,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8edc6d25-bcab-441e-a0bc-49f31c60bc82",
@@ -18368,7 +18816,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "6063802b-48cb-4738-bb24-0714b916abb4",
@@ -18443,7 +18893,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "15c103da-d649-423f-9d1b-b8b7b0634017",
@@ -18568,7 +19020,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "5a61647e-0524-4d83-b883-2c393dc4b14c",
@@ -18642,7 +19096,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0bbb068d-065c-4822-ae2c-60fc2327ef24",
@@ -18762,7 +19218,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "44fcaea5-391c-4fa4-b3bc-88e4e2dc0c63",
@@ -18853,7 +19311,9 @@
   "type_raw": "private",
   "aliases": [
    "Maxwell 18 At Pinehurst Country Club"
-  ]
+  ],
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "feb88671-5b2b-452c-ac32-56ba3c498a92",
@@ -18958,7 +19418,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b0dfada9-3e3f-47d1-877f-33d92d3ff7ca",
@@ -19035,7 +19497,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/pinon-ponderosa-at-pagosa-springs-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/b0dfada9-3e3f-47d1-877f-33d92d3ff7ca",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027972-pagosa-springs-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -19044,7 +19507,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
+  "golfnow_name": "Pagosa Springs Golf Club"
  },
  {
   "id": "d4608fb6-f63e-4326-bf6f-106d893cf918",
@@ -19095,7 +19560,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0b2f6ff7-e4e3-4be3-bbce-81e30d409cee",
@@ -19213,7 +19680,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0e3bc3e9-6c15-4447-9ea7-5dbe5b3c6a41",
@@ -19290,7 +19759,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/ponderosa-meadows-at-pagosa-springs-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/0e3bc3e9-6c15-4447-9ea7-5dbe5b3c6a41",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027972-pagosa-springs-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -19299,7 +19769,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/11137/search",
+  "golfnow_name": "Pagosa Springs Golf Club"
  },
  {
   "id": "6818f066-0e63-4211-bca7-9825aa9a63cd",
@@ -19410,7 +19882,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ee9878bb-e43a-4f3b-a0d9-4d436a0fcaac",
@@ -19495,7 +19969,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ea0d58e7-07e9-483a-a660-57777ac3f884",
@@ -19581,7 +20057,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "30ff382e-70b4-4dac-a018-b39ed1826500",
@@ -19632,7 +20110,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e490d44a-bc72-4ec0-abf7-b10bbd23dff6",
@@ -19736,7 +20216,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8ea1189b-78de-499b-b06b-e3ff4a4e8823",
@@ -19791,7 +20273,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "902a9674-caaf-4631-a13b-5776b19257cf",
@@ -19854,7 +20338,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0666138b-162f-47ec-b740-c66328ac673e",
@@ -19949,7 +20435,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "fcf76e75-c4c7-42e7-8856-45afa696e426",
@@ -20093,7 +20581,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9659c89d-4754-484d-a319-c3bf25ab2d1d",
@@ -20184,7 +20674,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e33b9957-aed4-48ca-a7c9-f206d3476863",
@@ -20326,7 +20818,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a811da7b-eb9c-45c9-858c-fd56e504e0ea",
@@ -20473,7 +20967,9 @@
   "type_raw": "Private",
   "aliases": [
    "Red Sky Ranch Golf Club- Greg Norman Course"
-  ]
+  ],
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "538cc823-ad43-499c-91f0-4f8911679893",
@@ -20560,7 +21056,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "3a167da7-dc8b-4f6c-b248-b671a237219b",
@@ -20655,7 +21153,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "292ab069-af75-439d-a3e8-bd1311defeb6",
@@ -20717,7 +21217,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/rifle-creek-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/292ab069-af75-439d-a3e8-bd1311defeb6",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027983-rifle-creek-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -20726,7 +21227,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private/Resort"
+  "type_raw": "Semi-Private/Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3559/search",
+  "golfnow_name": "Rifle Creek Golf Course"
  },
  {
   "id": "d8af3db6-698f-448c-88ed-8ffa8ceee7d8",
@@ -20795,7 +21298,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/rio-grande-club",
    "https://api.opengolfapi.org/api/v1/courses/d8af3db6-698f-448c-88ed-8ffa8ceee7d8",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1504330-rio-grande-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -20804,7 +21308,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/4367/search",
+  "golfnow_name": "Rio Grande Club"
  },
  {
   "id": "f35bd0ae-bf9c-4b06-a059-1f8740c1cb91",
@@ -20940,7 +21446,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/river-valley-ranch-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/f35bd0ae-bf9c-4b06-a059-1f8740c1cb91",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1050816-river-valley-ranch-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -20949,7 +21456,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3114/search",
+  "golfnow_name": "River Valley Ranch Golf Club"
  },
  {
   "id": "97e8e50b-5b11-4857-94b5-88cdc7d97fa5",
@@ -21027,7 +21536,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "aacc33b9-aebf-4715-a3c0-e8b7ff8cb08e",
@@ -21097,7 +21608,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9d8d5aae-f097-4751-a256-bbb673bd6a5e",
@@ -21166,7 +21679,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "6ed61926-83d2-400b-8ec7-4ca73aba7022",
@@ -21252,7 +21767,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "af711184-2754-4b1f-aff9-fc5c68f6dfec",
@@ -21311,7 +21828,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e4ea8322-54f0-46a3-9d4e-4a1a0d9d8055",
@@ -21391,7 +21910,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "952812e4-5ca7-4c27-9ebb-2ce788231c35",
@@ -21503,7 +22024,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal/Public"
+  "type_raw": "Municipal/Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "04cc7e17-f8b3-44dd-af3d-ee247684759e",
@@ -21644,7 +22167,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/saddleback-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/04cc7e17-f8b3-44dd-af3d-ee247684759e",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1505350-saddleback-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -21653,7 +22177,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1410/search",
+  "golfnow_name": "Saddleback Golf Club"
  },
  {
   "id": "54f18c0e-04ed-4956-b34b-7423947e02a7",
@@ -21717,7 +22243,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "22dd028c-4f55-4baa-b914-9e0adbd47a9f",
@@ -21759,7 +22287,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/shadow-hills-golf-events-center",
    "https://api.opengolfapi.org/api/v1/courses/22dd028c-4f55-4baa-b914-9e0adbd47a9f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027990-shadow-hills-golf-country-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -21768,7 +22297,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "semi-private"
+  "type_raw": "semi-private",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/4862/search",
+  "golfnow_name": "Shadow Hills Golf & Country Club"
  },
  {
   "id": "b2d87a05-7dc2-45b4-86b0-62cf43614b14",
@@ -21836,7 +22367,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/shining-mountain-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/b2d87a05-7dc2-45b4-86b0-62cf43614b14",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1047658-shining-mountain-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -21845,7 +22377,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/4458/search",
+  "golfnow_name": "Shining Mountain"
  },
  {
   "id": "d66186d9-f5b2-41f0-a12e-ce8bf6be6a96",
@@ -21913,7 +22447,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/short-at-cordillera-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/d66186d9-f5b2-41f0-a12e-ce8bf6be6a96",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1050542-cordillerashrt-crs-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -21922,7 +22457,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort/Public"
+  "type_raw": "Resort/Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/11386/search",
+  "golfnow_name": "Cordillera,Shrt Crs"
  },
  {
   "id": "46633c22-60e7-461b-b01f-6d0f6e122f7a",
@@ -22008,7 +22545,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/silo-sleeping-indian-at-west-woods-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/46633c22-60e7-461b-b01f-6d0f6e122f7a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1046749-west-woods-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -22017,7 +22555,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
+  "golfnow_name": "West Woods Golf Club"
  },
  {
   "id": "72f443c4-7865-409f-a702-88b48606f791",
@@ -22098,7 +22638,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Military"
+  "type_raw": "Military",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b0223713-510b-4f6e-b127-f4dd4911057b",
@@ -22149,7 +22691,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "public"
+  "type_raw": "public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b3cd1477-25a3-4fc4-b6e5-91f83740599b",
@@ -22221,7 +22765,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "b054420d-c2f7-41f1-93da-75275d607d99",
@@ -22307,7 +22853,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/sleeping-indian-cottonwood-at-west-woods-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/b054420d-c2f7-41f1-93da-75275d607d99",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1046749-west-woods-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -22316,7 +22863,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2609/search",
+  "golfnow_name": "West Woods Golf Club"
  },
  {
   "id": "2eba88c5-727b-4bbd-a198-9a206fd27e27",
@@ -22383,7 +22932,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "89406422-6835-4e96-8178-a7386d95c071",
@@ -22500,7 +23051,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "03065e25-3010-4ded-820e-322055f95e2f",
@@ -22600,7 +23153,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/sonnenalp-resort-of-vail",
    "https://api.opengolfapi.org/api/v1/courses/03065e25-3010-4ded-820e-322055f95e2f",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027992-sonnenalp-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -22609,7 +23163,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/6090/search",
+  "golfnow_name": "Sonnenalp Golf Club"
  },
  {
   "id": "8aa18b21-4535-41db-ac75-2583a03c2a62",
@@ -22662,7 +23218,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "931d977c-8c90-4370-a454-e4348ed1a877",
@@ -22748,7 +23306,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/southridge-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/931d977c-8c90-4370-a454-e4348ed1a877",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027995-southridge-golf-club-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -22757,7 +23316,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/9916/search",
+  "golfnow_name": "Southridge Golf Club"
  },
  {
   "id": "dd3d480c-2b1d-4cca-acc5-ebd79c4c55b2",
@@ -22840,7 +23401,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f2f75e15-d508-4e78-9dd7-297e352c4714",
@@ -22952,7 +23515,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8b7ba608-c4db-4ea1-9e2b-53dc7595e6b6",
@@ -23027,7 +23592,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "2871f103-7a4c-4278-a7a6-6df0e41881b9",
@@ -23139,7 +23706,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal/Public"
+  "type_raw": "Municipal/Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8415e3df-8f51-47ee-bd1c-7e9c1b3ab12a",
@@ -23198,7 +23767,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "1f242e2f-e449-4358-869d-0222a95941ce",
@@ -23275,7 +23846,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "73bd9f14-f243-464d-a64e-8d4fdd1c1365",
@@ -23371,7 +23944,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "7c352233-315c-44ec-89b1-c04c172435c3",
@@ -23430,7 +24005,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a88cf7b8-8f6e-45ab-a83a-273062efbff8",
@@ -23564,7 +24141,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9b4214ce-953c-46ab-8311-fbed5c4a43cd",
@@ -23655,7 +24234,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "41483aeb-0abe-47fc-ac6d-852036a17b6b",
@@ -23726,7 +24307,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "0ced9f19-2dd0-4cea-a5fc-db5d6f85e198",
@@ -23780,7 +24363,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/tamarack-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/0ced9f19-2dd0-4cea-a5fc-db5d6f85e198",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1027958-tamarack-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -23789,7 +24373,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/16424/search",
+  "golfnow_name": "Tamarack Golf Course"
  },
  {
   "id": "9a969661-3011-4065-9859-2c0026346079",
@@ -23869,7 +24455,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e708f468-1c80-4313-852a-c817bc32aad8",
@@ -23973,7 +24561,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "ceefdc97-093e-447f-82e2-dc4943a8f458",
@@ -24064,7 +24654,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9c7154cf-fd96-45d8-8ce0-b1b22c9051f8",
@@ -24152,7 +24744,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "39c46a3c-4666-49e3-916f-21a58f5727a2",
@@ -24263,7 +24857,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "189a567e-91e2-49ef-be5d-a53e1b5a4da5",
@@ -24404,7 +25000,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "143daa0b-8933-4c04-9795-787b73c9c206",
@@ -24538,7 +25136,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9b89f18b-602a-4815-921f-6f717d72c5de",
@@ -24640,7 +25240,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "private"
+  "type_raw": "private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "81554f8b-3619-438a-9d0c-d0fa9d84f67f",
@@ -24726,7 +25328,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "9bbebc08-0ecd-4d2a-a07f-ff44eaed7793",
@@ -24817,7 +25421,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "60fd9c1b-e0f3-4637-93ed-24c72b92cf14",
@@ -24910,7 +25516,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "36d5cc03-f337-4fc8-b245-25f3640d3d8f",
@@ -25046,7 +25654,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "797ee984-302c-4ff6-b9af-d1673e07eac0",
@@ -25117,7 +25727,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/the-golf-club-at-redlands-mesa",
    "https://api.opengolfapi.org/api/v1/courses/797ee984-302c-4ff6-b9af-d1673e07eac0",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1505533-the-golf-club-at-redlands-mesa-details"
   ],
   "gd_co_rank": 18,
   "gd_co_name": "Redlands Mesa Golf Course",
@@ -25126,7 +25737,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3590/search",
+  "golfnow_name": "The Golf Club At Redlands Mesa"
  },
  {
   "id": "99ad9f6c-088c-4fa8-b4ce-e560d63a217a",
@@ -25228,7 +25841,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f569ab4b-c115-4b86-a0d7-cc17cdf54590",
@@ -25321,7 +25936,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "410e24e8-f95e-48e9-aa8b-b5c5a74fc9db",
@@ -25400,7 +26017,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "f065ace0-d0ba-41a8-990f-6a91ce70cb71",
@@ -25573,7 +26192,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "e9e32c19-f696-41b5-9438-508a5b68c7b9",
@@ -25650,7 +26271,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "a44d859b-2d85-4253-8b6d-b06ed374c71e",
@@ -25746,7 +26369,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "cc0ff6f3-f3e9-49eb-924d-2e13482a3a0f",
@@ -25851,7 +26476,8 @@
    "https://api.opengolfapi.org/api/v1/courses/cc0ff6f3-f3e9-49eb-924d-2e13482a3a0f",
    "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
    "https://courses.opengolfapi.org/courses/CO/keystone-river-course",
-   "https://api.opengolfapi.org/api/v1/courses/8ca4ab0a-a629-43ca-9c9e-7d00fc187a2f"
+   "https://api.opengolfapi.org/api/v1/courses/8ca4ab0a-a629-43ca-9c9e-7d00fc187a2f",
+   "https://www.golfnow.com/courses/1567797-the-river-course-at-keystone-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -25863,7 +26489,9 @@
   "type_raw": "Resort",
   "aliases": [
    "Keystone River Course"
-  ]
+  ],
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/3481/search",
+  "golfnow_name": "The River Course At Keystone"
  },
  {
   "id": "abff0548-a3ba-4e6f-9f68-62a6290716b5",
@@ -25956,7 +26584,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private"
+  "type_raw": "Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "91ff74a4-4bdd-4160-b049-61475b110266",
@@ -26069,7 +26699,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/thorncreek-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/91ff74a4-4bdd-4160-b049-61475b110266",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1044039-thorncreek-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -26078,7 +26709,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/452/search",
+  "golfnow_name": "Thorncreek Golf Course"
  },
  {
   "id": "dcce068a-acaf-4ae4-b452-0e2e31b12403",
@@ -26164,7 +26797,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/tiara-rado-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/dcce068a-acaf-4ae4-b452-0e2e31b12403",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1028009-tiara-rado-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -26173,7 +26807,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/15154/search",
+  "golfnow_name": "Tiara Rado Golf Course"
  },
  {
   "id": "d711981d-6af6-4102-a1c5-3cc98b692a09",
@@ -26284,7 +26920,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "43c3a4e2-b921-4d92-a2a8-bf49b0dfa38c",
@@ -26418,7 +27056,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "6adbb84e-5f90-4b01-a428-233b5168de93",
@@ -26480,7 +27120,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "98c7fdac-95a7-44ed-b46d-f46d367a89a5",
@@ -26559,7 +27201,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "c0f5906d-5805-4d78-858a-a7f6d5174f40",
@@ -26638,7 +27282,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "d9005c04-b2fd-4cfb-967c-2934eb0a8c04",
@@ -26749,7 +27395,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "74bc7b35-611d-46cc-a202-e2e113636050",
@@ -26911,7 +27559,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "39a439d1-6788-4986-8ef8-2c7bfadc5a78",
@@ -27037,7 +27687,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort"
+  "type_raw": "Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "3359c0fb-f67f-4797-9087-e86c33a365a9",
@@ -27163,7 +27815,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Private/Resort"
+  "type_raw": "Private/Resort",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "337e2fa5-3f0c-4835-bb20-1a7eed529325",
@@ -27236,7 +27890,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/valley-hi-municipal-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/337e2fa5-3f0c-4835-bb20-1a7eed529325",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1028015-valley-hi-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -27245,7 +27900,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/8582/search",
+  "golfnow_name": "Valley Hi Golf Course"
  },
  {
   "id": "5cd7a124-9357-40ce-a63d-627789ce1019",
@@ -27352,7 +28009,9 @@
   "type_raw": "Private",
   "aliases": [
    "The Pinery Country Club"
-  ]
+  ],
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "aed11e4e-a83e-4b24-bf2c-2939fcd49754",
@@ -27430,7 +28089,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/walking-stick-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/aed11e4e-a83e-4b24-bf2c-2939fcd49754",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1041282-walking-stick-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -27439,7 +28099,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/2724/search",
+  "golfnow_name": "Walking Stick Golf Course"
  },
  {
   "id": "8ec0f064-62b4-492d-9b8d-d6e99fc1e76b",
@@ -27575,7 +28237,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "77299331-5f81-4de1-9560-a395425a8255",
@@ -27637,7 +28301,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public/Municipal"
+  "type_raw": "Public/Municipal",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "adb0f4b3-513e-4bca-b09c-1b5fb3c2311a",
@@ -27774,7 +28440,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/wellshire-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/adb0f4b3-513e-4bca-b09c-1b5fb3c2311a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1028018-wellshire-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -27783,7 +28450,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1790/search",
+  "golfnow_name": "Wellshire Golf Course"
  },
  {
   "id": "ecc8cfdf-daca-4721-bfc1-83e474b2416e",
@@ -27876,7 +28545,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Resort/Private"
+  "type_raw": "Resort/Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "871c606b-cc0b-4bd4-a907-322616f1389a",
@@ -28024,7 +28695,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/willis-case-golf-course",
    "https://api.opengolfapi.org/api/v1/courses/871c606b-cc0b-4bd4-a907-322616f1389a",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1028021-willis-case-golf-course-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -28033,7 +28705,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Municipal"
+  "type_raw": "Municipal",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/1944/search",
+  "golfnow_name": "Willis Case Golf Course"
  },
  {
   "id": "228a138d-1e2a-4e6b-b270-1e5b93223918",
@@ -28096,7 +28770,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "8900788f-491d-4a03-8560-bee9da819ac2",
@@ -28154,7 +28830,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "public"
+  "type_raw": "public",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "20c047fd-8714-42d1-9d04-4562bd6f6a81",
@@ -28213,7 +28891,9 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Semi-Private"
+  "type_raw": "Semi-Private",
+  "golfnow_url": null,
+  "golfnow_name": null
  },
  {
   "id": "259d7a3c-4a77-4e7a-abaf-104f307d6024",
@@ -28313,7 +28993,8 @@
   "sources": [
    "https://courses.opengolfapi.org/courses/CO/yampa-valley-golf-club",
    "https://api.opengolfapi.org/api/v1/courses/259d7a3c-4a77-4e7a-abaf-104f307d6024",
-   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)"
+   "https://open-meteo.com/en/docs/elevation-api (elevation derived from coordinates)",
+   "https://www.golfnow.com/courses/1028026-yampa-valley-details"
   ],
   "gd_co_rank": null,
   "gd_co_name": null,
@@ -28322,6 +29003,8 @@
   "gd100_rank": null,
   "gd100_edition": null,
   "gd100_source": null,
-  "type_raw": "Public"
+  "type_raw": "Public",
+  "golfnow_url": "https://www.golfnow.com/tee-times/facility/11055/search",
+  "golfnow_name": "Yampa Valley"
  }
 ]

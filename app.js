@@ -1,3 +1,10 @@
+// === AFFILIATE CONFIG ===========================================
+// Set once GolfNow (or its network) approves us. Leave null for plain links.
+// Example: (url)=>`https://TRACKING-DOMAIN/c/PUBLISHER_ID/AD_ID?u=${encodeURIComponent(url)}`
+const GOLFNOW_AFFILIATE_WRAP = null;
+// ==================================================================
+const bookUrl=c=>c.golfnow_url?(GOLFNOW_AFFILIATE_WRAP?GOLFNOW_AFFILIATE_WRAP(c.golfnow_url):c.golfnow_url):null;
+const bookBtn=(c,big)=>{const u=bookUrl(c);return u?`<a class="book${big?' big':''}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on GolfNow">Book${big?' on GolfNow ↗':''}</a>`:''};
 const D=window.COURSES;let sortK='name',asc=true,openId=null;
 const $=s=>document.querySelector(s);
 const fmtT=m=>{const h=Math.floor(m/60);return h?`${h} hr ${m%60} min`:`${m} min`};
@@ -14,10 +21,10 @@ function rows(){const q=$('#q').value.toLowerCase(),ty=$('#type').value,rg=$('#r
   if(x==null&&y==null)return a.name.localeCompare(b.name);if(x==null)return 1;if(y==null)return -1;
   return (typeof x=='string'?x.localeCompare(y):x-y)*(asc?1:-1)||a.name.localeCompare(b.name)});return L}
 function detail(c){const kv=(k,v)=>`<div class="kv"><span>${k}</span><span>${f(v)}</span></div>`;
- return`<tr class="detail"><td colspan="13"><div class="grid">
+ return`<tr class="detail"><td colspan="14"><div class="grid">
  <div><h4>Course</h4>${kv('Address',c.address?`<a href="${gmapsUrl(c)}" target="_blank" rel="noopener">${c.address}</a>`:null)}${kv('Drive',c.drive_min!=null?`${fmtT(c.drive_min)} · ${c.drive_mi} mi`:null)}${kv('Region',c.region)}${kv('Type (source)',c.type_raw)}${kv('Holes / Par',(c.holes||'—')+' / '+(c.par||'—'))}${kv('Yardage (max)',c.yardage&&c.yardage.toLocaleString())}${kv('Elevation',c.elevation_ft&&c.elevation_ft.toLocaleString()+' ft')}${kv('Architect',c.architect)}${kv('Opened',c.year_opened)}</div>
  <div><h4>Rankings &amp; tee data</h4>${kv('GD Best in Colorado',c.gd_co_rank?`#${c.gd_co_rank} <span class="tag">(${c.gd_co_edition})</span>`:null)}${kv("GD America's 100 Greatest",c.gd100_rank?`#${c.gd100_rank} <span class="tag">(${c.gd100_edition})</span>`:null)}${kv('Listed by GD as',c.gd_co_name)}${kv('Back tee',c.back_tee?c.back_tee+' · '+c.rating+'/'+c.slope+' · par '+c.back_par:null)}</div>
- <div><h4>Rates & contact</h4>${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
+ <div><h4>Rates & contact</h4>${c.golfnow_url?`<div style="margin:2px 0 8px">${bookBtn(c,true)}</div>`:''}${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
  <div><h4>Tees</h4><table class="tees"><tr><th>Tee</th><th>Yds</th><th>Rating</th><th>Slope</th></tr>${(c.tees||[]).map(t=>`<tr><td>${t.tee_name} ${t.gender?'('+t.gender[0]+')':''}</td><td>${f(t.yardage)}</td><td>${f(t.course_rating)}</td><td>${f(t.slope)}</td></tr>`).join('')||'<tr><td colspan=4 class=tag>No tee data</td></tr>'}</table></div>
  <div><h4>Sources</h4>${[...c.sources,c.gd_co_source,c.gd100_source].filter(Boolean).map(u=>`<div><a href="${u.split(' ')[0]}" target="_blank">${u.replace(/https?:\/\//,'').slice(0,60)}</a></div>`).join('')}</div>
  </div></td></tr>`}
@@ -25,7 +32,7 @@ function render(){const L=rows();$('#count').textContent=`${L.length} of ${D.len
  document.querySelectorAll('th[data-k]').forEach(th=>{th.classList.toggle('sorted',th.dataset.k==sortK);th.classList.toggle('asc',asc)});
  $('#t tbody').innerHTML=L.map(c=>`<tr class="row ${openId==c.id?'open':''}" data-id="${c.id}"><td class="name" title="${c.name.replace(/"/g,'&quot;')}">${c.name}${badge(c)}</td><td>${f(c.city)}</td><td class="tag">${f(c.region)}</td><td class="tag">${c.type}</td>
  <td class="num">${c.gd_co_rank?`<span class="rk">${c.gd_co_rank}</span>`:f(null)}</td><td class="num">${f(c.holes)}</td><td class="num">${f(c.par)}</td><td class="num">${c.yardage?c.yardage.toLocaleString():f(null)}</td>
- <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${f(c.drive_min)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
+ <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${f(c.drive_min)}</td><td class="num">${bookBtn(c)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK==k)asc=!asc;else{sortK=k;asc=['name','city','region','type','gd_co_rank','drive_min'].includes(k)}render()});
 $('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render()};
 ['#q','#type','#region','#holes','#ranked'].forEach(s=>$(s).oninput=render);
