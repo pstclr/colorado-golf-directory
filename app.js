@@ -25,7 +25,8 @@ const bookBtn=(c,big)=>{const p=pick(c);if(!p)return'';const[l,u]=p;
 (()=>{const B=SPONSOR_BANNER,el=document.getElementById('banner');if(!B||!el)return;
  const inner=`<img src="${B.image}" alt="${B.alt}" fetchpriority="high"><div class="bn-ov"><span class="bn-lbl">${B.label}</span><span class="bn-txt">${B.text}</span></div>`;
  el.innerHTML=(B.href?`<a href="${B.href}" target="_blank" rel="sponsored noopener">${inner}</a>`:inner)+(B.credit?`<div class="bn-cr">${B.credit}</div>`:'')})();
-const D=window.COURSES;let sortK='name',asc=true,openId=null;
+const D=window.COURSES;
+const isPriv=c=>/private/i.test((c.type||'')+' '+(c.type_raw||''));let sortK='name',asc=true,openId=null;
 const $=s=>document.querySelector(s);
 const fmtT=m=>{const h=Math.floor(m/60);return h?`${h} hr ${m%60} min`:`${m} min`};
 function gmapsUrl(c){const o=window.DRIVE&&DRIVE.origin;const d=c.lat!=null?`${c.lat},${c.lng}`:encodeURIComponent(c.address);return'https://www.google.com/maps/dir/?api=1'+(o?'&origin='+encodeURIComponent(o):'')+'&destination='+d}
@@ -33,10 +34,11 @@ window.rerender=()=>render();
 const f=v=>v==null||v===''?'<span class="na">—</span>':v;
 const badge=c=>c.gd100_rank?`<span class="gd100" title="Golf Digest America's 100 Greatest Golf Courses (${c.gd100_edition}): #${c.gd100_rank}">GD100 #${c.gd100_rank}</span>`:'';
 for(const t of [...new Set(D.map(c=>c.type))].sort())$('#type').innerHTML+=`<option>${t}</option>`;
+for(const n of [...new Set(D.flatMap(c=>c.networks||[]))].sort())$('#network').innerHTML+=`<option>${n}</option>`;
 for(const s of [...new Set(D.map(c=>c.state).filter(Boolean))].sort())$('#state').innerHTML+=`<option>${s}</option>`;
 // Regions are per state: options are grouped by state and values are "STATE|Region".
-function fillRegions(){const st=$('#state').value,cur=$('#region').value;const by={};
- D.forEach(c=>{if(c.region&&(!st||c.state==st))(by[c.state]=by[c.state]||new Set).add(c.region)});
+function fillRegions(){const st=$('#state').value,nw=$('#network').value,cur=$('#region').value;const by={};
+ D.forEach(c=>{if(c.region&&(!st||c.state==st)&&(!nw||(nw=='*'?c.networks:(c.networks||[]).includes(nw))))(by[c.state]=by[c.state]||new Set).add(c.region)});
  const ks=Object.keys(by).sort();$('#region').innerHTML='<option value="">All regions</option>'+ks.map(s=>{const o=[...by[s]].sort().map(r=>`<option value="${s}|${r}">${ks.length>1?s+' · ':''}${r}</option>`).join('');return o}).join('');
  if([...$('#region').options].some(o=>o.value==cur))$('#region').value=cur}
 fillRegions();
@@ -50,7 +52,7 @@ function detail(c){const kv=(k,v)=>`<div class="kv${v!=null&&String(v).replace(/
  const ph=c.photo?`<figure class="cphoto"><img loading="lazy" decoding="async" src="${c.photo.path}" alt="${c.name}"><figcaption>Photo: ${c.photo.author} · <a href="${c.photo.source_url}" target="_blank" rel="noopener">Wikimedia Commons</a> · ${c.photo.license_url?`<a href="${c.photo.license_url}" target="_blank" rel="noopener">${c.photo.license}</a>`:c.photo.license}</figcaption></figure>`:'';
  return`<tr class="detail"><td colspan="16"><div class="grid">
  <div><h4>Course</h4>${kv('Address',c.address?`<a href="${gmapsUrl(c)}" target="_blank" rel="noopener">${c.address}</a>`:null)}${kv('Drive',c.drive_min!=null?`${fmtT(c.drive_min)} · ${c.drive_mi} mi`:null)}${kv('State',c.state)}${kv('Region',c.region)}${kv('Type (source)',c.type_raw)}${kv('Holes / Par',(c.holes||'—')+' / '+(c.par||'—'))}${kv('Yardage (max)',c.yardage&&c.yardage.toLocaleString())}${kv('Elevation',c.elevation_ft&&c.elevation_ft.toLocaleString()+' ft')}${kv('Architect',c.architect_parts?c.architect_parts.map(([t,u])=>u?`<a href="${u}" target="_blank" rel="noopener">${t}</a>`:t).join(''):null)}${kv('Opened',c.year_opened)}</div>
- <div><h4>Rankings &amp; tee data</h4>${kv("GD America's 100 Greatest",c.gd100_rank?`<span class="rk100">#${c.gd100_rank}</span> <span class="tag">(${c.gd100_edition})</span>`:null)}${kv(`GD Best in State (${c.state})`,c.gd_state_rank?`#${c.gd_state_rank} <span class="tag">(${c.gd_state_edition})</span>`:null)}${kv('Listed by GD as',c.gd_state_name)}${kv('Back tee',c.back_tee?c.back_tee+' · '+c.rating+'/'+c.slope+' · par '+c.back_par:null)}</div>
+ <div><h4>Rankings &amp; tee data</h4>${kv("GD America's 100 Greatest",c.gd100_rank?`<span class="rk100">#${c.gd100_rank}</span> <span class="tag">(${c.gd100_edition})</span>`:null)}${kv(`GD Best in State (${c.state})`,c.gd_state_rank?`#${c.gd_state_rank} <span class="tag">(${c.gd_state_edition})</span>`:null)}${kv('Listed by GD as',c.gd_state_name)}${kv('Back tee',c.back_tee?c.back_tee+' · '+c.rating+'/'+c.slope+' · par '+c.back_par:null)}${isPriv(c)?kv('Network',c.networks?c.networks.join(', '):null)+kv('Reciprocal play',c.reciprocal?c.reciprocal+' '+c.access_sources.map((u,k)=>`<a href="${u}" target="_blank" rel="noopener" title="Source">[${k+1}]</a>`).join(''):null):''}</div>
  <div><h4>Rates & contact</h4>${pick(c)?`<div class="bkrow">${bookBtn(c,true)}</div>`:''}${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
  <div><h4>Tees</h4><table class="tees"><tr><th>Tee</th><th>Yds</th><th>Rating</th><th>Slope</th></tr>${(c.tees||[]).map(t=>`<tr><td>${t.tee_name} ${t.gender?'('+t.gender[0]+')':''}</td><td>${f(t.yardage)}</td><td>${f(t.course_rating)}</td><td>${f(t.slope)}</td></tr>`).join('')||'<tr><td colspan=4 class=tag>No tee data</td></tr>'}</table></div>
  <div><h4>Sources</h4>${[...c.sources,c.gd_state_source,c.gd100_source].filter(Boolean).map(u=>`<div><a href="${u.split(' ')[0]}" target="_blank">${u.replace(/https?:\/\//,'').slice(0,60)}</a></div>`).join('')}</div>${ph?`<div class="phslot">${ph}</div>`:''}
@@ -62,7 +64,7 @@ function render(){const L=rows();$('#count').textContent=`${L.length} of ${D.len
  <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${f(c.drive_min)}</td><td class="num">${bookBtn(c)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK==k)asc=!asc;else{sortK=k;asc=['name','state','city','region','type','gd_state_rank','gd100_rank','drive_min'].includes(k)}render()});
 $('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render()};
-['#q','#type','#region','#holes','#ranked'].forEach(s=>$(s).oninput=render);
+['#q','#type','#region','#holes','#ranked','#network'].forEach(s=>$(s).oninput=render);
 $('#state').oninput=()=>{fillRegions();render()};
 const P=new URLSearchParams(location.search);if(P.get('sort')){sortK=P.get('sort');asc=P.get('dir')!='desc'}
 if(P.get('open')){const o=D.find(c=>c.name==P.get('open'));if(o)openId=o.id}

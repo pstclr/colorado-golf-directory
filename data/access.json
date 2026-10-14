@@ -1,0 +1,277 @@
+{
+ "networks": {
+  "Invited": {
+   "recip": "Network clubs (Invited XLife)",
+   "note": "Golf members: preferred access at participating Invited clubs via XLife"
+  },
+  "Troon Privé": {
+   "recip": "Network clubs (Troon Privé)",
+   "note": "Full members: up to 6 rounds/yr at each participating private club, preferred rate; host club booking policy applies"
+  },
+  "Arcis Access": {
+   "recip": "Sister club + Arcis network",
+   "note": "Summit dual membership with sister club; optional Arcis Access for reciprocal clubs"
+  },
+  "Private Club Network": {
+   "recip": "Network clubs (PCN)",
+   "note": "Reciprocal play at PCN partner clubs"
+  },
+  "OpenRounds": {
+   "recip": "Network clubs (OpenRounds)",
+   "note": "Book play at affiliated private clubs"
+  }
+ },
+ "clubs": {
+  "4c28d9a0-abaa-4e1a-a582-1a570bef540a": {
+   "name": "Aspen Glen Club",
+   "networks": [
+    "Invited"
+   ],
+   "sources": [
+    "https://www.invitedclubs.com/clubs/aspen-glen-club/membership/xlife-benefits/"
+   ],
+   "reciprocal": "Network clubs (Invited)"
+  },
+  "0b2fc747-a75e-4eda-9a2f-8988909bb3ab": {
+   "name": "Black Bear Golf Club",
+   "networks": [
+    "Invited"
+   ],
+   "sources": [
+    "https://www.invitedclubs.com/clubs/blackstone-black-bear/membership/"
+   ],
+   "reciprocal": "Network clubs (Invited)"
+  },
+  "79e4e830-d0dd-474e-aacf-9a47624c676c": {
+   "name": "Blackstone Country Club",
+   "networks": [
+    "Invited"
+   ],
+   "sources": [
+    "https://www.invitedclubs.com/clubs/blackstone-black-bear/membership/"
+   ],
+   "reciprocal": "Network clubs (Invited)"
+  },
+  "89d2a9b1-1b11-4c8e-8d31-7e06fe18d452": {
+   "name": "Bookcliff Country Club",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "af5c4abf-b846-44bd-9529-1eb7e5ed1be7": {
+   "name": "Lake Valley Golf Club",
+   "networks": [
+    "Troon Privé",
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf",
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé, PCN)"
+  },
+  "a88cf7b8-8f6e-45ab-a83a-273062efbff8": {
+   "name": "Summit At Cordillera Summit Course",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "fc05b140-ceaf-4825-9420-9d96a2aef86b": {
+   "name": "Mountain At Cordillera Golf Course",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "39a439d1-6788-4986-8ef8-2c7bfadc5a78": {
+   "name": "Valley At Cordillera Golf Course",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "ceefdc97-093e-447f-82e2-dc4943a8f458": {
+   "name": "The Club At Crested Butte",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "9bbebc08-0ecd-4d2a-a07f-ff44eaed7793": {
+   "name": "The Country Club Of Colorado At Cheyenne Mountain Resort",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "3359c0fb-f67f-4797-9087-e86c33a365a9": {
+   "name": "Valley Country Club",
+   "networks": [
+    "Troon Privé"
+   ],
+   "sources": [
+    "https://troon.com/member-programs/private-club-golf"
+   ],
+   "reciprocal": "Network clubs (Troon Privé)"
+  },
+  "aad2778b-bbeb-4682-b001-b72b61f996a9": {
+   "name": "Lake Valley At Pinery Country Club",
+   "networks": [
+    "Arcis Access"
+   ],
+   "sources": [
+    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
+   ],
+   "reciprocal": "Sister club + Arcis network clubs"
+  },
+  "af1cf398-8983-42b2-bd45-573c79157160": {
+   "name": "Mountain Lake At Pinery Country Club",
+   "networks": [
+    "Arcis Access"
+   ],
+   "sources": [
+    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
+   ],
+   "reciprocal": "Sister club + Arcis network clubs"
+  },
+  "5cd7a124-9357-40ce-a63d-627789ce1019": {
+   "name": "Valley Mountain At Pinery Country Club",
+   "networks": [
+    "Arcis Access"
+   ],
+   "sources": [
+    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
+   ],
+   "reciprocal": "Sister club + Arcis network clubs"
+  },
+  "189a567e-91e2-49ef-be5d-a53e1b5a4da5": {
+   "name": "The Club At Pradera",
+   "networks": [
+    "Arcis Access"
+   ],
+   "sources": [
+    "https://arcisgolf.com/clubs/the-club-at-pradera/arcis-access"
+   ],
+   "reciprocal": "Sister club + Arcis network clubs"
+  },
+  "0d2bf55e-418c-48b8-97b2-2a0a2da612a6": {
+   "name": "Colorado Springs Country Club",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "bc827f6e-dfeb-4e6c-b7ee-65867d293e4e": {
+   "name": "Eaton Country Club",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "9f15666d-2637-48d5-8d7e-79a39a3c2caf": {
+   "name": "Fort Collins Country Club",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "d12e5e20-38cd-4ef8-bd02-5533a2fccd25": {
+   "name": "Garden Of The Gods Club North Course",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "64d61cd0-12e0-448f-bce9-79b6dc6950cf": {
+   "name": "Garden Of The Gods Club South Course",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "5fe355c9-159d-424c-a149-a02f7677f0c6": {
+   "name": "Garden Of The Gods Club West Course",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "f7ae312e-a761-4f84-b388-a6d971ae3f2a": {
+   "name": "Kissing Camels at Garden of the Gods Club",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  },
+  "15c103da-d649-423f-9d1b-b8b7b0634017": {
+   "name": "Perry Park Country Club",
+   "networks": [
+    "Private Club Network",
+    "OpenRounds"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf",
+    "https://www.perryparkcc.com/golf/reciprocation"
+   ],
+   "reciprocal": "Network clubs (PCN, OpenRounds)"
+  },
+  "9659c89d-4754-484d-a319-c3bf25ab2d1d": {
+   "name": "Red Rocks Country Club",
+   "networks": [
+    "Private Club Network"
+   ],
+   "sources": [
+    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
+   ],
+   "reciprocal": "Network clubs (PCN)"
+  }
+ },
+ "sources_note": {
+  "Invited": "https://www.invitedclubs.com/clubs",
+  "Troon Privé": "https://troon.com/member-programs/private-club-golf",
+  "Private Club Network": "PCN club list (04-10-2026) as published by Perry Park CC: https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf",
+  "Arcis Access": "arcisgolf.com club Arcis Access pages"
+ },
+ "researched": "2026-10-14"
+}
