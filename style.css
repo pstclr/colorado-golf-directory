@@ -88,3 +88,12 @@ main{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;width:100%;bo
 #t .tees td:first-child,#t .tees th:first-child{padding-right:14px}
 #t .tees td:nth-child(n+2),#t .tees th:nth-child(n+2){padding-left:12px}
 #t .tees{table-layout:auto}
+/* Modern slim scrollbars (dark) */
+html,*{scrollbar-width:thin;scrollbar-color:#3a434e transparent}
+*:hover{scrollbar-color:#56616d transparent}
+::-webkit-scrollbar{width:8px;height:8px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-corner{background:transparent}
+::-webkit-scrollbar-thumb{background:#3a434e;border-radius:8px;border:2px solid transparent;background-clip:padding-box}
+::-webkit-scrollbar-thumb:hover{background:#4d8f88;background-clip:padding-box;border:1px solid transparent}
+::-webkit-scrollbar-thumb:active{background:var(--acc);background-clip:padding-box}
