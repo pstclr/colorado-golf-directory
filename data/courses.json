@@ -125,6 +125,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Rick Phelps",
@@ -210,6 +211,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -315,6 +317,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 2,
   "architect_parts": [
    [
     "Robert Trent Jones Sr.",
@@ -434,6 +437,7 @@
   "access_sources": [
    "https://www.invitedclubs.com/clubs/aspen-glen-club/membership/xlife-benefits/"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -591,6 +595,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -710,6 +715,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry Hughes",
@@ -826,6 +832,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -880,6 +887,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -1016,6 +1024,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Finger Dye Spann",
@@ -1125,6 +1134,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -1214,6 +1224,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -1310,6 +1321,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -1424,6 +1436,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones, Jr.",
@@ -1545,6 +1558,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Art Schaupeter",
@@ -1648,6 +1662,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -1788,6 +1803,7 @@
   "access_sources": [
    "https://www.invitedclubs.com/clubs/blackstone-black-bear/membership/"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jeffrey D. Brauer",
@@ -1894,6 +1910,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Joe Francese",
@@ -2055,6 +2072,7 @@
   "access_sources": [
    "https://www.invitedclubs.com/clubs/blackstone-black-bear/membership/"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jay Morrish",
@@ -2150,6 +2168,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones Sr.",
@@ -2246,6 +2265,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -2339,6 +2359,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -2425,6 +2446,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -2495,6 +2517,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -2597,6 +2620,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones, Jr.",
@@ -2731,6 +2755,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -2796,6 +2821,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald J. Ross",
@@ -2914,6 +2940,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3003,6 +3030,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3131,6 +3159,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 9,
   "architect_parts": [
    [
     "Keith R. Foster",
@@ -3247,6 +3276,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "DENIS GRIFFITHS",
@@ -3450,6 +3480,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -3539,6 +3570,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3626,6 +3658,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3718,6 +3751,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Frank Hummel",
@@ -3811,6 +3845,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3890,6 +3925,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -3966,6 +4002,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -4094,6 +4131,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -4242,6 +4280,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "William Flynn",
@@ -4329,6 +4368,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Richard M. Phelps",
@@ -4428,6 +4468,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Wilson Golf Group",
@@ -4522,6 +4563,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Fort Collins Golf Association",
@@ -4649,6 +4691,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -4737,6 +4780,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -4843,6 +4887,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -4943,6 +4988,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Coore",
@@ -5016,6 +5062,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Coore",
@@ -5150,6 +5197,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 1,
   "architect_parts": [
    [
     "Jay Morrish",
@@ -5261,6 +5309,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -5372,6 +5421,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -5451,6 +5501,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -5594,6 +5645,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Doak",
@@ -5662,6 +5714,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Doak",
@@ -5753,6 +5806,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "J. Press Maxwell",
@@ -5866,6 +5920,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -5974,6 +6029,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Greg Norman",
@@ -6065,6 +6121,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Lee Terry",
@@ -6175,6 +6232,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -6323,6 +6381,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -6431,6 +6490,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -6525,6 +6585,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Matt Eccles",
@@ -6632,6 +6693,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -6747,6 +6809,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -6936,6 +6999,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7108,6 +7172,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7195,6 +7260,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7297,6 +7363,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "John Bulla",
@@ -7423,6 +7490,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Rick Phelps",
@@ -7528,6 +7596,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7662,6 +7731,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7730,6 +7800,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -7852,6 +7923,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arnold Palmer",
@@ -7949,6 +8021,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -8045,6 +8118,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -8186,6 +8260,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Devlin",
@@ -8296,6 +8371,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -8401,6 +8477,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Frank Boxberger",
@@ -8544,6 +8621,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -8642,6 +8720,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -8738,6 +8817,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -8833,6 +8913,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -8899,6 +8980,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -8971,6 +9053,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9165,6 +9248,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9273,6 +9357,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9330,6 +9415,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9390,6 +9476,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9441,6 +9528,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -9578,6 +9666,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "William H. Tucker",
@@ -9669,6 +9758,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -9795,6 +9885,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Richard M. Phelps",
@@ -9873,6 +9964,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -10043,6 +10135,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry Hughes",
@@ -10198,6 +10291,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jim Engh",
@@ -10353,6 +10447,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -10458,6 +10553,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Frank Hummel",
@@ -10598,6 +10694,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Weiskopf",
@@ -10702,6 +10799,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -10802,6 +10900,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -10902,6 +11001,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -11017,6 +11117,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Hale Irwin",
@@ -11141,6 +11242,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -11300,6 +11402,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -11428,6 +11531,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry B. Hughes",
@@ -11560,6 +11664,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -11695,6 +11800,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -11813,6 +11919,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -11924,6 +12031,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Craig Stadler",
@@ -12050,6 +12158,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -12134,6 +12243,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Weiskopf",
@@ -12243,6 +12353,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -12421,6 +12532,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Perry Dye",
@@ -12496,6 +12608,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -12566,6 +12679,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -12664,6 +12778,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 8,
   "architect_parts": null
  },
  {
@@ -12775,6 +12890,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 8,
   "architect_parts": [
    [
     "Frank Hummel",
@@ -12846,6 +12962,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 8,
   "architect_parts": null
  },
  {
@@ -12912,6 +13029,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 8,
   "architect_parts": null
  },
  {
@@ -13025,6 +13143,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -13138,6 +13257,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "James J. Engh",
@@ -13210,6 +13330,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ray Hill",
@@ -13352,6 +13473,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Keith Foster",
@@ -13429,6 +13551,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ebel Family",
@@ -13513,6 +13636,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -13656,6 +13780,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 10,
   "architect_parts": [
    [
     "Arthur Hills",
@@ -13754,6 +13879,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -13865,6 +13991,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -13954,6 +14081,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Hale Irwin",
@@ -14112,6 +14240,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14268,6 +14397,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14363,6 +14493,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Frank Hummel",
@@ -14446,6 +14577,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14522,6 +14654,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14582,6 +14715,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14660,6 +14794,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -14799,6 +14934,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Hale Irwin",
@@ -14936,6 +15072,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Graham",
@@ -15089,6 +15226,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Graham",
@@ -15234,6 +15372,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Graham",
@@ -15315,6 +15454,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "J. Press Maxwell",
@@ -15488,6 +15628,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arthur Hills",
@@ -15641,6 +15782,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -15728,6 +15870,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -15876,6 +16019,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -16027,6 +16171,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -16089,6 +16234,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -16203,6 +16349,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones, Jr.",
@@ -16297,6 +16444,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Redstone Golf Group",
@@ -16366,6 +16514,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -16471,6 +16620,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -16575,6 +16725,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -16658,6 +16809,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -16773,6 +16925,7 @@
   "access_sources": [
    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "David Bingham",
@@ -16944,6 +17097,7 @@
    "https://troon.com/member-programs/private-club-golf",
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -17116,6 +17270,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -17226,6 +17381,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "James Engh",
@@ -17307,6 +17463,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -17429,6 +17586,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arthur Hills",
@@ -17519,6 +17677,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -17630,6 +17789,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Denis Griffiths",
@@ -17726,6 +17886,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -17830,6 +17991,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arnold Palmer",
@@ -17935,6 +18097,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -18063,6 +18226,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -18181,6 +18345,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Fazio",
@@ -18290,6 +18455,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 7,
   "architect_parts": [
    [
     "Denis Griffiths",
@@ -18438,6 +18604,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -18549,6 +18716,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Denis Griffiths",
@@ -18619,6 +18787,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -18736,6 +18905,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -18813,6 +18983,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -18915,6 +19086,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -19007,6 +19179,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -19083,6 +19256,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -19170,6 +19344,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -19270,6 +19445,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -19349,6 +19525,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Adolf Kuss",
@@ -19493,6 +19670,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Fazio",
@@ -19629,6 +19807,7 @@
   "access_sources": [
    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "David Bingham",
@@ -19723,6 +19902,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -19868,6 +20048,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Kenneth M. Kavanaugh",
@@ -19955,6 +20136,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Richard M. Phelps",
@@ -20087,6 +20269,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry B. Hughes",
@@ -20248,6 +20431,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -20317,6 +20501,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Woody Rice",
@@ -20388,6 +20573,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -20481,6 +20667,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -20573,6 +20760,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Willie Campbell",
@@ -20670,6 +20858,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -20762,6 +20951,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -20874,6 +21064,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Mike Heinz",
@@ -20991,6 +21182,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ted Robinson",
@@ -21088,6 +21280,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -21228,6 +21421,7 @@
    "https://www.perryparkcc.com/golf/reciprocation",
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -21316,6 +21510,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -21445,6 +21640,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Richard Phelps",
@@ -21550,6 +21746,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -21677,6 +21874,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "D. J. DeVictor",
@@ -21778,6 +21976,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -21838,6 +22037,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -21965,6 +22165,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -22066,6 +22267,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -22186,6 +22388,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -22285,6 +22488,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry Hughes",
@@ -22385,6 +22589,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry Hughs",
@@ -22466,6 +22671,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -22579,6 +22785,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -22648,6 +22855,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 3,
   "architect_parts": [
    [
     "Fred Funk",
@@ -22733,6 +22941,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -22837,6 +23046,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 7,
   "architect_parts": [
    [
     "Denis Griffiths",
@@ -22995,6 +23205,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -23105,6 +23316,7 @@
   "access_sources": [
    "https://www.perryparkcc.com/images/downloads/pcn-club-list.pdf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -23256,6 +23468,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Fazio",
@@ -23417,6 +23630,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Greg Norman",
@@ -23518,6 +23732,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -23622,6 +23837,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 7,
   "architect_parts": [
    [
     "Denis Griffiths",
@@ -23708,6 +23924,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Richard M. Phelps",
@@ -23801,6 +24018,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -23956,6 +24174,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24043,6 +24262,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -24127,6 +24347,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -24210,6 +24431,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24305,6 +24527,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24373,6 +24596,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24462,6 +24686,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones, II",
@@ -24588,6 +24813,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24748,6 +24974,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24821,6 +25048,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -24882,6 +25110,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Keith Foster",
@@ -24974,6 +25203,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "John F. Harbottle, III",
@@ -25074,6 +25304,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dave Pelz",
@@ -25184,6 +25415,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -25274,6 +25506,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -25334,6 +25567,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ed Kovich",
@@ -25420,6 +25654,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry B. Hughes",
@@ -25530,6 +25765,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -25611,6 +25847,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -25737,6 +25974,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jim Engh",
@@ -25861,6 +26099,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ben Krueger",
@@ -25928,6 +26167,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26033,6 +26273,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Frank Hummel",
@@ -26130,6 +26371,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Labron Harris",
@@ -26256,6 +26498,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26340,6 +26583,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26461,6 +26705,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26529,6 +26774,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26615,6 +26861,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26720,6 +26967,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26788,6 +27036,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -26935,6 +27184,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jack Nicklaus",
@@ -27040,6 +27290,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Gary Player",
@@ -27125,6 +27376,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones II Group",
@@ -27203,6 +27455,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Henry Hughes",
@@ -27297,6 +27550,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Ken Kavanaugh",
@@ -27415,6 +27669,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Nicklaus",
@@ -27524,6 +27779,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -27621,6 +27877,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Weiskopf",
@@ -27754,6 +28011,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Phil Smith",
@@ -27913,6 +28171,7 @@
   "access_sources": [
    "https://arcisgolf.com/clubs/the-club-at-pradera/arcis-access"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jim Engh",
@@ -28061,6 +28320,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -28172,6 +28432,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -28280,6 +28541,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Press Maxwell",
@@ -28389,6 +28651,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "Pete Dye",
@@ -28496,6 +28759,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -28647,6 +28911,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Southwest Greens of Colorado",
@@ -28742,6 +29007,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jim Engh",
@@ -28858,6 +29124,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -28960,6 +29227,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -29048,6 +29316,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dick Phelps",
@@ -29235,6 +29504,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -29327,6 +29597,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 6,
   "architect_parts": [
    [
     "Tom Lehman",
@@ -29453,6 +29724,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Weiskopf",
@@ -29585,6 +29857,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Dr. Michael Hurdzan",
@@ -29700,6 +29973,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Jim Engh",
@@ -29837,6 +30111,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -29942,6 +30217,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Tom Kolacny",
@@ -30067,6 +30343,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arthur Hills",
@@ -30215,6 +30492,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Arthur Schaupeter Golf Course Architects",
@@ -30291,6 +30569,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -30384,6 +30663,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Robert Trent Jones II Group",
@@ -30477,6 +30757,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Hale Irwin",
@@ -30602,6 +30883,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 4,
   "architect_parts": [
    [
     "Robert Trent Jones II Group",
@@ -30778,6 +31060,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": 5,
   "architect_parts": [
    [
     "Ben Krueger",
@@ -30922,6 +31205,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31061,6 +31345,7 @@
   "access_sources": [
    "https://troon.com/member-programs/private-club-golf"
   ],
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31153,6 +31438,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31273,6 +31559,7 @@
   "access_sources": [
    "https://arcisgolf.com/clubs/the-pinery-country-club/arcis-access"
   ],
+  "popular_rank": null,
   "architect_parts": [
    [
     "David Bingham",
@@ -31375,6 +31662,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31520,6 +31808,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31591,6 +31880,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -31747,6 +32037,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -31854,6 +32145,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Donald Ross",
@@ -32026,6 +32318,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -32098,6 +32391,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -32165,6 +32459,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": [
    [
     "Mark Fontana",
@@ -32238,6 +32533,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  },
  {
@@ -32357,6 +32653,7 @@
   "networks": null,
   "reciprocal": null,
   "access_sources": null,
+  "popular_rank": null,
   "architect_parts": null
  }
 ]

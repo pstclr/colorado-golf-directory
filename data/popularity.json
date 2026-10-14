@@ -1,0 +1,1731 @@
+{
+ "generated": "2026-10-14",
+ "definition": "Online buzz (volume of discussion/reviews/views), not quality. Publicly playable only (Public, Municipal, Semi-Private, Resort); private/guest-only and closed (Park Hill) excluded. Multi-course facilities scored as one.",
+ "method": {
+  "normalization": "log1p(value)/log1p(max across eligible CO facilities); media = lists appeared on / 4",
+  "weights": {
+   "golfpass_reviews": 0.45,
+   "youtube_views": 0.45,
+   "media_lists": 0.1,
+   "reddit": 0.0
+  },
+  "weights_note": "Planned 0.35/0.35/0.20 Reddit/0.10; Reddit unavailable (reddit.com 403, pullpush.io 429) so its 0.20 was split equally between GolfPass and YouTube.",
+  "youtube_rule": "Search \"<facility>\" golf colorado; count a video only if its title has the facility phrase + a golf word + Colorado/city context; sum views.",
+  "golfpass": "Max review count across the facility's courses on GolfPass Colorado city directory pages (name match Jaccard>=0.75).",
+  "media_sources": {
+   "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026",
+   "golfweek2025": "https://golfweek.usatoday.com/story/sports/golf/2026/03/13/golfweeks-best-2025-top-public-access-golf-courses-every-state-ranked/83675982007/",
+   "caggy2025_readers": "https://coloradoavidgolfer.com/2025-caggys-list-oflists/",
+   "caggy2025_regional": "https://coloradoavidgolfer.com/the-best-public-golf-courses-in-colorado/"
+  },
+  "gaps": [
+   "Reddit: blocked/rate-limited, no counts collected",
+   "X: recent-count API is 7-day only and near zero (e.g. Fossil Trace 2 posts); not used",
+   "Google/TripAdvisor/18Birdies review counts not collected",
+   "YouTube search returns top results only (not exhaustive); some facility names are generic"
+  ]
+ },
+ "states": {
+  "CO": [
+   {
+    "popular_rank": 1,
+    "facility": "Colorado National",
+    "course_ids": [
+     "db18bece-fceb-4527-adee-36772fc16c17"
+    ],
+    "score": 0.8187,
+    "golfpass_reviews": 588,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/16440-colorado-national-golf-club"
+    ],
+    "youtube_views_matching": 92105,
+    "youtube_matching_videos": 13,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Colorado+National%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "RONs-wcaAiI",
+      "title": "18 Holes of Chaos at Colorado National \u26f3 (Two 15-Handicappers vs Reality)",
+      "views": 77001
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 2,
+    "facility": "Arrowhead",
+    "course_ids": [
+     "f7d79594-81e8-4111-84b1-f056328c3285"
+    ],
+    "score": 0.7958,
+    "golfpass_reviews": 266,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/324-arrowhead-golf-club"
+    ],
+    "youtube_views_matching": 198634,
+    "youtube_matching_videos": 8,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Arrowhead+Golf%22+colorado",
+    "youtube_top": [
+     {
+      "id": "ceIbeRAWdV0",
+      "title": "We Played The Most Beautiful Golf Course In Colorado | Arrowhead Golf Club",
+      "views": 162665
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 3,
+    "facility": "Raindance National",
+    "course_ids": [
+     "8ea1189b-78de-499b-b06b-e3ff4a4e8823"
+    ],
+    "score": 0.7682,
+    "golfpass_reviews": 48,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/42977-raindance-national"
+    ],
+    "youtube_views_matching": 451839,
+    "youtube_matching_videos": 7,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Raindance+National%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "NPhG3Ypg62Q",
+      "title": "RainDance in Windsor, CO | Interview with Fred Funk at RainDance National Resort \\u0026 Golf",
+      "views": 302765
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026",
+     "golfweek2025": "https://golfweek.usatoday.com/story/sports/golf/2026/03/13/golfweeks-best-2025-top-public-access-golf-courses-every-state-ranked/83675982007/",
+     "caggy2025_regional": "https://coloradoavidgolfer.com/the-best-public-golf-courses-in-colorado/"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 4,
+    "facility": "Ute Creek",
+    "course_ids": [
+     "d9005c04-b2fd-4cfb-967c-2934eb0a8c04"
+    ],
+    "score": 0.7506,
+    "golfpass_reviews": 754,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/4264-ute-creek-golf-course"
+    ],
+    "youtube_views_matching": 8212,
+    "youtube_matching_videos": 7,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Ute+Creek%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "R3fOXoeTMO4",
+      "title": "Looking for a Home in Longmont, CO? Tour This 3 Bed Near Ute Creek Golf Course #movingtocolorado",
+      "views": 7226
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 5,
+    "facility": "Vail",
+    "course_ids": [
+     "74bc7b35-611d-46cc-a202-e2e113636050"
+    ],
+    "score": 0.7234,
+    "golfpass_reviews": 305,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/334-vail-golf-club"
+    ],
+    "youtube_views_matching": 19140,
+    "youtube_matching_videos": 11,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Vail+Golf%22+colorado",
+    "youtube_top": [
+     {
+      "id": "bd4lRaMRPCI",
+      "title": "Eagle Vail Golf Club Hole #1",
+      "views": 8143
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 6,
+    "facility": "Raven",
+    "course_ids": [
+     "e9e32c19-f696-41b5-9438-508a5b68c7b9"
+    ],
+    "score": 0.7113,
+    "golfpass_reviews": 498,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/16441-the-raven-golf-club-at-three-peaks"
+    ],
+    "youtube_views_matching": 11471,
+    "youtube_matching_videos": 4,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Raven%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "p0CN2HlAVws",
+      "title": "Raven at Three Peaks Golf Club #shottracer #pxg #firefighter #colorado",
+      "views": 7113
+     }
+    ],
+    "media_lists": {},
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 7,
+    "facility": "Pole Creek",
+    "course_ids": [
+     "d7eef8d5-d373-4807-a9fd-baf0492db6a6",
+     "0666138b-162f-47ec-b740-c66328ac673e",
+     "3a167da7-dc8b-4f6c-b248-b671a237219b"
+    ],
+    "score": 0.7076,
+    "golfpass_reviews": 297,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/20689-meadow-golf-course-at-pole-creek-golf-club",
+     "https://www.golfpass.com/travel-advisor/courses/15130-ranch-golf-course-at-pole-creek-golf-club",
+     "https://www.golfpass.com/travel-advisor/courses/20688-ridge-golf-course-at-pole-creek-golf-club"
+    ],
+    "youtube_views_matching": 6153,
+    "youtube_matching_videos": 7,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Pole+Creek%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "rKsrdZgE98U",
+      "title": "Pole Creek Golf Course Tabernash, Colorado.  Drone Footage 27 holes Tee to Green",
+      "views": 2457
+     }
+    ],
+    "media_lists": {
+     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026",
+     "caggy2025_regional": "https://coloradoavidgolfer.com/the-best-public-golf-courses-in-colorado/"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 8,
+    "facility": "Hyland Hills",
+    "course_ids": [
+     "f5700022-6a95-48fe-a2e9-cb56582b9711",
+     "9132335e-79ae-4eb2-9d7a-c31eb00d0321",
+     "1ed2fdc5-d0a3-4fe8-96cd-a85bf1dd6efa",
+     "76d69b50-8c6d-455a-b7e5-11ee0c972dc1"
+    ],
+    "score": 0.7026,
+    "golfpass_reviews": 1339,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/4303-greg-mastriona-golf-courses-at-hyland-hills-blue-course",
+     "https://www.golfpass.com/travel-advisor/courses/4306-greg-mastriona-golf-courses-at-hyland-hills-gold-course",
+     "https://www.golfpass.com/travel-advisor/courses/4304-greg-mastriona-golf-courses-at-hyland-hills-north-par-3-course",
+     "https://www.golfpass.com/travel-advisor/courses/4305-greg-mastriona-golf-courses-at-hyland-hills-south-par-3-course"
+    ],
+    "youtube_views_matching": 1492,
+    "youtube_matching_videos": 3,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Hyland+Hills%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "sqFLFeus4ig",
+      "title": "Hyland Hills Golf Course | GolfShire Homes | Buy \\u0026 Sell Luxury Real Estate near Westminster, CO",
+      "views": 632
+     }
+    ],
+    "media_lists": {},
+    "reddit": null,
+    "golfnow_book": true
+   },
+   {
+    "popular_rank": 9,
+    "facility": "Buffalo Run",
+    "course_ids": [
+     "da4b6bf3-9f08-46b5-b1a6-2d6944711b07"
+    ],
+    "score": 0.6976,
+    "golfpass_reviews": 620,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/48-buffalo-run-golf-course"
+    ],
+    "youtube_views_matching": 5187,
+    "youtube_matching_videos": 9,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Buffalo+Run%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "Oo5cL7vnu74",
+      "title": "Fire at Buffalo Run Golf Course in Colorado under investigation",
+      "views": 3436
+     }
+    ],
+    "media_lists": {},
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 10,
+    "facility": "Heritage Eagle Bend",
+    "course_ids": [
+     "a80b52d7-ad25-412c-a0de-0a4b27b79a89"
+    ],
+    "score": 0.6963,
+    "golfpass_reviews": 135,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/16234-heritage-eagle-bend-golf-club"
+    ],
+    "youtube_views_matching": 37851,
+    "youtube_matching_videos": 15,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Heritage+Eagle+Bend%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "w_3XhvEAJf4",
+      "title": "Hole 1  Aerial Video Heritage Eagle Bend Aurora - Denver Colorado Golf Club",
+      "views": 7709
+     }
+    ],
+    "media_lists": {
+     "caggy2025_regional": "https://coloradoavidgolfer.com/the-best-public-golf-courses-in-colorado/"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   }
+  ]
+ },
+ "all_scores_CO": [
+  {
+   "facility": "Colorado National",
+   "score": 0.8187,
+   "golfpass_reviews": 588,
+   "youtube_views": 92105,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Arrowhead",
+   "score": 0.7958,
+   "golfpass_reviews": 266,
+   "youtube_views": 198634,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Raindance National",
+   "score": 0.7682,
+   "golfpass_reviews": 48,
+   "youtube_views": 451839,
+   "media": [
+    "golfpass_gc2026",
+    "golfweek2025",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Ute Creek",
+   "score": 0.7506,
+   "golfpass_reviews": 754,
+   "youtube_views": 8212,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Vail",
+   "score": 0.7234,
+   "golfpass_reviews": 305,
+   "youtube_views": 19140,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Raven",
+   "score": 0.7113,
+   "golfpass_reviews": 498,
+   "youtube_views": 11471,
+   "media": []
+  },
+  {
+   "facility": "Pole Creek",
+   "score": 0.7076,
+   "golfpass_reviews": 297,
+   "youtube_views": 6153,
+   "media": [
+    "golfpass_gc2026",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Hyland Hills",
+   "score": 0.7026,
+   "golfpass_reviews": 1339,
+   "youtube_views": 1492,
+   "media": []
+  },
+  {
+   "facility": "Buffalo Run",
+   "score": 0.6976,
+   "golfpass_reviews": 620,
+   "youtube_views": 5187,
+   "media": []
+  },
+  {
+   "facility": "Heritage Eagle Bend",
+   "score": 0.6963,
+   "golfpass_reviews": 135,
+   "youtube_views": 37851,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Red Hawk Ridge",
+   "score": 0.6899,
+   "golfpass_reviews": 119,
+   "youtube_views": 39443,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Redlands Mesa",
+   "score": 0.6895,
+   "golfpass_reviews": 40,
+   "youtube_views": 63879,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Heather Ridge",
+   "score": 0.6885,
+   "golfpass_reviews": 1104,
+   "youtube_views": 1408,
+   "media": []
+  },
+  {
+   "facility": "Lone Tree",
+   "score": 0.6869,
+   "golfpass_reviews": 224,
+   "youtube_views": 23925,
+   "media": []
+  },
+  {
+   "facility": "Four Mile Ranch",
+   "score": 0.6842,
+   "golfpass_reviews": 559,
+   "youtube_views": 2063,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Twin Peaks",
+   "score": 0.6764,
+   "golfpass_reviews": 486,
+   "youtube_views": 4365,
+   "media": []
+  },
+  {
+   "facility": "Spring Valley",
+   "score": 0.6734,
+   "golfpass_reviews": 552,
+   "youtube_views": 1543,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Lakota Links",
+   "score": 0.6663,
+   "golfpass_reviews": 228,
+   "youtube_views": 3000,
+   "media": [
+    "golfpass_gc2026",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Eagle Ranch",
+   "score": 0.664,
+   "golfpass_reviews": 104,
+   "youtube_views": 23738,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Plum Creek",
+   "score": 0.6636,
+   "golfpass_reviews": 435,
+   "youtube_views": 3680,
+   "media": []
+  },
+  {
+   "facility": "Raccoon Creek",
+   "score": 0.6633,
+   "golfpass_reviews": 496,
+   "youtube_views": 2877,
+   "media": []
+  },
+  {
+   "facility": "Coyote Creek",
+   "score": 0.6561,
+   "golfpass_reviews": 816,
+   "youtube_views": 950,
+   "media": []
+  },
+  {
+   "facility": "Pine Creek",
+   "score": 0.6558,
+   "golfpass_reviews": 549,
+   "youtube_views": 1928,
+   "media": []
+  },
+  {
+   "facility": "Antler Creek",
+   "score": 0.6536,
+   "golfpass_reviews": 533,
+   "youtube_views": 1907,
+   "media": []
+  },
+  {
+   "facility": "Shining Mountain",
+   "score": 0.6498,
+   "golfpass_reviews": 190,
+   "youtube_views": 10977,
+   "media": []
+  },
+  {
+   "facility": "Copper Creek",
+   "score": 0.6459,
+   "golfpass_reviews": 299,
+   "youtube_views": 4340,
+   "media": []
+  },
+  {
+   "facility": "Flatirons",
+   "score": 0.6458,
+   "golfpass_reviews": 121,
+   "youtube_views": 22013,
+   "media": []
+  },
+  {
+   "facility": "Evergreen",
+   "score": 0.6456,
+   "golfpass_reviews": 91,
+   "youtube_views": 36427,
+   "media": []
+  },
+  {
+   "facility": "Tpc Colorado",
+   "score": 0.6451,
+   "golfpass_reviews": 9,
+   "youtube_views": 226946,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Wellshire",
+   "score": 0.6433,
+   "golfpass_reviews": 122,
+   "youtube_views": 20201,
+   "media": []
+  },
+  {
+   "facility": "Broken Tee",
+   "score": 0.643,
+   "golfpass_reviews": 298,
+   "youtube_views": 4016,
+   "media": []
+  },
+  {
+   "facility": "Quail Dunes",
+   "score": 0.6425,
+   "golfpass_reviews": 335,
+   "youtube_views": 1554,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Fossil Trace",
+   "score": 0.6416,
+   "golfpass_reviews": 32,
+   "youtube_views": 100514,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Willis Case",
+   "score": 0.6358,
+   "golfpass_reviews": 128,
+   "youtube_views": 14878,
+   "media": []
+  },
+  {
+   "facility": "Eagle Trace",
+   "score": 0.6332,
+   "golfpass_reviews": 151,
+   "youtube_views": 10272,
+   "media": []
+  },
+  {
+   "facility": "Overland Park",
+   "score": 0.6293,
+   "golfpass_reviews": 100,
+   "youtube_views": 19227,
+   "media": []
+  },
+  {
+   "facility": "Kennedy Golf",
+   "score": 0.6291,
+   "golfpass_reviews": 119,
+   "youtube_views": 13984,
+   "media": []
+  },
+  {
+   "facility": "West Woods",
+   "score": 0.6266,
+   "golfpass_reviews": 102,
+   "youtube_views": 17165,
+   "media": []
+  },
+  {
+   "facility": "Grand Lake",
+   "score": 0.6198,
+   "golfpass_reviews": 128,
+   "youtube_views": 9380,
+   "media": []
+  },
+  {
+   "facility": "Todd Creek",
+   "score": 0.6186,
+   "golfpass_reviews": 877,
+   "youtube_views": 281,
+   "media": []
+  },
+  {
+   "facility": "Rifle Creek",
+   "score": 0.6146,
+   "golfpass_reviews": 137,
+   "youtube_views": 7136,
+   "media": []
+  },
+  {
+   "facility": "River",
+   "score": 0.6109,
+   "golfpass_reviews": 42,
+   "youtube_views": 12419,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers"
+   ]
+  },
+  {
+   "facility": "Saddle Rock",
+   "score": 0.6067,
+   "golfpass_reviews": 76,
+   "youtube_views": 7921,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Grand Elk",
+   "score": 0.6041,
+   "golfpass_reviews": 179,
+   "youtube_views": 1580,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Thorncreek",
+   "score": 0.6033,
+   "golfpass_reviews": 181,
+   "youtube_views": 3121,
+   "media": []
+  },
+  {
+   "facility": "Sunset",
+   "score": 0.5929,
+   "golfpass_reviews": 291,
+   "youtube_views": 983,
+   "media": []
+  },
+  {
+   "facility": "Littleton Golf And Tennis",
+   "score": 0.5908,
+   "golfpass_reviews": 164,
+   "youtube_views": 2593,
+   "media": []
+  },
+  {
+   "facility": "Green Valley Ranch",
+   "score": 0.587,
+   "golfpass_reviews": 181,
+   "youtube_views": 1948,
+   "media": []
+  },
+  {
+   "facility": "Meadows",
+   "score": 0.5845,
+   "golfpass_reviews": 490,
+   "youtube_views": 145,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Boomerang Links",
+   "score": 0.5787,
+   "golfpass_reviews": 144,
+   "youtube_views": 1120,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Bear Dance",
+   "score": 0.5697,
+   "golfpass_reviews": 26,
+   "youtube_views": 4248,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Meadow Hills",
+   "score": 0.5672,
+   "golfpass_reviews": 73,
+   "youtube_views": 2714,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Eaglevail",
+   "score": 0.5667,
+   "golfpass_reviews": 230,
+   "youtube_views": 340,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Haymaker",
+   "score": 0.5599,
+   "golfpass_reviews": 24,
+   "youtube_views": 7578,
+   "media": [
+    "caggy2025_readers",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Stoney Creek",
+   "score": 0.5518,
+   "golfpass_reviews": 248,
+   "youtube_views": 398,
+   "media": []
+  },
+  {
+   "facility": "Keystone Ranch",
+   "score": 0.5507,
+   "golfpass_reviews": 29,
+   "youtube_views": 17735,
+   "media": []
+  },
+  {
+   "facility": "Aurora Hills",
+   "score": 0.5499,
+   "golfpass_reviews": 80,
+   "youtube_views": 1395,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Bridges",
+   "score": 0.5484,
+   "golfpass_reviews": 58,
+   "youtube_views": 4883,
+   "media": []
+  },
+  {
+   "facility": "Gypsum Creek",
+   "score": 0.5474,
+   "golfpass_reviews": 52,
+   "youtube_views": 5771,
+   "media": []
+  },
+  {
+   "facility": "Mad Russian",
+   "score": 0.5466,
+   "golfpass_reviews": 250,
+   "youtube_views": 163,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Denver City Park",
+   "score": 0.5421,
+   "golfpass_reviews": 99,
+   "youtube_views": 1569,
+   "media": []
+  },
+  {
+   "facility": "Deer Creek",
+   "score": 0.5386,
+   "golfpass_reviews": 311,
+   "youtube_views": 180,
+   "media": []
+  },
+  {
+   "facility": "Hollydot",
+   "score": 0.5381,
+   "golfpass_reviews": 146,
+   "youtube_views": 696,
+   "media": []
+  },
+  {
+   "facility": "Coal Creek",
+   "score": 0.5361,
+   "golfpass_reviews": 36,
+   "youtube_views": 7954,
+   "media": []
+  },
+  {
+   "facility": "Breckenridge Golf",
+   "score": 0.5343,
+   "golfpass_reviews": 32,
+   "youtube_views": 4515,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Indian Peaks",
+   "score": 0.5343,
+   "golfpass_reviews": 47,
+   "youtube_views": 2288,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Ironbridge",
+   "score": 0.5328,
+   "golfpass_reviews": 117,
+   "youtube_views": 430,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Mariana Butte",
+   "score": 0.5327,
+   "golfpass_reviews": 10,
+   "youtube_views": 31376,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Murphy Creek",
+   "score": 0.5287,
+   "golfpass_reviews": 134,
+   "youtube_views": 618,
+   "media": []
+  },
+  {
+   "facility": "Fox Hollow",
+   "score": 0.5268,
+   "golfpass_reviews": 13,
+   "youtube_views": 35309,
+   "media": []
+  },
+  {
+   "facility": "Highland Hills",
+   "score": 0.5262,
+   "golfpass_reviews": 149,
+   "youtube_views": 230,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Divide Ranch",
+   "score": 0.5239,
+   "golfpass_reviews": 78,
+   "youtube_views": 688,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Golf Granby Ranch",
+   "score": 0.5203,
+   "golfpass_reviews": 68,
+   "youtube_views": 1632,
+   "media": []
+  },
+  {
+   "facility": "Patty Jewett",
+   "score": 0.5163,
+   "golfpass_reviews": 49,
+   "youtube_views": 1263,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Greenway Park",
+   "score": 0.5114,
+   "golfpass_reviews": 152,
+   "youtube_views": 298,
+   "media": []
+  },
+  {
+   "facility": "Broadlands",
+   "score": 0.5018,
+   "golfpass_reviews": 110,
+   "youtube_views": 404,
+   "media": []
+  },
+  {
+   "facility": "Lake Arbor",
+   "score": 0.4999,
+   "golfpass_reviews": 66,
+   "youtube_views": 953,
+   "media": []
+  },
+  {
+   "facility": "Harvard Gulch",
+   "score": 0.4971,
+   "golfpass_reviews": 12,
+   "youtube_views": 17070,
+   "media": []
+  },
+  {
+   "facility": "Cedaredge",
+   "score": 0.4969,
+   "golfpass_reviews": 52,
+   "youtube_views": 648,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "River Valley Ranch",
+   "score": 0.487,
+   "golfpass_reviews": 35,
+   "youtube_views": 474,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers"
+   ]
+  },
+  {
+   "facility": "Applewood",
+   "score": 0.4867,
+   "golfpass_reviews": 94,
+   "youtube_views": 346,
+   "media": []
+  },
+  {
+   "facility": "South Suburban",
+   "score": 0.4713,
+   "golfpass_reviews": 108,
+   "youtube_views": 172,
+   "media": []
+  },
+  {
+   "facility": "Beaver Creek",
+   "score": 0.4707,
+   "golfpass_reviews": 9,
+   "youtube_views": 12789,
+   "media": []
+  },
+  {
+   "facility": "Sumo Golf Village",
+   "score": 0.4702,
+   "golfpass_reviews": 37,
+   "youtube_views": 1125,
+   "media": []
+  },
+  {
+   "facility": "Springhill",
+   "score": 0.4696,
+   "golfpass_reviews": 57,
+   "youtube_views": 514,
+   "media": []
+  },
+  {
+   "facility": "Pelican Lakes",
+   "score": 0.4653,
+   "golfpass_reviews": 30,
+   "youtube_views": 684,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Fox Acres",
+   "score": 0.4652,
+   "golfpass_reviews": 30,
+   "youtube_views": 682,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Commonground",
+   "score": 0.4646,
+   "golfpass_reviews": 21,
+   "youtube_views": 293,
+   "media": [
+    "golfweek2025",
+    "caggy2025_readers",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Haystack Mountain",
+   "score": 0.4612,
+   "golfpass_reviews": 60,
+   "youtube_views": 368,
+   "media": []
+  },
+  {
+   "facility": "Bella Rosa",
+   "score": 0.4572,
+   "golfpass_reviews": 48,
+   "youtube_views": 488,
+   "media": []
+  },
+  {
+   "facility": "Rollingstone Ranch",
+   "score": 0.4566,
+   "golfpass_reviews": 48,
+   "youtube_views": 232,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Ridge At Castle Pines Colorado",
+   "score": 0.4484,
+   "golfpass_reviews": 586,
+   "youtube_views": 0,
+   "media": [
+    "golfpass_gc2026",
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Riverdale",
+   "score": 0.4436,
+   "golfpass_reviews": 33,
+   "youtube_views": 638,
+   "media": []
+  },
+  {
+   "facility": "Aspen",
+   "score": 0.4338,
+   "golfpass_reviews": 5,
+   "youtube_views": 11055,
+   "media": []
+  },
+  {
+   "facility": "Walking Stick",
+   "score": 0.4302,
+   "golfpass_reviews": 7,
+   "youtube_views": 2872,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Cattail Creek",
+   "score": 0.4217,
+   "golfpass_reviews": 3,
+   "youtube_views": 16234,
+   "media": []
+  },
+  {
+   "facility": "Homestead",
+   "score": 0.4189,
+   "golfpass_reviews": 9,
+   "youtube_views": 2855,
+   "media": []
+  },
+  {
+   "facility": "Pagosa Springs Golf",
+   "score": 0.4188,
+   "golfpass_reviews": 19,
+   "youtube_views": 813,
+   "media": []
+  },
+  {
+   "facility": "Grandote Peaks",
+   "score": 0.4174,
+   "golfpass_reviews": 11,
+   "youtube_views": 952,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Legacy Ridge",
+   "score": 0.4173,
+   "golfpass_reviews": 11,
+   "youtube_views": 1958,
+   "media": []
+  },
+  {
+   "facility": "Tiara Rado",
+   "score": 0.3908,
+   "golfpass_reviews": 38,
+   "youtube_views": 107,
+   "media": []
+  },
+  {
+   "facility": "Saddleback",
+   "score": 0.3894,
+   "golfpass_reviews": 9,
+   "youtube_views": 1216,
+   "media": []
+  },
+  {
+   "facility": "Hillcrest",
+   "score": 0.3844,
+   "golfpass_reviews": 2,
+   "youtube_views": 9295,
+   "media": []
+  },
+  {
+   "facility": "Indian Tree",
+   "score": 0.3833,
+   "golfpass_reviews": 8,
+   "youtube_views": 1233,
+   "media": []
+  },
+  {
+   "facility": "Foothills Golf",
+   "score": 0.381,
+   "golfpass_reviews": 443,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Southridge",
+   "score": 0.3738,
+   "golfpass_reviews": 13,
+   "youtube_views": 421,
+   "media": []
+  },
+  {
+   "facility": "Mount Massive",
+   "score": 0.3722,
+   "golfpass_reviews": 8,
+   "youtube_views": 894,
+   "media": []
+  },
+  {
+   "facility": "Yampa Valley",
+   "score": 0.3714,
+   "golfpass_reviews": 33,
+   "youtube_views": 78,
+   "media": []
+  },
+  {
+   "facility": "Highland Meadows",
+   "score": 0.3666,
+   "golfpass_reviews": 8,
+   "youtube_views": 368,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Tamarack",
+   "score": 0.3659,
+   "golfpass_reviews": 6,
+   "youtube_views": 1175,
+   "media": []
+  },
+  {
+   "facility": "Battlement Mesa",
+   "score": 0.3646,
+   "golfpass_reviews": 4,
+   "youtube_views": 1007,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Cordillera",
+   "score": 0.3639,
+   "golfpass_reviews": 7,
+   "youtube_views": 870,
+   "media": []
+  },
+  {
+   "facility": "Salida",
+   "score": 0.3551,
+   "golfpass_reviews": 2,
+   "youtube_views": 3973,
+   "media": []
+  },
+  {
+   "facility": "Walnut Creek",
+   "score": 0.3453,
+   "golfpass_reviews": 13,
+   "youtube_views": 184,
+   "media": []
+  },
+  {
+   "facility": "Cherokee Ridge",
+   "score": 0.3386,
+   "golfpass_reviews": 12,
+   "youtube_views": 173,
+   "media": []
+  },
+  {
+   "facility": "Bella Ridge",
+   "score": 0.334,
+   "golfpass_reviews": 4,
+   "youtube_views": 857,
+   "media": []
+  },
+  {
+   "facility": "Links",
+   "score": 0.328,
+   "golfpass_reviews": null,
+   "youtube_views": 13224,
+   "media": []
+  },
+  {
+   "facility": "Collegiate Peaks",
+   "score": 0.3279,
+   "golfpass_reviews": 4,
+   "youtube_views": 717,
+   "media": []
+  },
+  {
+   "facility": "Rio Grande",
+   "score": 0.3279,
+   "golfpass_reviews": 2,
+   "youtube_views": 876,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Highlands Ranch",
+   "score": 0.3252,
+   "golfpass_reviews": null,
+   "youtube_views": 12201,
+   "media": []
+  },
+  {
+   "facility": "Estes Park",
+   "score": 0.3221,
+   "golfpass_reviews": 5,
+   "youtube_views": 436,
+   "media": []
+  },
+  {
+   "facility": "Kings Deer",
+   "score": 0.3215,
+   "golfpass_reviews": 114,
+   "youtube_views": 0,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Collindale",
+   "score": 0.3174,
+   "golfpass_reviews": 8,
+   "youtube_views": 182,
+   "media": []
+  },
+  {
+   "facility": "Trinidad",
+   "score": 0.3161,
+   "golfpass_reviews": 29,
+   "youtube_views": 19,
+   "media": []
+  },
+  {
+   "facility": "Emerald Greens",
+   "score": 0.314,
+   "golfpass_reviews": 151,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Conquistador",
+   "score": 0.3097,
+   "golfpass_reviews": 3,
+   "youtube_views": 634,
+   "media": []
+  },
+  {
+   "facility": "Desert Hawk At Pueblo West",
+   "score": 0.3079,
+   "golfpass_reviews": 6,
+   "youtube_views": 218,
+   "media": []
+  },
+  {
+   "facility": "Interlocken",
+   "score": 0.3076,
+   "golfpass_reviews": null,
+   "youtube_views": 3561,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Sky Ranch",
+   "score": 0.2936,
+   "golfpass_reviews": 9,
+   "youtube_views": 75,
+   "media": []
+  },
+  {
+   "facility": "University Of Denver",
+   "score": 0.2926,
+   "golfpass_reviews": 2,
+   "youtube_views": 650,
+   "media": []
+  },
+  {
+   "facility": "Olde",
+   "score": 0.2805,
+   "golfpass_reviews": 7,
+   "youtube_views": 77,
+   "media": []
+  },
+  {
+   "facility": "Adobe Creek",
+   "score": 0.2753,
+   "golfpass_reviews": 4,
+   "youtube_views": 156,
+   "media": []
+  },
+  {
+   "facility": "Spreading Antlers",
+   "score": 0.2663,
+   "golfpass_reviews": 2,
+   "youtube_views": 304,
+   "media": []
+  },
+  {
+   "facility": "Elmwood",
+   "score": 0.2638,
+   "golfpass_reviews": 0,
+   "youtube_views": 2065,
+   "media": []
+  },
+  {
+   "facility": "Black Canyon",
+   "score": 0.2586,
+   "golfpass_reviews": 2,
+   "youtube_views": 243,
+   "media": []
+  },
+  {
+   "facility": "Steamboat",
+   "score": 0.2516,
+   "golfpass_reviews": 55,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Valley Hi Municipal",
+   "score": 0.2445,
+   "golfpass_reviews": 49,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Dalton Ranch",
+   "score": 0.242,
+   "golfpass_reviews": 0,
+   "youtube_views": 1099,
+   "media": []
+  },
+  {
+   "facility": "Riverview",
+   "score": 0.2391,
+   "golfpass_reviews": 0,
+   "youtube_views": 1011,
+   "media": []
+  },
+  {
+   "facility": "Devils Thumb",
+   "score": 0.2376,
+   "golfpass_reviews": 29,
+   "youtube_views": 0,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Shadow Hills",
+   "score": 0.2312,
+   "golfpass_reviews": null,
+   "youtube_views": 804,
+   "media": []
+  },
+  {
+   "facility": "Club At Crested Butte",
+   "score": 0.2288,
+   "golfpass_reviews": 2,
+   "youtube_views": 102,
+   "media": []
+  },
+  {
+   "facility": "Mountain Vista Greens",
+   "score": 0.2284,
+   "golfpass_reviews": 1,
+   "youtube_views": 211,
+   "media": []
+  },
+  {
+   "facility": "Meeker",
+   "score": 0.2279,
+   "golfpass_reviews": 0,
+   "youtube_views": 730,
+   "media": []
+  },
+  {
+   "facility": "Centre Hills",
+   "score": 0.222,
+   "golfpass_reviews": 0,
+   "youtube_views": 615,
+   "media": []
+  },
+  {
+   "facility": "Columbine",
+   "score": 0.2165,
+   "golfpass_reviews": 1,
+   "youtube_views": 149,
+   "media": []
+  },
+  {
+   "facility": "Monte Vista",
+   "score": 0.2082,
+   "golfpass_reviews": 1,
+   "youtube_views": 117,
+   "media": []
+  },
+  {
+   "facility": "Rocky Ford",
+   "score": 0.1987,
+   "golfpass_reviews": 0,
+   "youtube_views": 313,
+   "media": []
+  },
+  {
+   "facility": "La Junta",
+   "score": 0.1922,
+   "golfpass_reviews": 0,
+   "youtube_views": 259,
+   "media": []
+  },
+  {
+   "facility": "Walsenburg",
+   "score": 0.1842,
+   "golfpass_reviews": 1,
+   "youtube_views": 58,
+   "media": []
+  },
+  {
+   "facility": "Chipeta",
+   "score": 0.1804,
+   "golfpass_reviews": 0,
+   "youtube_views": 184,
+   "media": []
+  },
+  {
+   "facility": "Heather Gardens",
+   "score": 0.1733,
+   "golfpass_reviews": 1,
+   "youtube_views": 42,
+   "media": []
+  },
+  {
+   "facility": "Stratton",
+   "score": 0.1663,
+   "golfpass_reviews": 0,
+   "youtube_views": 122,
+   "media": []
+  },
+  {
+   "facility": "Dos Rios",
+   "score": 0.1599,
+   "golfpass_reviews": 2,
+   "youtube_views": 13,
+   "media": []
+  },
+  {
+   "facility": "Wray",
+   "score": 0.1555,
+   "golfpass_reviews": 0,
+   "youtube_views": 89,
+   "media": []
+  },
+  {
+   "facility": "Course At Petteys Park",
+   "score": 0.1553,
+   "golfpass_reviews": 11,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Holyoke",
+   "score": 0.1483,
+   "golfpass_reviews": 0,
+   "youtube_views": 72,
+   "media": []
+  },
+  {
+   "facility": "Links At Cobble Creek",
+   "score": 0.1373,
+   "golfpass_reviews": 8,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Telluride",
+   "score": 0.137,
+   "golfpass_reviews": 5,
+   "youtube_views": 0,
+   "media": [
+    "caggy2025_regional"
+   ]
+  },
+  {
+   "facility": "Indian Hills",
+   "score": 0.1283,
+   "golfpass_reviews": 0,
+   "youtube_views": 40,
+   "media": []
+  },
+  {
+   "facility": "City Park Nine",
+   "score": 0.112,
+   "golfpass_reviews": 5,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "First Tee Par 3 At Green Valley Ranch",
+   "score": 0.0866,
+   "golfpass_reviews": 3,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Cedar Ridges",
+   "score": 0.0687,
+   "golfpass_reviews": 2,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Lincoln Park",
+   "score": 0.0687,
+   "golfpass_reviews": 2,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Sonnenalp Resort Of Vail",
+   "score": 0.0683,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": [
+    "golfpass_gc2026"
+   ]
+  },
+  {
+   "facility": "Cottonwood Links",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Glenwood Springs",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Hugo",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Lake Estes Executive 9 Hole",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Las Animas",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Ranch At Roaring Fork",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Snowmass",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Springfield",
+   "score": 0.0433,
+   "golfpass_reviews": 1,
+   "youtube_views": null,
+   "media": []
+  },
+  {
+   "facility": "Challenger",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Eads",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "F H",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Green Way",
+   "score": 0.0,
+   "golfpass_reviews": null,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Hunters Run",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Mossland Memorial",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Perry Golf and",
+   "score": 0.0,
+   "golfpass_reviews": null,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Plainsman",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Silver Spruce",
+   "score": 0.0,
+   "golfpass_reviews": null,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Smoky River",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "St Andrews At Westcliffe",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "Willow Creek",
+   "score": 0.0,
+   "golfpass_reviews": 0,
+   "youtube_views": 0,
+   "media": []
+  },
+  {
+   "facility": "World Golf & Sand Creek G.C.",
+   "score": 0.0,
+   "golfpass_reviews": null,
+   "youtube_views": 0,
+   "media": []
+  }
+ ]
+}

@@ -40,8 +40,8 @@ function fillRegions(){const st=$('#state').value,nw=$('#network').value,cur=$('
  const ks=Object.keys(by).sort();$('#region').innerHTML='<option value="">All regions</option>'+ks.map(s=>{const o=[...by[s]].sort().map(r=>`<option value="${s}|${r}">${ks.length>1?s+' · ':''}${r}</option>`).join('');return o}).join('');
  if([...$('#region').options].some(o=>o.value==cur))$('#region').value=cur}
 fillRegions();
-function rows(){const q=$('#q').value.toLowerCase(),ty=$('#type').value,rg=$('#region').value,st=$('#state').value,ho=$('#holes').value,rk=$('#ranked').checked;
- let L=D.filter(c=>(!q||[c.name,c.city,c.architect].join(' ').toLowerCase().includes(q))&&(!ty||c.type==ty)&&(!st||c.state==st)&&(!rg||c.state+'|'+c.region==rg)&&(!rk||c.gd_state_rank||c.gd100_rank)
+function rows(){const q=$('#q').value.toLowerCase(),ty=$('#type').value,rg=$('#region').value,st=$('#state').value,ho=$('#holes').value,rk=$('#ranked').checked,pp=$('#popular').checked;
+ let L=D.filter(c=>(!q||[c.name,c.city,c.architect].join(' ').toLowerCase().includes(q))&&(!ty||c.type==ty)&&(!st||c.state==st)&&(!rg||c.state+'|'+c.region==rg)&&(!rk||c.gd_state_rank||c.gd100_rank)&&(!pp||c.popular_rank)
   &&(!ho||(ho=='27'?c.holes>=27:c.holes==+ho)));
  L.sort((a,b)=>{let x=a[sortK],y=b[sortK];
   if(x==null&&y==null)return a.name.localeCompare(b.name);if(x==null)return 1;if(y==null)return -1;
@@ -57,12 +57,12 @@ function detail(c){const kv=(k,v)=>`<div class="kv${v!=null&&String(v).replace(/
  </div></td></tr>`}
 function render(){const L=rows();$('#count').textContent=`${L.length} of ${D.length} courses · ${D.filter(c=>c.gd_state_rank).length} ranked by Golf Digest (CO, 2025-26)`;
  document.querySelectorAll('th[data-k]').forEach(th=>{th.classList.toggle('sorted',th.dataset.k==sortK);th.classList.toggle('asc',asc)});
- $('#t tbody').innerHTML=L.map(c=>`<tr class="row ${openId==c.id?'open':''}" data-id="${c.id}"><td class="name" title="${c.name.replace(/"/g,'&quot;')}">${c.name}</td><td>${f(c.state)}</td><td>${f(c.city)}</td><td class="tag">${f(c.region)}</td><td class="tag">${c.type}</td>
+ $('#t tbody').innerHTML=L.map(c=>`<tr class="row ${openId==c.id?'open':''}" data-id="${c.id}"><td class="name" title="${c.name.replace(/"/g,'&quot;')}">${c.name}${c.popular_rank?'<span class="pop" title="Among the 10 most-discussed Colorado courses online">Popular</span>':''}</td><td>${f(c.state)}</td><td>${f(c.city)}</td><td class="tag">${f(c.region)}</td><td class="tag">${c.type}</td>
  <td class="num">${c.gd100_rank?`<span class="rk100">${c.gd100_rank}</span>`:f(null)}</td><td class="num">${c.gd_state_rank?`<span class="rk">${c.gd_state_rank}</span>`:f(null)}</td><td class="num">${f(c.holes)}</td><td class="num">${f(c.par)}</td><td class="num">${c.yardage?c.yardage.toLocaleString():f(null)}</td>
  <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${bookBtn(c)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK==k)asc=!asc;else{sortK=k;asc=['name','state','city','region','type','gd_state_rank','gd100_rank'].includes(k)}render()});
 $('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render()};
-['#q','#type','#region','#holes','#ranked','#network'].forEach(s=>$(s).oninput=render);
+['#q','#type','#region','#holes','#ranked','#popular','#network'].forEach(s=>$(s).oninput=render);
 $('#state').oninput=()=>{fillRegions();render()};
 const P=new URLSearchParams(location.search);if(P.get('sort')){sortK=P.get('sort');asc=P.get('dir')!='desc'}
 if(P.get('open')){const o=D.find(c=>c.name==P.get('open'));if(o)openId=o.id}
