@@ -81,9 +81,10 @@ main{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;width:100%;bo
 .cphoto{max-width:300px;margin-left:auto}
 @media (max-width:820px){.detail .grid{grid-template-columns:1fr}.detail .grid>.phslot{grid-column:auto;grid-row:auto}.cphoto{max-width:none;margin:0}}
 /* Tees: wider section, tee names on one line */
-.detail .grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1fr) minmax(0,1.4fr)}
+.detail .grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1fr) minmax(0,1.3fr)}
 #t .tees td,#t .tees th{overflow:visible;text-overflow:clip;white-space:nowrap}
-#t .tees td:first-child{width:100%}
+#t .tees td:first-child{width:auto}
 @media (max-width:820px){.detail .grid{grid-template-columns:1fr}}
 #t .tees td:first-child,#t .tees th:first-child{padding-right:14px}
 #t .tees td:nth-child(n+2),#t .tees th:nth-child(n+2){padding-left:12px}
+#t .tees{table-layout:auto}
