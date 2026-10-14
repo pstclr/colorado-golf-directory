@@ -2,9 +2,15 @@
 // Set once GolfNow (or its network) approves us. Leave null for plain links.
 // Example: (url)=>`https://TRACKING-DOMAIN/c/PUBLISHER_ID/AD_ID?u=${encodeURIComponent(url)}`
 const GOLFNOW_AFFILIATE_WRAP = null;
+const TEEOFF_AFFILIATE_WRAP = null;   // same idea for TeeOff once approved
 // ==================================================================
-const bookUrl=c=>c.golfnow_url?(GOLFNOW_AFFILIATE_WRAP?GOLFNOW_AFFILIATE_WRAP(c.golfnow_url):c.golfnow_url):null;
-const bookBtn=(c,big)=>{const u=bookUrl(c);return u?`<a class="book${big?' big':''}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on GolfNow">Book${big?' on GolfNow ↗':''}</a>`:''};
+const wrap=(u,w)=>u?(w?w(u):u):null;
+const links=c=>[['GolfNow',wrap(c.golfnow_url,GOLFNOW_AFFILIATE_WRAP)],['TeeOff',wrap(c.teeoff_url,TEEOFF_AFFILIATE_WRAP)]].filter(x=>x[1]);
+const btn=(l,u,cls)=>`<a class="book${cls}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on ${l}">${cls?'Book on '+l+' ↗':l}</a>`;
+const bookBtn=(c,big)=>{const L=links(c);if(!L.length)return'';
+  if(big)return L.map(([l,u])=>btn(l,u,' big')).join(' ');
+  if(L.length==1)return`<a class="book" href="${L[0][1]}" target="_blank" rel="sponsored noopener" title="Book tee times on ${L[0][0]}">Book</a>`;
+  return `<span class="bk2">${L.map(([l,u])=>btn(l,u,'')).join('')}</span>`};
 const D=window.COURSES;let sortK='name',asc=true,openId=null;
 const $=s=>document.querySelector(s);
 const fmtT=m=>{const h=Math.floor(m/60);return h?`${h} hr ${m%60} min`:`${m} min`};
@@ -24,7 +30,7 @@ function detail(c){const kv=(k,v)=>`<div class="kv"><span>${k}</span><span>${f(v
  return`<tr class="detail"><td colspan="14"><div class="grid">
  <div><h4>Course</h4>${kv('Address',c.address?`<a href="${gmapsUrl(c)}" target="_blank" rel="noopener">${c.address}</a>`:null)}${kv('Drive',c.drive_min!=null?`${fmtT(c.drive_min)} · ${c.drive_mi} mi`:null)}${kv('Region',c.region)}${kv('Type (source)',c.type_raw)}${kv('Holes / Par',(c.holes||'—')+' / '+(c.par||'—'))}${kv('Yardage (max)',c.yardage&&c.yardage.toLocaleString())}${kv('Elevation',c.elevation_ft&&c.elevation_ft.toLocaleString()+' ft')}${kv('Architect',c.architect)}${kv('Opened',c.year_opened)}</div>
  <div><h4>Rankings &amp; tee data</h4>${kv('GD Best in Colorado',c.gd_co_rank?`#${c.gd_co_rank} <span class="tag">(${c.gd_co_edition})</span>`:null)}${kv("GD America's 100 Greatest",c.gd100_rank?`#${c.gd100_rank} <span class="tag">(${c.gd100_edition})</span>`:null)}${kv('Listed by GD as',c.gd_co_name)}${kv('Back tee',c.back_tee?c.back_tee+' · '+c.rating+'/'+c.slope+' · par '+c.back_par:null)}</div>
- <div><h4>Rates & contact</h4>${c.golfnow_url?`<div style="margin:2px 0 8px">${bookBtn(c,true)}</div>`:''}${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
+ <div><h4>Rates & contact</h4>${links(c).length?`<div class="bkrow">${bookBtn(c,true)}</div>`:''}${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
  <div><h4>Tees</h4><table class="tees"><tr><th>Tee</th><th>Yds</th><th>Rating</th><th>Slope</th></tr>${(c.tees||[]).map(t=>`<tr><td>${t.tee_name} ${t.gender?'('+t.gender[0]+')':''}</td><td>${f(t.yardage)}</td><td>${f(t.course_rating)}</td><td>${f(t.slope)}</td></tr>`).join('')||'<tr><td colspan=4 class=tag>No tee data</td></tr>'}</table></div>
  <div><h4>Sources</h4>${[...c.sources,c.gd_co_source,c.gd100_source].filter(Boolean).map(u=>`<div><a href="${u.split(' ')[0]}" target="_blank">${u.replace(/https?:\/\//,'').slice(0,60)}</a></div>`).join('')}</div>
  </div></td></tr>`}
