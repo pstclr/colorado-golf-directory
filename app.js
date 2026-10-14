@@ -21,7 +21,7 @@ const PROVIDERS={golfnow:['GolfNow','golfnow_url',GOLFNOW_AFFILIATE_WRAP],teeoff
 const pick=c=>{const o=[BOOKING_PROVIDER,...Object.keys(PROVIDERS).filter(k=>k!=BOOKING_PROVIDER)];
   for(const k of o){const[l,f,w]=PROVIDERS[k];if(c[f])return[l,wrap(c[f],w)]}return null};
 const bookBtn=(c,big)=>{const p=pick(c);if(p){const[l,u]=p;
-  return`<a class="book${big?' big':''}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on ${l}">${big?'Book on '+l+' ↗':'Book'}</a>`}
+  return`<a class="book${big?' big':''}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on ${l} (we may earn a commission)">${big?'Book on '+l+' ↗':'Book'}</a>${big?'<div class="bkdisc" style="color:var(--mut);font-size:11px;margin-top:4px">We may earn a commission on bookings, at no extra cost to you. <a href="affiliate-disclosure.html">Disclosure</a></div>':''}`}
   if(c.booking_url)return`<a class="book site${big?' big':''}" href="${c.booking_url}" target="_blank" rel="noopener" title="Book on the course's own tee-time page (${c.booking_vendor})">${big?'Book on course site ↗':'Book'}</a>`;return''};
 (()=>{const B=SPONSOR_BANNER,el=document.getElementById('banner');if(!B||!el)return;
  const inner=`<img src="${B.image}" alt="${B.alt}" fetchpriority="high"><div class="bn-ov"><span class="bn-lbl">${B.label}</span><span class="bn-txt">${B.text}</span></div>`;
