@@ -1,0 +1,594 @@
+{
+ "generated": "2026-10-14",
+ "rule": "Course-site booking links only for publicly playable CO courses without a GolfNow link. Each URL was taken from a link on the course's official website (public tee-time button where member/passholder variants exist), then loaded. Book priority: GolfNow (affiliate, rel=sponsored) > TeeOff > course site (rel=noopener).",
+ "notes": [
+  "TeeItUp booking pages are titled \"GolfNow Booking Engine\" (GolfNow for Business, formerly Kenna/TeeItUp); EZLinks is also GolfNow-owned (NBC Sports acquired EZLinks 2019). These are course booking engines, not the golfnow.com marketplace affiliate.",
+  "EZLinks and Club Prophet serve bot-challenge pages to automation; those links were verified as the course's own official-site link only."
+ ],
+ "affiliate_leads": [
+  {
+   "vendor": "Supreme Golf (aggregator; integrates foreUP, Lightspeed/Chronogolf, Club Caddie, Club Prophet, Quick18)",
+   "claim": "affiliate program up to 25% commission (third-party listing, not confirmed by Supreme)",
+   "sources": [
+    "https://walletminded.com/affiliate/best-golf-affiliate-programs/",
+    "https://courses.supremegolf.com/tee-time-distribution/"
+   ]
+  },
+  {
+   "vendor": "Lightspeed Golf / Chronogolf",
+   "claim": "only a B2B referral/ambassador program for referring golf-course operators ($100 call, $1,000 per signed course); no consumer tee-time affiliate found",
+   "sources": [
+    "https://www.lightspeedhq.com/golf/ambassador-program/",
+    "https://www.lightspeedhq.com/partners/refer/"
+   ]
+  },
+  {
+   "vendor": "TeeItUp / EZLinks",
+   "claim": "GolfNow-owned; affiliate path would be the existing GolfNow program, not the course engine",
+   "sources": [
+    "https://www.nbcsports.com/pressbox/golf/press-releases/nbc-sports-group-acquires-ezlinks-golf-expanding-digital-portfolio-of-golf-related-lifestyle-businesses",
+    "https://www.golfcoursetechnologyreviews.org/booking-engine/nbc-sports-next-for-golf"
+   ]
+  }
+ ],
+ "courses": {
+  "0032f4d2-ded4-47a1-b9c5-d6684dde7f3e": {
+   "name": "Antler Creek Golf Course",
+   "booking_url": "https://antler-creek-golf-course.play.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://antlercreekgolf.com/-home",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"ANTLER CREEK GOLF COURSE person_outline 0 Te\""
+  },
+  "f7d79594-81e8-4111-84b1-f056328c3285": {
+   "name": "Arrowhead Golf Club",
+   "booking_url": "https://arrowheadpp.ezlinksgolf.com/",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://arcisgolf.com/clubs/arrowhead-golf-club/book-a-tee-time",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Find Tee Times - Arrowhead\""
+  },
+  "8eae2b5d-5bce-448c-bc41-15a6afc8df22": {
+   "name": "Aurora Hills Golf Course",
+   "booking_url": "https://cityofaurora.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.auroragov.org/cms/one.aspx?pageId=16393964",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "349a451b-f12f-4c8d-81e8-5aa49b43de81": {
+   "name": "Bella Ridge Golf Club",
+   "booking_url": "https://bellaridge.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.bellaridgegolf.com/rates/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "da4b6bf3-9f08-46b5-b1a6-2d6944711b07": {
+   "name": "Buffalo Run Golf Course",
+   "booking_url": "https://buffalo-run-golf-course.book.teeitup.golf/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.buffalorungolfcourse.com/teetimes/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"BUFFALO RUN GOLF COURSE person_outline 0 Tee\""
+  },
+  "5de3a89a-10d1-473f-a166-180bc3146e52": {
+   "name": "Cedar Ridges Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/21558/8206#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.cedarridgesgolfcourse.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Cedar Ridges Golf Course - Online Booking\""
+  },
+  "0bbe5a45-3fbf-4451-ac50-5bd1ae18a39d": {
+   "name": "Cedaredge Golf Club",
+   "booking_url": "https://cedaredge-golf-club.book.teeitup.com",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.cedaredgegolf.com/book-a-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"CEDAREDGE GOLF CLUB person_outline 0 Tee Tim\""
+  },
+  "61bf2243-b9f8-4e8c-9c73-2f330967e223": {
+   "name": "Chipeta Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22981#/teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://chipetagolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Chipeta Golf Course (CO) - Online Booking\""
+  },
+  "36c45ab9-974a-46f9-b662-203fdcf4cef6": {
+   "name": "Collegiate Peaks Golf Course",
+   "booking_url": "https://collegiatepeaks.cps.golf",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://www.collegiatepeaksgolf.com/golf/tee-times",
+   "http": "403",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Club Prophet Systems : Online reservation V4\""
+  },
+  "db18bece-fceb-4527-adee-36772fc16c17": {
+   "name": "Colorado National Golf Club",
+   "booking_url": "https://colorado-national-golf-club.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.coloradonationalgolfclub.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"COLORADO NATIONAL GOLF CLUB person_outline 0\""
+  },
+  "98b3c724-0a1f-41e3-a629-243a7f50f4ba": {
+   "name": "Commonground Golf Course",
+   "booking_url": "https://commonground-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.commongroundgc.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"COMMONGROUND GOLF COURSE person_outline 0 Te\""
+  },
+  "a16beeba-42b4-49a1-9b91-500ba4bc966d": {
+   "name": "Commonground Golf Course Junior Par 3 Course",
+   "booking_url": "https://commonground-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.commongroundgc.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"COMMONGROUND GOLF COURSE person_outline 0 Te\""
+  },
+  "15479d8e-16f4-4da7-a4f0-ad431916eb82": {
+   "name": "Conquistador Golf Course",
+   "booking_url": "https://apimanager-cc28.clubcaddie.com/webapi/view/gbfdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://fourcornersgolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "57376846-08b2-43a7-8a63-d4082d3aa1c3": {
+   "name": "Cottonwood Links",
+   "booking_url": "https://cottonwood-links-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.cottonwoodlinks.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"COTTONWOOD LINKS GOLF COURSE person_outline\""
+  },
+  "b4e02e6d-ee54-4be0-8323-807e3b865137": {
+   "name": "Desert At Adobe Creek National Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22979#/teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.adobecreekgolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Adobe Creek National Golf Course - Online Booking\""
+  },
+  "c103b76b-d35f-46d0-8a7e-1c719ae44092": {
+   "name": "Divide Ranch Club",
+   "booking_url": "https://apimanager-cc34.clubcaddie.com/webapi/view/jffdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://divideranchandclub.com/book-a-tee-time",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "e7ee527a-324b-4948-98fc-d15f638a1751": {
+   "name": "Dos Rios Country Club",
+   "booking_url": "https://dosrios.cps.golf/",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://www.dosriosgolf.net/book-a-tee-time/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "2767af88-8043-45d5-9ae9-048f05184e12": {
+   "name": "Eighteen Hole At Indian Tree Golf Club",
+   "booking_url": "https://indiantree.cps.golf/",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://indiantree.apexprd.org/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "48d1f7fe-e01d-4519-b928-25bde9426c54": {
+   "name": "Emerald Greens Golf Club",
+   "booking_url": "https://emeraldgreens.cps.golf/",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://www.emeraldgreensdenver.com/tee-times",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "911b6896-50ef-4aa4-baac-1edf890725f0": {
+   "name": "Four Mile Ranch Golf Club",
+   "booking_url": "https://four-mile-ranch-golf-club.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.fourmileranchgolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"FOUR MILE RANCH GOLF CLUB person_outline 0 2\""
+  },
+  "ec147fb1-6938-4e66-8fb0-1f396bee9a97": {
+   "name": "Glenwood Springs Golf Club",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22861/12145#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://glenwoodspringsgolf.com/rates/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Glenwood Springs Golf Club - Online Booking\""
+  },
+  "f188a84f-075f-4315-bb4c-e2e1d2ea9d2c": {
+   "name": "Golf Club At Heather Ridge",
+   "booking_url": "https://heatherridge.ezlinksgolf.com/",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.golfclubatheatherridge.net/book-a-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Find Tee Times - Heather Ridge Golf Course\""
+  },
+  "c46b5061-8465-47e6-a5d6-f2656610f0be": {
+   "name": "Grand Elk Golf Course",
+   "booking_url": "https://grandelk.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.grandelk.com/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "a83f7d0c-5332-4b1e-bf03-a535fd6437c0": {
+   "name": "Green Way Golf Course",
+   "booking_url": "https://greenway-park-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.gwphoa.org/teetimes/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"GREENWAY PARK GOLF COURSE person_outline 0 T\""
+  },
+  "9b4a7f70-331c-4743-8fff-07189481220a": {
+   "name": "Greenway Park Golf Course",
+   "booking_url": "https://greenway-park-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.gwphoa.org/teetimes/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"GREENWAY PARK GOLF COURSE person_outline 0 T\""
+  },
+  "1c024fa8-8f21-4f22-953e-b8391453e0cd": {
+   "name": "Hillcrest Golf Club",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/20337/4283#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.golfhillcrest.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Hillcrest Golf Club (CO) - Online Booking\""
+  },
+  "2be42955-6029-415c-8658-50011bba853a": {
+   "name": "Hollydot Golf Course",
+   "booking_url": "https://hollydotgolf.teesnap.net/",
+   "booking_vendor": "Teesnap",
+   "found_on": "https://www.hollydotgolf.com/",
+   "http": "403",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Hollydot Golf Course, CO | Home\""
+  },
+  "fa2a6142-eb97-4b7a-8c72-e30f74a9c6d3": {
+   "name": "Ironbridge Golf Club",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/20595/5045#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://ironbridgeclub.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Ironbridge Golf Club and Mountain Community - Online Booking\""
+  },
+  "1465deba-94e0-4780-95fe-3ab69fef0d34": {
+   "name": "Lakota Links Golf Club",
+   "booking_url": "https://www.chronogolf.com/club/19332/widget?medium=widget&source=club",
+   "booking_vendor": "Chronogolf (Lightspeed)",
+   "found_on": "https://lakotalinks.com/book-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Booking Widget | CHRONOGOLF\""
+  },
+  "02825e91-8e31-444d-8408-d04266b3b2d3": {
+   "name": "Mad Russian Golf Course",
+   "booking_url": "https://mad-russian-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.trpr.org/mad-russian-golf-course/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"MAD RUSSIAN GOLF COURSE person_outline 0 Tee\""
+  },
+  "d7eef8d5-d373-4807-a9fd-baf0492db6a6": {
+   "name": "Meadow Golf Course At Pole Creek Golf Club",
+   "booking_url": "https://pole-creek-golf-club-public.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.polecreekgolf.com/tee-times/book-a-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"POLE CREEK GOLF CLUB - PUBLIC person_outline\""
+  },
+  "93e0c4da-c56b-4eb5-982b-38cb99284f6b": {
+   "name": "Meadow Hills Golf Course",
+   "booking_url": "https://cityofaurora.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.auroragov.org/cms/one.aspx?pageId=16393964",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "3699d34b-a8f8-4fc2-8227-564d261bf1d0": {
+   "name": "Mesa At Adobe Creek National Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22979#/teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.adobecreekgolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Adobe Creek National Golf Course - Online Booking\""
+  },
+  "9d4722a2-9e9b-49f6-8b91-cb462ea2c0c9": {
+   "name": "Monument At Adobe Creek National Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22979#/teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.adobecreekgolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Adobe Creek National Golf Course - Online Booking\""
+  },
+  "5d899689-0414-42a2-bffb-21b531e5855b": {
+   "name": "Mountain Vista Greens Golf Course",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/18787/412#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://mountainvistagreens.com/online-tee-times/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Mountain Vista Golf Course - Online Booking\""
+  },
+  "8d0699a6-f9f2-431d-be05-5dea0d85c21d": {
+   "name": "Murphy Creek Golf Course",
+   "booking_url": "https://cityofaurora.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.auroragov.org/things_to_do/golf/golf_courses/murphy_creek",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "87088a3b-5f25-44dd-97a7-2561f5bb44a9": {
+   "name": "Par 3 At Cherokee Ridge Golf Course",
+   "booking_url": "https://apimanager-cc24.clubcaddie.com/webapi/view/jjfdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://www.cherokeeridgegolfcourse.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "7399a2b7-2b1f-4b1b-af43-5d2b5b598fc5": {
+   "name": "Par 3 At Indian Tree Golf Club",
+   "booking_url": "https://indiantree.cps.golf/",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://indiantree.apexprd.org/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "0bbb068d-065c-4822-ae2c-60fc2327ef24": {
+   "name": "Pine Creek Golf Club",
+   "booking_url": "https://pinecreekpp.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.pinecreekgc.com/tee-times",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "0b2f6ff7-e4e3-4be3-bbce-81e30d409cee": {
+   "name": "Plum Creek Golf Country Club",
+   "booking_url": "https://plum-creek-golf-club-3.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.golfplumcreek.com/tee-times/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"PLUM CREEK GOLF CLUB person_outline 0 Tee Ti\""
+  },
+  "ea0d58e7-07e9-483a-a660-57777ac3f884": {
+   "name": "Quail Dunes Golf Course",
+   "booking_url": "https://quail-dunes-golf-course-at-fort-morgan.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.quaildunes.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"QUAIL DUNES GOLF COURSE AT FORT MORGAN perso\""
+  },
+  "e490d44a-bc72-4ec0-abf7-b10bbd23dff6": {
+   "name": "Raccoon Creek Golf Course",
+   "booking_url": "https://raccoon-creek-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.raccooncreek.com/tee-times/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"RACCOON CREEK GOLF COURSE person_outline 0 T\""
+  },
+  "8ea1189b-78de-499b-b06b-e3ff4a4e8823": {
+   "name": "Raindance National",
+   "booking_url": "https://raindance-national.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://raindancenational.com/green-fees/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"RAINDANCE NATIONAL person_outline 0 Tee Time\""
+  },
+  "0666138b-162f-47ec-b740-c66328ac673e": {
+   "name": "Ranch Golf Course At Pole Creek Golf Club",
+   "booking_url": "https://pole-creek-golf-club-public.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.polecreekgolf.com/tee-times/book-a-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"POLE CREEK GOLF CLUB - PUBLIC person_outline\""
+  },
+  "fcf76e75-c4c7-42e7-8856-45afa696e426": {
+   "name": "Red Hawk Ridge",
+   "booking_url": "https://redhawkridge.cps.golf/onlineresweb/search-teetime",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://www.redhawkridge.com/184/Tee-Times",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "538cc823-ad43-499c-91f0-4f8911679893": {
+   "name": "Regulation Nine At Cherokee Ridge Golf Course",
+   "booking_url": "https://apimanager-cc24.clubcaddie.com/webapi/view/ijfdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://www.cherokeeridgegolfcourse.com/tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "3a167da7-dc8b-4f6c-b248-b671a237219b": {
+   "name": "Ridge Golf Course At Pole Creek Golf Club",
+   "booking_url": "https://pole-creek-golf-club-public.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.polecreekgolf.com/tee-times/book-a-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"POLE CREEK GOLF CLUB - PUBLIC person_outline\""
+  },
+  "97e8e50b-5b11-4857-94b5-88cdc7d97fa5": {
+   "name": "Riverdale Dunes",
+   "booking_url": "https://riverdale.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.riverdalegolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"RIVERDALE person_outline 0 Tee Time Alerts G\""
+  },
+  "aacc33b9-aebf-4715-a3c0-e8b7ff8cb08e": {
+   "name": "Riverdale Knolls",
+   "booking_url": "https://riverdale.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.riverdalegolf.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"RIVERDALE person_outline 0 Tee Time Alerts G\""
+  },
+  "952812e4-5ca7-4c27-9ebb-2ce788231c35": {
+   "name": "Saddle Rock Golf Course",
+   "booking_url": "https://cityofaurora.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.auroragov.org/cms/One.aspx?portalId=16242704&pageId=16594310",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "54f18c0e-04ed-4956-b34b-7423947e02a7": {
+   "name": "Salida Golf Club",
+   "booking_url": "https://apimanager-cc30.clubcaddie.com/webapi/view/gjfdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://salidagolfcourse.com/tee-times/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "b3cd1477-25a3-4fc4-b6e5-91f83740599b": {
+   "name": "Sky Ranch Golf Course",
+   "booking_url": "https://apimanager-cc28.clubcaddie.com/webapi/view/dffdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://skyranchgc.com/trackman-golf-simulator/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "2871f103-7a4c-4278-a7a6-6df0e41881b9": {
+   "name": "Springhill Golf Course",
+   "booking_url": "https://cityofaurora.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.auroragov.org/cms/One.aspx?portalId=16242704&pageId=16594314",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "1f242e2f-e449-4358-869d-0222a95941ce": {
+   "name": "Steamboat Golf Club",
+   "booking_url": "https://steamboat-springs-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.steamboatgolfclub.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"STEAMBOAT GOLF CLUB person_outline 0 Tee Tim\""
+  },
+  "41483aeb-0abe-47fc-ac6d-852036a17b6b": {
+   "name": "Sunset Golf Course",
+   "booking_url": "https://sunset-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.golflongmont.com/sunset-tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"SUNSET GOLF COURSE person_outline 0 Tee Time\""
+  },
+  "e708f468-1c80-4313-852a-c817bc32aad8": {
+   "name": "The Bridges Golf Country Club",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/21696/8610#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.thebridgesgcc.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"The Bridges Golf & Country Club - Online Booking\""
+  },
+  "36d5cc03-f337-4fc8-b245-25f3640d3d8f": {
+   "name": "The Golf Club At Bear Dance",
+   "booking_url": "https://beardancepub.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.beardancegolf.com/tee-times/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "f569ab4b-c115-4b86-a0d7-cc17cdf54590": {
+   "name": "The Links At Cobble Creek",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/20619/5114#/teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.cobblecreek.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"The Club at Cobble Creek - Online Booking\""
+  },
+  "410e24e8-f95e-48e9-aa8b-b5c5a74fc9db": {
+   "name": "The Links Golf Course",
+   "booking_url": "https://apimanager-cc37.clubcaddie.com/webapi/view/ajfdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://thelinksgolfcourse.com/book-tee-time/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "e9e32c19-f696-41b5-9438-508a5b68c7b9": {
+   "name": "The Raven Golf Club At Three Peaks",
+   "booking_url": "https://ravenatthreepeaks.ezlinksgolf.com/index.html#/search",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.ravenatthreepeaks.com/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "a44d859b-2d85-4253-8b6d-b06ed374c71e": {
+   "name": "The Ridge At Castle Pines Colorado",
+   "booking_url": "https://castlepinesbest.ezlinksgolf.com/",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.playtheridge.com/book_tt/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Find Tee Times - The Ridge at Castle Pines North Best Available\""
+  },
+  "d711981d-6af6-4102-a1c5-3cc98b692a09": {
+   "name": "Todd Creek Golf Club",
+   "booking_url": "https://foreupsoftware.com/index.php/booking/22161/10005#teetimes",
+   "booking_vendor": "foreUP",
+   "found_on": "https://www.toddcreekgolfclub.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Todd Creek Golf Club - Online Booking\""
+  },
+  "6adbb84e-5f90-4b01-a428-233b5168de93": {
+   "name": "Trinidad Golf Course",
+   "booking_url": "https://trinidad-municipal-golf-course.book-v2.teeitup.golf/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.trinidadgolfcourse.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"TRINIDAD MUNICIPAL GOLF COURSE person_outlin\""
+  },
+  "98c7fdac-95a7-44ed-b46d-f46d367a89a5": {
+   "name": "Twin Peaks Golf Course",
+   "booking_url": "https://twin-peaks-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.golflongmont.com/twinpeaks-tee-times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"TWIN PEAKS GOLF COURSE person_outline 0 Tee\""
+  },
+  "c0f5906d-5805-4d78-858a-a7f6d5174f40": {
+   "name": "University Of Denver Golf Club At Highlands Ranch",
+   "booking_url": "https://universityofdenver.cps.golf/",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://dugchr.com/",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "d9005c04-b2fd-4cfb-967c-2934eb0a8c04": {
+   "name": "Ute Creek Golf Course",
+   "booking_url": "https://ute-creek-golf-course.book.teeitup.com/",
+   "booking_vendor": "TeeItUp (Kenna Golf)",
+   "found_on": "https://www.golflongmont.com/",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"UTE CREEK GOLF COURSE person_outline 0 Tee T\""
+  },
+  "8ec0f064-62b4-492d-9b8d-d6e99fc1e76b": {
+   "name": "Walnut Creek Golf Preserve",
+   "booking_url": "https://cityofwestminster.cps.golf/onlineresweb/search-teetime",
+   "booking_vendor": "Club Prophet",
+   "found_on": "https://www.westminsterco.gov/210/Tee-Times",
+   "http": "403",
+   "verified": "linked from official site; vendor bot-check page (403) blocks automated load 2026-10-14"
+  },
+  "228a138d-1e2a-4e6b-b270-1e5b93223918": {
+   "name": "Willow Creek Golf Club At Eagle Vail",
+   "booking_url": "https://apimanager-cc24.clubcaddie.com/webapi/view/jifdabab",
+   "booking_vendor": "Club Caddie",
+   "found_on": "https://www.eaglevailgolfclub.com/Tee-Times",
+   "http": "200",
+   "verified": "loaded 200 in Chrome 2026-10-14; page shows \"Book a Tee Time | Club Caddie\""
+  },
+  "a80b52d7-ad25-412c-a0de-0a4b27b79a89": {
+   "name": "Heritage Eagle Bend Golf Club",
+   "booking_url": "https://heritageeaglebendnrpp.ezlinksgolf.com/",
+   "booking_vendor": "EZLinks",
+   "found_on": "https://www.heritageeaglebend.com/rates/ (\"Public Tee Times\")",
+   "verified": "linked from official site; HTTP 200 (EZLinks bot-check) 2026-10-14"
+  }
+ },
+ "status": {
+  "74bc7b35-611d-46cc-a202-e2e113636050": {
+   "status_note": "Closed for the 2026 season — reopening May 2027",
+   "source": "https://vailgolf.com/",
+   "quote": "The Vail Golf Club is now closed for the 2026 season. We look forward to welcoming you back in May 2027!"
+  }
+ }
+}

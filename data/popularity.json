@@ -139,33 +139,6 @@
    },
    {
     "popular_rank": 5,
-    "facility": "Vail",
-    "course_ids": [
-     "74bc7b35-611d-46cc-a202-e2e113636050"
-    ],
-    "score": 0.7234,
-    "golfpass_reviews": 305,
-    "golfpass_pages": [
-     "https://www.golfpass.com/travel-advisor/courses/334-vail-golf-club"
-    ],
-    "youtube_views_matching": 19140,
-    "youtube_matching_videos": 11,
-    "youtube_search": "https://www.youtube.com/results?search_query=%22Vail+Golf%22+colorado",
-    "youtube_top": [
-     {
-      "id": "bd4lRaMRPCI",
-      "title": "Eagle Vail Golf Club Hole #1",
-      "views": 8143
-     }
-    ],
-    "media_lists": {
-     "golfpass_gc2026": "https://www.golfpass.com/travel-advisor/best-of/best-public-golf-courses-in-colorado-golfers-choice-2026"
-    },
-    "reddit": null,
-    "golfnow_book": false
-   },
-   {
-    "popular_rank": 6,
     "facility": "Raven",
     "course_ids": [
      "e9e32c19-f696-41b5-9438-508a5b68c7b9"
@@ -190,7 +163,7 @@
     "golfnow_book": false
    },
    {
-    "popular_rank": 7,
+    "popular_rank": 6,
     "facility": "Pole Creek",
     "course_ids": [
      "d7eef8d5-d373-4807-a9fd-baf0492db6a6",
@@ -222,7 +195,7 @@
     "golfnow_book": false
    },
    {
-    "popular_rank": 8,
+    "popular_rank": 7,
     "facility": "Hyland Hills",
     "course_ids": [
      "f5700022-6a95-48fe-a2e9-cb56582b9711",
@@ -253,7 +226,7 @@
     "golfnow_book": true
    },
    {
-    "popular_rank": 9,
+    "popular_rank": 8,
     "facility": "Buffalo Run",
     "course_ids": [
      "da4b6bf3-9f08-46b5-b1a6-2d6944711b07"
@@ -278,7 +251,7 @@
     "golfnow_book": false
    },
    {
-    "popular_rank": 10,
+    "popular_rank": 9,
     "facility": "Heritage Eagle Bend",
     "course_ids": [
      "a80b52d7-ad25-412c-a0de-0a4b27b79a89"
@@ -296,6 +269,33 @@
       "id": "w_3XhvEAJf4",
       "title": "Hole 1  Aerial Video Heritage Eagle Bend Aurora - Denver Colorado Golf Club",
       "views": 7709
+     }
+    ],
+    "media_lists": {
+     "caggy2025_regional": "https://coloradoavidgolfer.com/the-best-public-golf-courses-in-colorado/"
+    },
+    "reddit": null,
+    "golfnow_book": false
+   },
+   {
+    "popular_rank": 10,
+    "facility": "Red Hawk Ridge",
+    "course_ids": [
+     "fcf76e75-c4c7-42e7-8856-45afa696e426"
+    ],
+    "score": 0.6899,
+    "golfpass_reviews": 119,
+    "golfpass_pages": [
+     "https://www.golfpass.com/travel-advisor/courses/299-red-hawk-ridge"
+    ],
+    "youtube_views_matching": 39443,
+    "youtube_matching_videos": 7,
+    "youtube_search": "https://www.youtube.com/results?search_query=%22Red+Hawk+Ridge%22+golf+colorado",
+    "youtube_top": [
+     {
+      "id": "njD9itWQA14",
+      "title": "Red Hawk Ridge on Golf@Altitude",
+      "views": 27624
      }
     ],
     "media_lists": {
@@ -1727,5 +1727,23 @@
    "youtube_views": 0,
    "media": []
   }
- ]
+ ],
+ "eligibility": {
+  "rules": [
+   "Publicly playable only: Public, Municipal, Semi-Private, Resort with outside tee times",
+   "Closed courses are ineligible (permanently closed, or closed for the whole current/next season)"
+  ],
+  "excluded": [
+   {
+    "facility": "Park Hill",
+    "reason": "permanently closed (2018)"
+   },
+   {
+    "facility": "Vail Golf Club",
+    "reason": "closed for the 2026 season, reopening May 2027 (vailgolf.com, checked 2026-10-14); scored #5",
+    "source": "https://vailgolf.com/"
+   }
+  ]
+ },
+ "updated": "2026-10-14"
 }
