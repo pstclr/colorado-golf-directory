@@ -103,12 +103,9 @@
  },
  "banner": {
   "path": "images/banner.webp",
-  "subject": "13th green, Estes Park Golf Course, Estes Park, CO",
-  "source": "Wikimedia Commons",
-  "file": "File:13th hole at Estes Park Golf Course from the green.jpg",
-  "source_url": "https://commons.wikimedia.org/wiki/File:13th_hole_at_Estes_Park_Golf_Course_from_the_green.jpg",
-  "author": "Laymans Hall",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  "source": "AI-generated image supplied by site owner (Parker St. Clair)",
+  "subject": "MacKenzie-style golf course: bunkers and green with red flag",
+  "ai_generated": true,
+  "attribution_required": false
  }
 }

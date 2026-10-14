@@ -6,14 +6,14 @@ const TEEOFF_AFFILIATE_WRAP = null;   // same idea for TeeOff once approved
 // Preferred booking provider: 'golfnow' or 'teeoff'. Falls back to the other if a course lacks that URL.
 const BOOKING_PROVIDER = 'golfnow';
 // === SPONSOR BANNER ==============================================
-// Swap image/link/text here. href:null = not clickable. credit is required by the image licence.
+// Swap image/link/text here. href:null = not clickable. credit is optional (HTML).
 const SPONSOR_BANNER = {
   image: 'images/banner.webp',
-  alt: '13th green at Estes Park Golf Course with the Rocky Mountains behind',
+  alt: 'Golf green with a red flag framed by sculpted bunkers',
   href: null,
   label: 'Sponsored placement',
   text: 'Your course here',
-  credit: 'Photo: Laymans Hall, <a href="https://commons.wikimedia.org/wiki/File:13th_hole_at_Estes_Park_Golf_Course_from_the_green.jpg" target="_blank" rel="noopener">Estes Park Golf Course</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
+  credit: ''   // optional credit HTML; empty = none (banner image is AI-generated, no attribution needed)
 };
 // ==================================================================
 const wrap=(u,w)=>u?(w?w(u):u):null;
@@ -24,7 +24,7 @@ const bookBtn=(c,big)=>{const p=pick(c);if(!p)return'';const[l,u]=p;
   return`<a class="book${big?' big':''}" href="${u}" target="_blank" rel="sponsored noopener" title="Book tee times on ${l}">${big?'Book on '+l+' ↗':'Book'}</a>`};
 (()=>{const B=SPONSOR_BANNER,el=document.getElementById('banner');if(!B||!el)return;
  const inner=`<img src="${B.image}" alt="${B.alt}" fetchpriority="high"><div class="bn-ov"><span class="bn-lbl">${B.label}</span><span class="bn-txt">${B.text}</span></div>`;
- el.innerHTML=(B.href?`<a href="${B.href}" target="_blank" rel="sponsored noopener">${inner}</a>`:inner)+`<div class="bn-cr">${B.credit}</div>`})();
+ el.innerHTML=(B.href?`<a href="${B.href}" target="_blank" rel="sponsored noopener">${inner}</a>`:inner)+(B.credit?`<div class="bn-cr">${B.credit}</div>`:'')})();
 const D=window.COURSES;let sortK='name',asc=true,openId=null;
 const $=s=>document.querySelector(s);
 const fmtT=m=>{const h=Math.floor(m/60);return h?`${h} hr ${m%60} min`:`${m} min`};
