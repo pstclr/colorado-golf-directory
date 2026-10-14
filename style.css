@@ -44,7 +44,7 @@ col.bk{width:5%}.book{display:inline-block;padding:2px 9px;border-radius:3px;bac
 .kv span:last-child{text-align:right;margin-left:12px;overflow-wrap:anywhere;max-width:70%}.kv span:first-child{flex:none}
 
 .banner{position:relative;height:200px;overflow:hidden;background:#0a0d11;border-bottom:1px solid var(--line)}
-.banner img{width:100%;height:100%;object-fit:cover;object-position:center 40%;display:block;filter:saturate(.95) brightness(.92)}
+.banner img{width:100%;height:100%;object-fit:cover;object-position:center 18%;display:block;filter:saturate(.95) brightness(.92)}
 .banner a{display:block;height:100%;color:inherit}
 .bn-ov{position:absolute;left:24px;bottom:18px;display:flex;flex-direction:column;gap:2px;padding:8px 12px;background:rgba(10,13,17,.55);border-radius:4px;backdrop-filter:blur(2px)}
 .bn-lbl{font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:#cfd6de}.bn-txt{font-size:15px;font-weight:600;color:#fff}
