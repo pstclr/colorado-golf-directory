@@ -55,3 +55,4 @@ col.bk{width:5%}.book{display:inline-block;padding:2px 9px;border-radius:3px;bac
 .cphoto{margin:0}.cphoto img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px;display:block;background:#1a2028}
 .cphoto figcaption{font-size:10px;color:var(--mut);margin-top:4px}.cphoto figcaption a{color:var(--mut)}
 @media (max-width:820px){.banner{height:120px}.bn-ov{left:12px;bottom:10px;padding:5px 8px}.bn-txt{font-size:13px}.bn-cr{font-size:9px}}
+.kv .rk100{color:#d4a72c;font-weight:700}
