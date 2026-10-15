@@ -72,11 +72,16 @@ function render(){const L=rows();$('#count').textContent=`${L.length} of ${D.len
  <td class="num">${c.gd100_rank?`<span class="rk100">${c.gd100_rank}</span>`:f(null)}</td><td class="num">${c.gd_state_rank?`<span class="rk">${c.gd_state_rank}</span>`:f(null)}</td><td class="num">${f(c.holes)}</td><td class="num">${f(c.par)}</td><td class="num">${c.yardage?c.yardage.toLocaleString():f(null)}</td>
  <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${bookBtn(c)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK==k)asc=!asc;else{sortK=k;asc=['name','state','city','region','type','gd_state_rank','gd100_rank'].includes(k)}render()});
-$('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render()};
+$('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render();revealOpen(false)};
 ['#q','#type','#region','#holes','#ranked','#network'].forEach(s=>$(s).oninput=render);
 $('#state').oninput=()=>{fillRegions();render()};
 const P=new URLSearchParams(location.search);if(P.get('sort')){sortK=P.get('sort');asc=P.get('dir')!='desc'}
 if(P.get('q'))$('#q').value=P.get('q');
 if(P.get('open')){const o=D.find(c=>c.name==P.get('open'));if(o)openId=o.id}
 render();
-if(openId){const r=document.querySelector('tr.row.open');if(r)r.scrollIntoView({block:'start'})}
+// Bring the open row + its detail panel into view below the sticky table header (and page header on mobile).
+function revealOpen(force){const r=document.querySelector('tr.row.open');if(!r)return;const w=document.querySelector('.tablewrap'),hd=document.querySelector('#t thead');
+ const se=document.scrollingElement;if(se.scrollHeight>innerHeight+2){const wt=w.getBoundingClientRect().top;if(force||wt<0||wt>innerHeight*0.5)window.scrollBy(0,wt)}
+ const wr=w.getBoundingClientRect(),hh=hd.getBoundingClientRect().height,rr=r.getBoundingClientRect(),dt=r.nextElementSibling,db=dt&&dt.classList.contains('detail')?dt.getBoundingClientRect().bottom:rr.bottom;
+ const top=wr.top+hh;if(force||rr.top<top-1||db>wr.bottom+1)w.scrollTop+=rr.top-top}
+if(openId)revealOpen(true)
