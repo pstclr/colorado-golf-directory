@@ -41,30 +41,42 @@ function fillRegions(){const st=$('#state').value,nw=$('#network').value,cur=$('
  const ks=Object.keys(by).sort();$('#region').innerHTML='<option value="">All regions</option>'+ks.map(s=>{const o=[...by[s]].sort().map(r=>`<option value="${s}|${r}">${ks.length>1?s+' · ':''}${r}</option>`).join('');return o}).join('');
  if([...$('#region').options].some(o=>o.value==cur))$('#region').value=cur}
 fillRegions();
-function rows(){const q=$('#q').value.toLowerCase(),ty=$('#type').value,rg=$('#region').value,st=$('#state').value,ho=$('#holes').value,rk=$('#ranked').checked,pp=$('#popular').checked;
- let L=D.filter(c=>(!q||[c.name,c.city,c.architect].join(' ').toLowerCase().includes(q))&&(!ty||c.type==ty)&&(!st||c.state==st)&&(!rg||c.state+'|'+c.region==rg)&&(!rk||c.gd_state_rank||c.gd100_rank)&&(!pp||c.popular_rank)
+function rows(){const q=$('#q').value.toLowerCase(),ty=$('#type').value,rg=$('#region').value,st=$('#state').value,ho=$('#holes').value,rk=$('#ranked').checked;
+ let L=D.filter(c=>(!q||[c.name,c.city,c.architect].join(' ').toLowerCase().includes(q))&&(!ty||c.type==ty)&&(!st||c.state==st)&&(!rg||c.state+'|'+c.region==rg)&&(!rk||c.gd_state_rank||c.gd100_rank)
   &&(!ho||(ho=='27'?c.holes>=27:c.holes==+ho)));
  L.sort((a,b)=>{let x=a[sortK],y=b[sortK];
   if(x==null&&y==null)return a.name.localeCompare(b.name);if(x==null)return 1;if(y==null)return -1;
   return (typeof x=='string'?x.localeCompare(y):x-y)*(asc?1:-1)||a.name.localeCompare(b.name)});return L}
+function tourn(c){const T=c.tournaments;if(!T||!T.length)return'';const G=[],m={};
+ T.forEach(e=>{const k=e.event+'|'+e.tour;if(!m[k]){m[k]={event:e.event,tour:e.tour,major:e.major,list:[]};G.push(m[k])}m[k].list.push(e)});
+ G.forEach(g=>g.list.sort((a,b)=>a.year-b.year));
+ G.sort((a,b)=>(!!b.major-!!a.major)||(a.list[0].year-b.list[0].year));
+ const yrs=l=>{const o=[];let i=0;while(i<l.length){let j=i;while(j+1<l.length&&l[j+1].year==l[j].year+1&&!l[j+1].note&&!l[i].note&&!!l[j+1].scheduled==!!l[i].scheduled)j++;
+  const e=l[i],t=j>i+1?`${l[i].year}–${l[j].year}`:null;const one=x=>`<span${x.note?` title="${x.note.replace(/"/g,'&quot;')}" class="tnote"`:''}>${x.year}${x.scheduled?' <span class="tsch">(scheduled)</span>':''}${x.note?'*':''}</span>`;
+  o.push(t?`<span>${t}</span>`:l.slice(i,j+1).map(one).join(', '));i=j+1}return o.join(', ')};
+ const src=l=>[...new Set(l.map(e=>e.source))].map((u,k)=>`<a href="${u}" target="_blank" rel="noopener" title="Source">[${k+1}]</a>`).join('');
+ return`<div class="tourn"><h4>Tournaments</h4>${G.map(g=>`<div class="tev${g.major?' tmajor':''}"><div class="tname">${g.major?`<span class="rk100">${g.event}</span><span class="tmaj">${g.major}</span>`:`<b>${g.event}</b>`}</div><div class="tmeta"><span class="tag">${g.tour}</span><span class="tyrs">${yrs(g.list)} ${src(g.list)}</span></div></div>`).join('')}</div>`}
 function detail(c){const kv=(k,v)=>`<div class="kv${v!=null&&String(v).replace(/<[^>]+>/g,'').length>34?' stack':''}"><span>${k}</span><span>${f(v)}</span></div>`;
  const ph=c.photo?`<figure class="cphoto"><img loading="lazy" decoding="async" src="${c.photo.path}" alt="${c.name}"><figcaption>Photo: ${c.photo.author} · <a href="${c.photo.source_url}" target="_blank" rel="noopener">Wikimedia Commons</a> · ${c.photo.license_url?`<a href="${c.photo.license_url}" target="_blank" rel="noopener">${c.photo.license}</a>`:c.photo.license}</figcaption></figure>`:'';
  return`<tr class="detail"><td colspan="16"><div class="grid">
  <div><h4>Course</h4>${kv('Address',c.address?`<a href="${gmapsUrl(c)}" target="_blank" rel="noopener">${c.address}</a>`:null)}${kv('State',c.state)}${kv('Region',c.region)}${kv('Type (source)',c.type_raw)}${kv('Holes / Par',(c.holes||'—')+' / '+(c.par||'—'))}${kv('Yardage (max)',c.yardage&&c.yardage.toLocaleString())}${kv('Elevation',c.elevation_ft&&c.elevation_ft.toLocaleString()+' ft')}${kv('Architect',c.architect_parts?c.architect_parts.map(([t,u])=>u?`<a href="${u}" target="_blank" rel="noopener">${t}</a>`:t).join(''):null)}${kv('Opened',c.year_opened)}</div>
  <div><h4>Rankings &amp; tee data</h4>${c.status_note?kv('Status',`<span class="closed">${c.status_note}</span> <a href="${c.status_source}" target="_blank" rel="noopener" title="Source">[src]</a>`):''}${kv("GD America's 100 Greatest",c.gd100_rank?`<span class="rk100">#${c.gd100_rank}</span> <span class="tag">(${c.gd100_edition})</span>`:null)}${kv(`GD Best in State (${c.state})`,c.gd_state_rank?`#${c.gd_state_rank} <span class="tag">(${c.gd_state_edition})</span>`:null)}${kv('Listed by GD as',c.gd_state_name)}${kv('Back tee',c.back_tee?c.back_tee+' · '+c.rating+'/'+c.slope+' · par '+c.back_par:null)}${isPriv(c)?kv('Network',c.networks?c.networks.join(', '):null)+kv('Reciprocal play',c.reciprocal?c.reciprocal+' '+c.access_sources.map((u,k)=>`<a href="${u}" target="_blank" rel="noopener" title="Source">[${k+1}]</a>`).join(''):null):''}</div>
+ ${tourn(c)}
  <div><h4>Rates & contact</h4>${pick(c)?`<div class="bkrow">${bookBtn(c,true)}</div>`:''}${c.green_fees_text?kv('Green fees (course-published)',c.green_fees_text):''}${c.twilight_text?kv('Twilight (course-published)',c.twilight_text):''}${kv('Phone',c.phone)}${kv('Website',c.website?`<a href="${c.website}" target="_blank">${c.website.replace(/https?:\/\/(www\.)?/,'').replace(/\/$/,'')}</a>`:null)}${kv('Amenities',(c.amenities||[]).join(', '))}</div>
  <div><h4>Tees</h4><table class="tees"><tr><th>Tee</th><th>Yds</th><th>Rating</th><th>Slope</th></tr>${(c.tees||[]).map(t=>`<tr><td>${t.tee_name} ${t.gender?'('+t.gender[0]+')':''}</td><td>${f(t.yardage)}</td><td>${f(t.course_rating)}</td><td>${f(t.slope)}</td></tr>`).join('')||'<tr><td colspan=4 class=tag>No tee data</td></tr>'}</table></div>
  <div><h4>Sources</h4>${[...c.sources,c.gd_state_source,c.gd100_source].filter(Boolean).map(u=>`<div><a href="${u.split(' ')[0]}" target="_blank">${u.replace(/https?:\/\//,'').slice(0,60)}</a></div>`).join('')}</div>${ph?`<div class="phslot">${ph}</div>`:''}
  </div></td></tr>`}
 function render(){const L=rows();$('#count').textContent=`${L.length} of ${D.length} courses · ${D.filter(c=>c.gd_state_rank).length} ranked by Golf Digest (CO, 2025-26)`;
  document.querySelectorAll('th[data-k]').forEach(th=>{th.classList.toggle('sorted',th.dataset.k==sortK);th.classList.toggle('asc',asc)});
- $('#t tbody').innerHTML=L.map(c=>`<tr class="row ${openId==c.id?'open':''}" data-id="${c.id}"><td class="name" title="${c.name.replace(/"/g,'&quot;')}">${c.popular_rank?`<span class="nm">${c.name}</span>`:c.name}${c.popular_rank?'<span class="pop" title="Among the 10 most-discussed Colorado courses online">Popular</span>':''}</td><td>${f(c.state)}</td><td>${f(c.city)}</td><td class="tag">${f(c.region)}</td><td class="tag">${c.type}</td>
+ $('#t tbody').innerHTML=L.map(c=>`<tr class="row ${openId==c.id?'open':''}" data-id="${c.id}"><td class="name" title="${c.name.replace(/"/g,'&quot;')}">${c.name}</td><td>${f(c.state)}</td><td>${f(c.city)}</td><td class="tag">${f(c.region)}</td><td class="tag">${c.type}</td>
  <td class="num">${c.gd100_rank?`<span class="rk100">${c.gd100_rank}</span>`:f(null)}</td><td class="num">${c.gd_state_rank?`<span class="rk">${c.gd_state_rank}</span>`:f(null)}</td><td class="num">${f(c.holes)}</td><td class="num">${f(c.par)}</td><td class="num">${c.yardage?c.yardage.toLocaleString():f(null)}</td>
  <td class="num">${f(c.rating)}</td><td class="num">${f(c.slope)}</td><td class="num">${c.elevation_ft?c.elevation_ft.toLocaleString():f(null)}</td><td class="num">${bookBtn(c)}</td></tr>${openId==c.id?detail(c):''}`).join('')}
 document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK==k)asc=!asc;else{sortK=k;asc=['name','state','city','region','type','gd_state_rank','gd100_rank'].includes(k)}render()});
 $('#t tbody').onclick=e=>{const r=e.target.closest('tr.row');if(!r||e.target.closest('a'))return;openId=openId==r.dataset.id?null:r.dataset.id;render()};
-['#q','#type','#region','#holes','#ranked','#popular','#network'].forEach(s=>$(s).oninput=render);
+['#q','#type','#region','#holes','#ranked','#network'].forEach(s=>$(s).oninput=render);
 $('#state').oninput=()=>{fillRegions();render()};
 const P=new URLSearchParams(location.search);if(P.get('sort')){sortK=P.get('sort');asc=P.get('dir')!='desc'}
+if(P.get('q'))$('#q').value=P.get('q');
 if(P.get('open')){const o=D.find(c=>c.name==P.get('open'));if(o)openId=o.id}
 render();
+if(openId){const r=document.querySelector('tr.row.open');if(r)r.scrollIntoView({block:'start'})}
